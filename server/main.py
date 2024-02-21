@@ -16,6 +16,10 @@ def is_valid_year(year):
         pass
     return False
 
+@app.route('/', methods=['GET'])
+def index():
+    return "Welcome to Natural Disaster Prediction API"
+
 @app.route('/predict_disasters', methods=['GET'])
 def get_predictions():
     year = request.args.get('year', type=int)
@@ -28,4 +32,4 @@ def get_predictions():
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=5000)

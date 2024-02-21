@@ -25,8 +25,7 @@ def get_predictions():
         return jsonify({'error': 'Year is out of bounds'}), 400
     predictions = predict_by_year(year)
     return predictions, 200
-    # return jsonify(dummy_data), 200
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()

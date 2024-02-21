@@ -1,0 +1,8891 @@
+state,fy_declared,incident_type,is_occured
+GA,1953,Flood,0
+GA,1953,Severe Storm,0
+GA,1953,Fire,0
+GA,1953,Hurricane,0
+GA,1953,Tornado,1
+TX,1953,Flood,1
+TX,1953,Severe Storm,0
+TX,1953,Fire,0
+TX,1953,Hurricane,0
+TX,1953,Tornado,1
+LA,1953,Flood,1
+LA,1953,Severe Storm,0
+LA,1953,Fire,0
+LA,1953,Hurricane,0
+LA,1953,Tornado,0
+MI,1953,Flood,0
+MI,1953,Severe Storm,0
+MI,1953,Fire,0
+MI,1953,Hurricane,0
+MI,1953,Tornado,1
+MT,1953,Flood,1
+MT,1953,Severe Storm,0
+MT,1953,Fire,0
+MT,1953,Hurricane,0
+MT,1953,Tornado,0
+IA,1953,Flood,1
+IA,1953,Severe Storm,0
+IA,1953,Fire,0
+IA,1953,Hurricane,0
+IA,1953,Tornado,0
+MA,1953,Flood,0
+MA,1953,Severe Storm,0
+MA,1953,Fire,0
+MA,1953,Hurricane,0
+MA,1953,Tornado,1
+NH,1953,Flood,0
+NH,1953,Severe Storm,0
+NH,1953,Fire,1
+NH,1953,Hurricane,0
+NH,1953,Tornado,0
+FL,1954,Flood,1
+FL,1954,Severe Storm,0
+FL,1954,Fire,0
+FL,1954,Hurricane,0
+FL,1954,Tornado,0
+MS,1954,Flood,0
+MS,1954,Severe Storm,0
+MS,1954,Fire,0
+MS,1954,Hurricane,0
+MS,1954,Tornado,1
+CA,1954,Flood,1
+CA,1954,Severe Storm,0
+CA,1954,Fire,0
+CA,1954,Hurricane,0
+CA,1954,Tornado,0
+GA,1954,Flood,0
+GA,1954,Severe Storm,0
+GA,1954,Fire,0
+GA,1954,Hurricane,0
+GA,1954,Tornado,1
+IA,1954,Flood,1
+IA,1954,Severe Storm,0
+IA,1954,Fire,0
+IA,1954,Hurricane,0
+IA,1954,Tornado,0
+TX,1954,Flood,1
+TX,1954,Severe Storm,0
+TX,1954,Fire,0
+TX,1954,Hurricane,0
+TX,1954,Tornado,0
+SD,1954,Flood,1
+SD,1954,Severe Storm,0
+SD,1954,Fire,0
+SD,1954,Hurricane,0
+SD,1954,Tornado,0
+WV,1954,Flood,1
+WV,1954,Severe Storm,0
+WV,1954,Fire,0
+WV,1954,Hurricane,0
+WV,1954,Tornado,0
+RI,1954,Flood,0
+RI,1954,Severe Storm,0
+RI,1954,Fire,0
+RI,1954,Hurricane,1
+RI,1954,Tornado,0
+MA,1954,Flood,0
+MA,1954,Severe Storm,0
+MA,1954,Fire,0
+MA,1954,Hurricane,1
+MA,1954,Tornado,0
+ME,1954,Flood,0
+ME,1954,Severe Storm,0
+ME,1954,Fire,0
+ME,1954,Hurricane,1
+ME,1954,Tornado,0
+CT,1954,Flood,0
+CT,1954,Severe Storm,0
+CT,1954,Fire,0
+CT,1954,Hurricane,1
+CT,1954,Tornado,0
+NY,1955,Flood,0
+NY,1955,Severe Storm,0
+NY,1955,Fire,0
+NY,1955,Hurricane,1
+NY,1955,Tornado,0
+NM,1955,Flood,1
+NM,1955,Severe Storm,0
+NM,1955,Fire,0
+NM,1955,Hurricane,0
+NM,1955,Tornado,0
+SC,1955,Flood,0
+SC,1955,Severe Storm,0
+SC,1955,Fire,0
+SC,1955,Hurricane,1
+SC,1955,Tornado,0
+NC,1955,Flood,0
+NC,1955,Severe Storm,0
+NC,1955,Fire,0
+NC,1955,Hurricane,1
+NC,1955,Tornado,0
+IN,1955,Flood,1
+IN,1955,Severe Storm,0
+IN,1955,Fire,0
+IN,1955,Hurricane,0
+IN,1955,Tornado,0
+CO,1955,Flood,1
+CO,1955,Severe Storm,0
+CO,1955,Fire,0
+CO,1955,Hurricane,0
+CO,1955,Tornado,0
+KS,1955,Flood,0
+KS,1955,Severe Storm,0
+KS,1955,Fire,0
+KS,1955,Hurricane,0
+KS,1955,Tornado,1
+OK,1955,Flood,1
+OK,1955,Severe Storm,0
+OK,1955,Fire,0
+OK,1955,Hurricane,0
+OK,1955,Tornado,0
+NV,1955,Flood,1
+NV,1955,Severe Storm,0
+NV,1955,Fire,0
+NV,1955,Hurricane,0
+NV,1955,Tornado,0
+MA,1955,Flood,0
+MA,1955,Severe Storm,0
+MA,1955,Fire,0
+MA,1955,Hurricane,1
+MA,1955,Tornado,0
+CT,1955,Flood,0
+CT,1955,Severe Storm,0
+CT,1955,Fire,0
+CT,1955,Hurricane,1
+CT,1955,Tornado,0
+NJ,1955,Flood,0
+NJ,1955,Severe Storm,0
+NJ,1955,Fire,0
+NJ,1955,Hurricane,1
+NJ,1955,Tornado,0
+PA,1955,Flood,1
+PA,1955,Severe Storm,0
+PA,1955,Fire,0
+PA,1955,Hurricane,0
+PA,1955,Tornado,0
+RI,1955,Flood,0
+RI,1955,Severe Storm,0
+RI,1955,Fire,0
+RI,1955,Hurricane,1
+RI,1955,Tornado,0
+CA,1956,Flood,1
+CA,1956,Severe Storm,0
+CA,1956,Fire,0
+CA,1956,Hurricane,0
+CA,1956,Tornado,0
+NV,1956,Flood,1
+NV,1956,Severe Storm,0
+NV,1956,Fire,0
+NV,1956,Hurricane,0
+NV,1956,Tornado,0
+OR,1956,Flood,1
+OR,1956,Severe Storm,0
+OR,1956,Fire,0
+OR,1956,Hurricane,0
+OR,1956,Tornado,0
+WA,1956,Flood,1
+WA,1956,Severe Storm,0
+WA,1956,Fire,0
+WA,1956,Hurricane,0
+WA,1956,Tornado,0
+PA,1956,Flood,1
+PA,1956,Severe Storm,1
+PA,1956,Fire,0
+PA,1956,Hurricane,0
+PA,1956,Tornado,0
+NY,1956,Flood,1
+NY,1956,Severe Storm,0
+NY,1956,Fire,0
+NY,1956,Hurricane,0
+NY,1956,Tornado,0
+MI,1956,Flood,0
+MI,1956,Severe Storm,0
+MI,1956,Fire,0
+MI,1956,Hurricane,0
+MI,1956,Tornado,1
+OK,1956,Flood,0
+OK,1956,Severe Storm,0
+OK,1956,Fire,0
+OK,1956,Hurricane,0
+OK,1956,Tornado,1
+ID,1956,Flood,1
+ID,1956,Severe Storm,0
+ID,1956,Fire,0
+ID,1956,Hurricane,0
+ID,1956,Tornado,0
+NC,1956,Flood,0
+NC,1956,Severe Storm,1
+NC,1956,Fire,0
+NC,1956,Hurricane,0
+NC,1956,Tornado,0
+CO,1956,Flood,1
+CO,1956,Severe Storm,0
+CO,1956,Fire,0
+CO,1956,Hurricane,0
+CO,1956,Tornado,0
+LA,1957,Flood,0
+LA,1957,Severe Storm,0
+LA,1957,Fire,0
+LA,1957,Hurricane,1
+LA,1957,Tornado,0
+CA,1957,Flood,0
+CA,1957,Severe Storm,0
+CA,1957,Fire,1
+CA,1957,Hurricane,0
+CA,1957,Tornado,0
+WV,1957,Flood,1
+WV,1957,Severe Storm,0
+WV,1957,Fire,0
+WV,1957,Hurricane,0
+WV,1957,Tornado,0
+KY,1957,Flood,1
+KY,1957,Severe Storm,0
+KY,1957,Fire,0
+KY,1957,Hurricane,0
+KY,1957,Tornado,0
+VA,1957,Flood,1
+VA,1957,Severe Storm,0
+VA,1957,Fire,0
+VA,1957,Hurricane,0
+VA,1957,Tornado,0
+OR,1957,Flood,1
+OR,1957,Severe Storm,0
+OR,1957,Fire,0
+OR,1957,Hurricane,0
+OR,1957,Tornado,0
+WA,1957,Flood,1
+WA,1957,Severe Storm,0
+WA,1957,Fire,0
+WA,1957,Hurricane,0
+WA,1957,Tornado,0
+TX,1957,Flood,0
+TX,1957,Severe Storm,0
+TX,1957,Fire,0
+TX,1957,Hurricane,1
+TX,1957,Tornado,0
+OK,1957,Flood,1
+OK,1957,Severe Storm,0
+OK,1957,Fire,0
+OK,1957,Hurricane,0
+OK,1957,Tornado,0
+MO,1957,Flood,0
+MO,1957,Severe Storm,0
+MO,1957,Fire,0
+MO,1957,Hurricane,0
+MO,1957,Tornado,1
+ID,1957,Flood,1
+ID,1957,Severe Storm,0
+ID,1957,Fire,0
+ID,1957,Hurricane,0
+ID,1957,Tornado,0
+AR,1957,Flood,0
+AR,1957,Severe Storm,0
+AR,1957,Fire,0
+AR,1957,Hurricane,0
+AR,1957,Tornado,1
+MN,1957,Flood,1
+MN,1957,Severe Storm,0
+MN,1957,Fire,0
+MN,1957,Hurricane,0
+MN,1957,Tornado,0
+ND,1957,Flood,0
+ND,1957,Severe Storm,0
+ND,1957,Fire,0
+ND,1957,Hurricane,0
+ND,1957,Tornado,1
+IL,1957,Flood,1
+IL,1957,Severe Storm,0
+IL,1957,Fire,0
+IL,1957,Hurricane,0
+IL,1957,Tornado,0
+KS,1957,Flood,1
+KS,1957,Severe Storm,0
+KS,1957,Fire,0
+KS,1957,Hurricane,0
+KS,1957,Tornado,0
+CA,1958,Flood,1
+CA,1958,Severe Storm,0
+CA,1958,Fire,0
+CA,1958,Hurricane,0
+CA,1958,Tornado,0
+AR,1958,Flood,1
+AR,1958,Severe Storm,0
+AR,1958,Fire,0
+AR,1958,Hurricane,0
+AR,1958,Tornado,0
+LA,1958,Flood,1
+LA,1958,Severe Storm,0
+LA,1958,Fire,0
+LA,1958,Hurricane,0
+LA,1958,Tornado,0
+TX,1958,Flood,0
+TX,1958,Severe Storm,0
+TX,1958,Fire,0
+TX,1958,Hurricane,0
+TX,1958,Tornado,1
+IA,1958,Flood,1
+IA,1958,Severe Storm,0
+IA,1958,Fire,0
+IA,1958,Hurricane,0
+IA,1958,Tornado,0
+NC,1959,Flood,0
+NC,1959,Severe Storm,0
+NC,1959,Fire,0
+NC,1959,Hurricane,1
+NC,1959,Tornado,0
+KS,1959,Flood,1
+KS,1959,Severe Storm,0
+KS,1959,Fire,0
+KS,1959,Hurricane,0
+KS,1959,Tornado,0
+OH,1959,Flood,1
+OH,1959,Severe Storm,0
+OH,1959,Fire,0
+OH,1959,Hurricane,0
+OH,1959,Tornado,0
+PA,1959,Flood,1
+PA,1959,Severe Storm,0
+PA,1959,Fire,0
+PA,1959,Hurricane,0
+PA,1959,Tornado,0
+IN,1959,Flood,1
+IN,1959,Severe Storm,0
+IN,1959,Fire,0
+IN,1959,Hurricane,0
+IN,1959,Tornado,0
+TX,1959,Flood,1
+TX,1959,Severe Storm,0
+TX,1959,Fire,0
+TX,1959,Hurricane,0
+TX,1959,Tornado,0
+OK,1959,Flood,1
+OK,1959,Severe Storm,0
+OK,1959,Fire,0
+OK,1959,Hurricane,0
+OK,1959,Tornado,0
+HI,1959,Flood,0
+HI,1959,Severe Storm,0
+HI,1959,Fire,0
+HI,1959,Hurricane,1
+HI,1959,Tornado,0
+OK,1960,Flood,1
+OK,1960,Severe Storm,1
+OK,1960,Fire,0
+OK,1960,Hurricane,0
+OK,1960,Tornado,0
+NE,1960,Flood,1
+NE,1960,Severe Storm,0
+NE,1960,Fire,0
+NE,1960,Hurricane,0
+NE,1960,Tornado,0
+SD,1960,Flood,1
+SD,1960,Severe Storm,0
+SD,1960,Fire,0
+SD,1960,Hurricane,0
+SD,1960,Tornado,0
+MO,1960,Flood,1
+MO,1960,Severe Storm,0
+MO,1960,Fire,0
+MO,1960,Hurricane,0
+MO,1960,Tornado,0
+AR,1960,Flood,0
+AR,1960,Severe Storm,0
+AR,1960,Fire,0
+AR,1960,Hurricane,0
+AR,1960,Tornado,1
+TX,1960,Flood,0
+TX,1960,Severe Storm,1
+TX,1960,Fire,0
+TX,1960,Hurricane,0
+TX,1960,Tornado,0
+ID,1960,Flood,0
+ID,1960,Severe Storm,0
+ID,1960,Fire,1
+ID,1960,Hurricane,0
+ID,1960,Tornado,0
+FL,1960,Flood,0
+FL,1960,Severe Storm,0
+FL,1960,Fire,0
+FL,1960,Hurricane,1
+FL,1960,Tornado,0
+NC,1960,Flood,0
+NC,1960,Severe Storm,0
+NC,1960,Fire,0
+NC,1960,Hurricane,1
+NC,1960,Tornado,0
+AL,1961,Flood,1
+AL,1961,Severe Storm,0
+AL,1961,Fire,0
+AL,1961,Hurricane,0
+AL,1961,Tornado,0
+MS,1961,Flood,1
+MS,1961,Severe Storm,0
+MS,1961,Fire,0
+MS,1961,Hurricane,0
+MS,1961,Tornado,0
+GA,1961,Flood,1
+GA,1961,Severe Storm,0
+GA,1961,Fire,0
+GA,1961,Hurricane,0
+GA,1961,Tornado,0
+IA,1961,Flood,1
+IA,1961,Severe Storm,0
+IA,1961,Fire,0
+IA,1961,Hurricane,0
+IA,1961,Tornado,0
+AR,1961,Flood,1
+AR,1961,Severe Storm,0
+AR,1961,Fire,0
+AR,1961,Hurricane,0
+AR,1961,Tornado,0
+IN,1961,Flood,1
+IN,1961,Severe Storm,0
+IN,1961,Fire,0
+IN,1961,Hurricane,0
+IN,1961,Tornado,0
+IL,1961,Flood,1
+IL,1961,Severe Storm,0
+IL,1961,Fire,0
+IL,1961,Hurricane,0
+IL,1961,Tornado,0
+MO,1961,Flood,1
+MO,1961,Severe Storm,0
+MO,1961,Fire,0
+MO,1961,Hurricane,0
+MO,1961,Tornado,0
+ID,1961,Flood,1
+ID,1961,Severe Storm,0
+ID,1961,Fire,0
+ID,1961,Hurricane,0
+ID,1961,Tornado,0
+WV,1961,Flood,1
+WV,1961,Severe Storm,0
+WV,1961,Fire,0
+WV,1961,Hurricane,0
+WV,1961,Tornado,0
+TX,1961,Flood,0
+TX,1961,Severe Storm,0
+TX,1961,Fire,0
+TX,1961,Hurricane,1
+TX,1961,Tornado,0
+CA,1962,Flood,1
+CA,1962,Severe Storm,0
+CA,1962,Fire,1
+CA,1962,Hurricane,0
+CA,1962,Tornado,0
+ID,1962,Flood,1
+ID,1962,Severe Storm,0
+ID,1962,Fire,0
+ID,1962,Hurricane,0
+ID,1962,Tornado,0
+NV,1962,Flood,1
+NV,1962,Severe Storm,0
+NV,1962,Fire,0
+NV,1962,Hurricane,0
+NV,1962,Tornado,0
+MD,1962,Flood,1
+MD,1962,Severe Storm,0
+MD,1962,Fire,0
+MD,1962,Hurricane,0
+MD,1962,Tornado,0
+DE,1962,Flood,1
+DE,1962,Severe Storm,0
+DE,1962,Fire,0
+DE,1962,Hurricane,0
+DE,1962,Tornado,0
+WV,1962,Flood,1
+WV,1962,Severe Storm,0
+WV,1962,Fire,0
+WV,1962,Hurricane,0
+WV,1962,Tornado,0
+NJ,1962,Flood,1
+NJ,1962,Severe Storm,0
+NJ,1962,Fire,0
+NJ,1962,Hurricane,0
+NJ,1962,Tornado,0
+VA,1962,Flood,1
+VA,1962,Severe Storm,0
+VA,1962,Fire,0
+VA,1962,Hurricane,0
+VA,1962,Tornado,0
+KY,1962,Flood,1
+KY,1962,Severe Storm,0
+KY,1962,Fire,0
+KY,1962,Hurricane,0
+KY,1962,Tornado,0
+NC,1962,Flood,1
+NC,1962,Severe Storm,0
+NC,1962,Fire,0
+NC,1962,Hurricane,0
+NC,1962,Tornado,0
+NY,1962,Flood,1
+NY,1962,Severe Storm,0
+NY,1962,Fire,0
+NY,1962,Hurricane,0
+NY,1962,Tornado,0
+NE,1962,Flood,1
+NE,1962,Severe Storm,0
+NE,1962,Fire,0
+NE,1962,Hurricane,0
+NE,1962,Tornado,0
+SD,1962,Flood,1
+SD,1962,Severe Storm,0
+SD,1962,Fire,0
+SD,1962,Hurricane,0
+SD,1962,Tornado,0
+IA,1962,Flood,1
+IA,1962,Severe Storm,0
+IA,1962,Fire,0
+IA,1962,Hurricane,0
+IA,1962,Tornado,0
+OR,1963,Flood,1
+OR,1963,Severe Storm,1
+OR,1963,Fire,0
+OR,1963,Hurricane,0
+OR,1963,Tornado,0
+WA,1963,Flood,1
+WA,1963,Severe Storm,1
+WA,1963,Fire,0
+WA,1963,Hurricane,0
+WA,1963,Tornado,0
+CA,1963,Flood,1
+CA,1963,Severe Storm,0
+CA,1963,Fire,0
+CA,1963,Hurricane,0
+CA,1963,Tornado,0
+FL,1963,Flood,1
+FL,1963,Severe Storm,0
+FL,1963,Fire,0
+FL,1963,Hurricane,0
+FL,1963,Tornado,0
+ID,1963,Flood,1
+ID,1963,Severe Storm,0
+ID,1963,Fire,0
+ID,1963,Hurricane,0
+ID,1963,Tornado,0
+NV,1963,Flood,1
+NV,1963,Severe Storm,0
+NV,1963,Fire,0
+NV,1963,Hurricane,0
+NV,1963,Tornado,0
+KY,1963,Flood,1
+KY,1963,Severe Storm,0
+KY,1963,Fire,0
+KY,1963,Hurricane,0
+KY,1963,Tornado,0
+WV,1963,Flood,1
+WV,1963,Severe Storm,0
+WV,1963,Fire,0
+WV,1963,Hurricane,0
+WV,1963,Tornado,0
+VA,1963,Flood,1
+VA,1963,Severe Storm,0
+VA,1963,Fire,0
+VA,1963,Hurricane,0
+VA,1963,Tornado,0
+GA,1963,Flood,1
+GA,1963,Severe Storm,0
+GA,1963,Fire,0
+GA,1963,Hurricane,0
+GA,1963,Tornado,0
+TN,1963,Flood,1
+TN,1963,Severe Storm,0
+TN,1963,Fire,0
+TN,1963,Hurricane,0
+TN,1963,Tornado,0
+HI,1963,Flood,1
+HI,1963,Severe Storm,0
+HI,1963,Fire,0
+HI,1963,Hurricane,0
+HI,1963,Tornado,0
+WY,1963,Flood,1
+WY,1963,Severe Storm,0
+WY,1963,Fire,0
+WY,1963,Hurricane,0
+WY,1963,Tornado,0
+NE,1963,Flood,1
+NE,1963,Severe Storm,0
+NE,1963,Fire,0
+NE,1963,Hurricane,0
+NE,1963,Tornado,0
+AR,1963,Flood,1
+AR,1963,Severe Storm,0
+AR,1963,Fire,0
+AR,1963,Hurricane,0
+AR,1963,Tornado,0
+NY,1963,Flood,1
+NY,1963,Severe Storm,0
+NY,1963,Fire,0
+NY,1963,Hurricane,0
+NY,1963,Tornado,0
+TX,1963,Flood,0
+TX,1963,Severe Storm,0
+TX,1963,Fire,0
+TX,1963,Hurricane,1
+TX,1963,Tornado,0
+VT,1964,Flood,1
+VT,1964,Severe Storm,0
+VT,1964,Fire,0
+VT,1964,Hurricane,0
+VT,1964,Tornado,0
+KY,1964,Flood,1
+KY,1964,Severe Storm,0
+KY,1964,Fire,0
+KY,1964,Hurricane,0
+KY,1964,Tornado,0
+IN,1964,Flood,1
+IN,1964,Severe Storm,0
+IN,1964,Fire,0
+IN,1964,Hurricane,0
+IN,1964,Tornado,0
+AR,1964,Flood,1
+AR,1964,Severe Storm,0
+AR,1964,Fire,0
+AR,1964,Hurricane,0
+AR,1964,Tornado,0
+WV,1964,Flood,1
+WV,1964,Severe Storm,0
+WV,1964,Fire,0
+WV,1964,Hurricane,0
+WV,1964,Tornado,0
+OH,1964,Flood,1
+OH,1964,Severe Storm,0
+OH,1964,Fire,0
+OH,1964,Hurricane,0
+OH,1964,Tornado,0
+MT,1964,Flood,1
+MT,1964,Severe Storm,0
+MT,1964,Fire,0
+MT,1964,Hurricane,0
+MT,1964,Tornado,0
+MO,1964,Flood,1
+MO,1964,Severe Storm,0
+MO,1964,Fire,0
+MO,1964,Hurricane,0
+MO,1964,Tornado,0
+NE,1964,Flood,1
+NE,1964,Severe Storm,0
+NE,1964,Fire,0
+NE,1964,Hurricane,0
+NE,1964,Tornado,0
+FL,1964,Flood,0
+FL,1964,Severe Storm,0
+FL,1964,Fire,0
+FL,1964,Hurricane,1
+FL,1964,Tornado,0
+GA,1964,Flood,0
+GA,1964,Severe Storm,0
+GA,1964,Fire,0
+GA,1964,Hurricane,1
+GA,1964,Tornado,0
+LA,1965,Flood,0
+LA,1965,Severe Storm,0
+LA,1965,Fire,0
+LA,1965,Hurricane,1
+LA,1965,Tornado,0
+NC,1965,Flood,1
+NC,1965,Severe Storm,0
+NC,1965,Fire,0
+NC,1965,Hurricane,0
+NC,1965,Tornado,0
+GA,1965,Flood,1
+GA,1965,Severe Storm,0
+GA,1965,Fire,0
+GA,1965,Hurricane,0
+GA,1965,Tornado,0
+OR,1965,Flood,1
+OR,1965,Severe Storm,0
+OR,1965,Fire,0
+OR,1965,Hurricane,0
+OR,1965,Tornado,0
+CA,1965,Flood,1
+CA,1965,Severe Storm,0
+CA,1965,Fire,0
+CA,1965,Hurricane,0
+CA,1965,Tornado,0
+WA,1965,Flood,1
+WA,1965,Severe Storm,0
+WA,1965,Fire,0
+WA,1965,Hurricane,0
+WA,1965,Tornado,0
+ID,1965,Flood,1
+ID,1965,Severe Storm,0
+ID,1965,Fire,0
+ID,1965,Hurricane,0
+ID,1965,Tornado,0
+NV,1965,Flood,1
+NV,1965,Severe Storm,0
+NV,1965,Fire,0
+NV,1965,Hurricane,0
+NV,1965,Tornado,0
+MN,1965,Flood,1
+MN,1965,Severe Storm,0
+MN,1965,Fire,0
+MN,1965,Hurricane,0
+MN,1965,Tornado,0
+OH,1965,Flood,0
+OH,1965,Severe Storm,0
+OH,1965,Fire,0
+OH,1965,Hurricane,0
+OH,1965,Tornado,1
+MI,1965,Flood,0
+MI,1965,Severe Storm,0
+MI,1965,Fire,0
+MI,1965,Hurricane,0
+MI,1965,Tornado,1
+IN,1965,Flood,0
+IN,1965,Severe Storm,0
+IN,1965,Fire,0
+IN,1965,Hurricane,0
+IN,1965,Tornado,1
+WI,1965,Flood,0
+WI,1965,Severe Storm,0
+WI,1965,Fire,0
+WI,1965,Hurricane,0
+WI,1965,Tornado,1
+IA,1965,Flood,1
+IA,1965,Severe Storm,0
+IA,1965,Fire,0
+IA,1965,Hurricane,0
+IA,1965,Tornado,0
+IL,1965,Flood,0
+IL,1965,Severe Storm,0
+IL,1965,Fire,0
+IL,1965,Hurricane,0
+IL,1965,Tornado,1
+ND,1965,Flood,1
+ND,1965,Severe Storm,0
+ND,1965,Fire,0
+ND,1965,Hurricane,0
+ND,1965,Tornado,0
+SD,1965,Flood,1
+SD,1965,Severe Storm,0
+SD,1965,Fire,0
+SD,1965,Hurricane,0
+SD,1965,Tornado,0
+MO,1965,Flood,1
+MO,1965,Severe Storm,1
+MO,1965,Fire,0
+MO,1965,Hurricane,0
+MO,1965,Tornado,0
+CO,1965,Flood,0
+CO,1965,Severe Storm,0
+CO,1965,Fire,0
+CO,1965,Hurricane,0
+CO,1965,Tornado,1
+TX,1965,Flood,0
+TX,1965,Severe Storm,0
+TX,1965,Fire,0
+TX,1965,Hurricane,0
+TX,1965,Tornado,1
+KS,1965,Flood,1
+KS,1965,Severe Storm,0
+KS,1965,Fire,0
+KS,1965,Hurricane,0
+KS,1965,Tornado,0
+NM,1965,Flood,1
+NM,1965,Severe Storm,0
+NM,1965,Fire,0
+NM,1965,Hurricane,0
+NM,1965,Tornado,0
+FL,1965,Flood,0
+FL,1965,Severe Storm,0
+FL,1965,Fire,0
+FL,1965,Hurricane,1
+FL,1965,Tornado,0
+MS,1965,Flood,0
+MS,1965,Severe Storm,0
+MS,1965,Fire,0
+MS,1965,Hurricane,1
+MS,1965,Tornado,0
+CA,1966,Flood,1
+CA,1966,Severe Storm,0
+CA,1966,Fire,0
+CA,1966,Hurricane,0
+CA,1966,Tornado,0
+GA,1966,Flood,1
+GA,1966,Severe Storm,0
+GA,1966,Fire,0
+GA,1966,Hurricane,0
+GA,1966,Tornado,0
+MN,1966,Flood,1
+MN,1966,Severe Storm,0
+MN,1966,Fire,0
+MN,1966,Hurricane,0
+MN,1966,Tornado,0
+ND,1966,Flood,1
+ND,1966,Severe Storm,0
+ND,1966,Fire,0
+ND,1966,Hurricane,0
+ND,1966,Tornado,0
+AZ,1966,Flood,1
+AZ,1966,Severe Storm,0
+AZ,1966,Fire,0
+AZ,1966,Hurricane,0
+AZ,1966,Tornado,0
+TX,1966,Flood,1
+TX,1966,Severe Storm,0
+TX,1966,Fire,0
+TX,1966,Hurricane,0
+TX,1966,Tornado,0
+KS,1966,Flood,0
+KS,1966,Severe Storm,0
+KS,1966,Fire,0
+KS,1966,Hurricane,0
+KS,1966,Tornado,1
+NE,1966,Flood,1
+NE,1966,Severe Storm,0
+NE,1966,Fire,0
+NE,1966,Hurricane,0
+NE,1966,Tornado,0
+CA,1967,Flood,1
+CA,1967,Severe Storm,0
+CA,1967,Fire,0
+CA,1967,Hurricane,0
+CA,1967,Tornado,0
+WV,1967,Flood,1
+WV,1967,Severe Storm,0
+WV,1967,Fire,0
+WV,1967,Hurricane,0
+WV,1967,Tornado,0
+KY,1967,Flood,1
+KY,1967,Severe Storm,0
+KY,1967,Fire,0
+KY,1967,Hurricane,0
+KY,1967,Tornado,0
+IL,1967,Flood,0
+IL,1967,Severe Storm,0
+IL,1967,Fire,0
+IL,1967,Hurricane,0
+IL,1967,Tornado,1
+KS,1967,Flood,0
+KS,1967,Severe Storm,0
+KS,1967,Fire,0
+KS,1967,Hurricane,0
+KS,1967,Tornado,1
+NE,1967,Flood,1
+NE,1967,Severe Storm,0
+NE,1967,Fire,0
+NE,1967,Hurricane,0
+NE,1967,Tornado,0
+AK,1967,Flood,1
+AK,1967,Severe Storm,0
+AK,1967,Fire,0
+AK,1967,Hurricane,0
+AK,1967,Tornado,0
+ID,1967,Flood,0
+ID,1967,Severe Storm,0
+ID,1967,Fire,1
+ID,1967,Hurricane,0
+ID,1967,Tornado,0
+TX,1967,Flood,0
+TX,1967,Severe Storm,0
+TX,1967,Fire,0
+TX,1967,Hurricane,1
+TX,1967,Tornado,0
+NY,1968,Flood,1
+NY,1968,Severe Storm,0
+NY,1968,Fire,0
+NY,1968,Hurricane,0
+NY,1968,Tornado,0
+AR,1968,Flood,0
+AR,1968,Severe Storm,0
+AR,1968,Fire,0
+AR,1968,Hurricane,0
+AR,1968,Tornado,1
+OH,1968,Flood,1
+OH,1968,Severe Storm,0
+OH,1968,Fire,0
+OH,1968,Hurricane,0
+OH,1968,Tornado,1
+KY,1968,Flood,0
+KY,1968,Severe Storm,0
+KY,1968,Fire,0
+KY,1968,Hurricane,0
+KY,1968,Tornado,1
+OK,1968,Flood,1
+OK,1968,Severe Storm,0
+OK,1968,Fire,0
+OK,1968,Hurricane,0
+OK,1968,Tornado,0
+IA,1968,Flood,1
+IA,1968,Severe Storm,0
+IA,1968,Fire,0
+IA,1968,Hurricane,0
+IA,1968,Tornado,1
+IL,1968,Flood,0
+IL,1968,Severe Storm,0
+IL,1968,Fire,0
+IL,1968,Hurricane,0
+IL,1968,Tornado,1
+TX,1968,Flood,1
+TX,1968,Severe Storm,0
+TX,1968,Fire,0
+TX,1968,Hurricane,0
+TX,1968,Tornado,0
+NJ,1968,Flood,1
+NJ,1968,Severe Storm,0
+NJ,1968,Fire,0
+NJ,1968,Hurricane,0
+NJ,1968,Tornado,0
+IN,1968,Flood,1
+IN,1968,Severe Storm,0
+IN,1968,Fire,0
+IN,1968,Hurricane,0
+IN,1968,Tornado,0
+MN,1968,Flood,1
+MN,1968,Severe Storm,0
+MN,1968,Fire,0
+MN,1968,Hurricane,0
+MN,1968,Tornado,0
+HI,1968,Flood,1
+HI,1968,Severe Storm,0
+HI,1968,Fire,0
+HI,1968,Hurricane,0
+HI,1968,Tornado,0
+FL,1969,Flood,0
+FL,1969,Severe Storm,0
+FL,1969,Fire,0
+FL,1969,Hurricane,1
+FL,1969,Tornado,0
+CA,1969,Flood,1
+CA,1969,Severe Storm,0
+CA,1969,Fire,0
+CA,1969,Hurricane,0
+CA,1969,Tornado,0
+AR,1969,Flood,1
+AR,1969,Severe Storm,0
+AR,1969,Fire,0
+AR,1969,Hurricane,0
+AR,1969,Tornado,0
+SD,1969,Flood,1
+SD,1969,Severe Storm,0
+SD,1969,Fire,0
+SD,1969,Hurricane,0
+SD,1969,Tornado,0
+ND,1969,Flood,1
+ND,1969,Severe Storm,0
+ND,1969,Fire,0
+ND,1969,Hurricane,0
+ND,1969,Tornado,0
+MN,1969,Flood,1
+MN,1969,Severe Storm,0
+MN,1969,Fire,0
+MN,1969,Hurricane,0
+MN,1969,Tornado,0
+NV,1969,Flood,1
+NV,1969,Severe Storm,0
+NV,1969,Fire,0
+NV,1969,Hurricane,0
+NV,1969,Tornado,0
+IA,1969,Flood,1
+IA,1969,Severe Storm,0
+IA,1969,Fire,0
+IA,1969,Hurricane,0
+IA,1969,Tornado,0
+WI,1969,Flood,1
+WI,1969,Severe Storm,0
+WI,1969,Fire,0
+WI,1969,Hurricane,0
+WI,1969,Tornado,0
+CO,1969,Flood,1
+CO,1969,Severe Storm,0
+CO,1969,Fire,0
+CO,1969,Hurricane,0
+CO,1969,Tornado,0
+IL,1969,Flood,1
+IL,1969,Severe Storm,0
+IL,1969,Fire,0
+IL,1969,Hurricane,0
+IL,1969,Tornado,0
+TN,1969,Flood,1
+TN,1969,Severe Storm,0
+TN,1969,Fire,0
+TN,1969,Hurricane,0
+TN,1969,Tornado,0
+KS,1969,Flood,0
+KS,1969,Severe Storm,0
+KS,1969,Fire,0
+KS,1969,Hurricane,0
+KS,1969,Tornado,1
+OH,1969,Flood,0
+OH,1969,Severe Storm,0
+OH,1969,Fire,0
+OH,1969,Hurricane,0
+OH,1969,Tornado,1
+KY,1969,Flood,1
+KY,1969,Severe Storm,0
+KY,1969,Fire,0
+KY,1969,Hurricane,0
+KY,1969,Tornado,0
+MS,1969,Flood,0
+MS,1969,Severe Storm,0
+MS,1969,Fire,0
+MS,1969,Hurricane,1
+MS,1969,Tornado,0
+PA,1969,Flood,1
+PA,1969,Severe Storm,0
+PA,1969,Fire,0
+PA,1969,Hurricane,0
+PA,1969,Tornado,0
+LA,1969,Flood,0
+LA,1969,Severe Storm,0
+LA,1969,Fire,0
+LA,1969,Hurricane,1
+LA,1969,Tornado,0
+VA,1969,Flood,0
+VA,1969,Severe Storm,0
+VA,1969,Fire,0
+VA,1969,Hurricane,1
+VA,1969,Tornado,0
+NY,1969,Flood,1
+NY,1969,Severe Storm,0
+NY,1969,Fire,0
+NY,1969,Hurricane,0
+NY,1969,Tornado,0
+VT,1969,Flood,1
+VT,1969,Severe Storm,0
+VT,1969,Fire,0
+VT,1969,Hurricane,0
+VT,1969,Tornado,0
+WV,1969,Flood,1
+WV,1969,Severe Storm,0
+WV,1969,Fire,0
+WV,1969,Hurricane,1
+WV,1969,Tornado,0
+AL,1970,Flood,0
+AL,1970,Severe Storm,1
+AL,1970,Fire,0
+AL,1970,Hurricane,1
+AL,1970,Tornado,0
+AK,1970,Flood,0
+AK,1970,Severe Storm,1
+AK,1970,Fire,1
+AK,1970,Hurricane,0
+AK,1970,Tornado,0
+KY,1970,Flood,1
+KY,1970,Severe Storm,0
+KY,1970,Fire,0
+KY,1970,Hurricane,0
+KY,1970,Tornado,0
+CA,1970,Flood,1
+CA,1970,Severe Storm,0
+CA,1970,Fire,1
+CA,1970,Hurricane,0
+CA,1970,Tornado,0
+ME,1970,Flood,1
+ME,1970,Severe Storm,0
+ME,1970,Fire,0
+ME,1970,Hurricane,0
+ME,1970,Tornado,0
+TX,1970,Flood,0
+TX,1970,Severe Storm,0
+TX,1970,Fire,0
+TX,1970,Hurricane,1
+TX,1970,Tornado,1
+ND,1970,Flood,1
+ND,1970,Severe Storm,0
+ND,1970,Fire,0
+ND,1970,Hurricane,0
+ND,1970,Tornado,0
+FL,1970,Flood,1
+FL,1970,Severe Storm,0
+FL,1970,Fire,0
+FL,1970,Hurricane,0
+FL,1970,Tornado,0
+WA,1970,Flood,0
+WA,1970,Severe Storm,0
+WA,1970,Fire,1
+WA,1970,Hurricane,0
+WA,1970,Tornado,0
+MN,1970,Flood,1
+MN,1970,Severe Storm,0
+MN,1970,Fire,0
+MN,1970,Hurricane,0
+MN,1970,Tornado,0
+NY,1970,Flood,1
+NY,1970,Severe Storm,0
+NY,1970,Fire,0
+NY,1970,Hurricane,0
+NY,1970,Tornado,0
+AZ,1970,Flood,1
+AZ,1970,Severe Storm,0
+AZ,1970,Fire,0
+AZ,1970,Hurricane,0
+AZ,1970,Tornado,0
+CO,1970,Flood,1
+CO,1970,Severe Storm,0
+CO,1970,Fire,0
+CO,1970,Hurricane,0
+CO,1970,Tornado,0
+OK,1971,Flood,1
+OK,1971,Severe Storm,1
+OK,1971,Fire,1
+OK,1971,Hurricane,0
+OK,1971,Tornado,0
+WA,1971,Flood,1
+WA,1971,Severe Storm,0
+WA,1971,Fire,0
+WA,1971,Hurricane,0
+WA,1971,Tornado,0
+OR,1971,Flood,1
+OR,1971,Severe Storm,0
+OR,1971,Fire,0
+OR,1971,Hurricane,0
+OR,1971,Tornado,0
+MS,1971,Flood,0
+MS,1971,Severe Storm,0
+MS,1971,Fire,0
+MS,1971,Hurricane,0
+MS,1971,Tornado,1
+NE,1971,Flood,1
+NE,1971,Severe Storm,0
+NE,1971,Fire,0
+NE,1971,Hurricane,0
+NE,1971,Tornado,0
+KY,1971,Flood,0
+KY,1971,Severe Storm,0
+KY,1971,Fire,0
+KY,1971,Hurricane,0
+KY,1971,Tornado,1
+TN,1971,Flood,0
+TN,1971,Severe Storm,0
+TN,1971,Fire,0
+TN,1971,Hurricane,0
+TN,1971,Tornado,1
+AK,1971,Flood,0
+AK,1971,Severe Storm,0
+AK,1971,Fire,1
+AK,1971,Hurricane,0
+AK,1971,Tornado,0
+MD,1971,Flood,1
+MD,1971,Severe Storm,0
+MD,1971,Fire,0
+MD,1971,Hurricane,0
+MD,1971,Tornado,0
+NJ,1971,Flood,1
+NJ,1971,Severe Storm,0
+NJ,1971,Fire,0
+NJ,1971,Hurricane,0
+NJ,1971,Tornado,0
+NY,1971,Flood,1
+NY,1971,Severe Storm,0
+NY,1971,Fire,0
+NY,1971,Hurricane,0
+NY,1971,Tornado,0
+TX,1971,Flood,1
+TX,1971,Severe Storm,0
+TX,1971,Fire,0
+TX,1971,Hurricane,0
+TX,1971,Tornado,0
+PA,1971,Flood,1
+PA,1971,Severe Storm,0
+PA,1971,Fire,0
+PA,1971,Hurricane,0
+PA,1971,Tornado,0
+LA,1972,Flood,0
+LA,1972,Severe Storm,0
+LA,1972,Fire,0
+LA,1972,Hurricane,1
+LA,1972,Tornado,0
+CA,1972,Flood,1
+CA,1972,Severe Storm,0
+CA,1972,Fire,0
+CA,1972,Hurricane,0
+CA,1972,Tornado,0
+OK,1972,Flood,1
+OK,1972,Severe Storm,0
+OK,1972,Fire,0
+OK,1972,Hurricane,0
+OK,1972,Tornado,0
+MS,1972,Flood,1
+MS,1972,Severe Storm,0
+MS,1972,Fire,0
+MS,1972,Hurricane,0
+MS,1972,Tornado,0
+OR,1972,Flood,1
+OR,1972,Severe Storm,0
+OR,1972,Fire,0
+OR,1972,Hurricane,0
+OR,1972,Tornado,0
+AR,1972,Flood,1
+AR,1972,Severe Storm,0
+AR,1972,Fire,0
+AR,1972,Hurricane,0
+AR,1972,Tornado,0
+TX,1972,Flood,1
+TX,1972,Severe Storm,0
+TX,1972,Fire,0
+TX,1972,Hurricane,0
+TX,1972,Tornado,0
+WA,1972,Flood,1
+WA,1972,Severe Storm,0
+WA,1972,Fire,0
+WA,1972,Hurricane,0
+WA,1972,Tornado,0
+WV,1972,Flood,1
+WV,1972,Severe Storm,0
+WV,1972,Fire,0
+WV,1972,Hurricane,0
+WV,1972,Tornado,0
+ID,1972,Flood,1
+ID,1972,Severe Storm,0
+ID,1972,Fire,0
+ID,1972,Hurricane,0
+ID,1972,Tornado,0
+MA,1972,Flood,1
+MA,1972,Severe Storm,0
+MA,1972,Fire,0
+MA,1972,Hurricane,0
+MA,1972,Tornado,0
+ME,1972,Flood,1
+ME,1972,Severe Storm,0
+ME,1972,Fire,0
+ME,1972,Hurricane,0
+ME,1972,Tornado,0
+KY,1972,Flood,1
+KY,1972,Severe Storm,0
+KY,1972,Fire,0
+KY,1972,Hurricane,0
+KY,1972,Tornado,0
+TN,1972,Flood,1
+TN,1972,Severe Storm,0
+TN,1972,Fire,0
+TN,1972,Hurricane,0
+TN,1972,Tornado,0
+SD,1972,Flood,1
+SD,1972,Severe Storm,0
+SD,1972,Fire,0
+SD,1972,Hurricane,0
+SD,1972,Tornado,0
+ND,1972,Flood,1
+ND,1972,Severe Storm,0
+ND,1972,Fire,0
+ND,1972,Hurricane,0
+ND,1972,Tornado,0
+MD,1972,Flood,1
+MD,1972,Severe Storm,0
+MD,1972,Fire,0
+MD,1972,Hurricane,0
+MD,1972,Tornado,0
+PA,1972,Flood,1
+PA,1972,Severe Storm,0
+PA,1972,Fire,0
+PA,1972,Hurricane,0
+PA,1972,Tornado,0
+VA,1972,Flood,1
+VA,1972,Severe Storm,0
+VA,1972,Fire,0
+VA,1972,Hurricane,0
+VA,1972,Tornado,0
+NY,1972,Flood,1
+NY,1972,Severe Storm,0
+NY,1972,Fire,0
+NY,1972,Hurricane,0
+NY,1972,Tornado,0
+AZ,1972,Flood,1
+AZ,1972,Severe Storm,0
+AZ,1972,Fire,0
+AZ,1972,Hurricane,0
+AZ,1972,Tornado,0
+OH,1972,Flood,1
+OH,1972,Severe Storm,0
+OH,1972,Fire,0
+OH,1972,Hurricane,0
+OH,1972,Tornado,0
+MN,1972,Flood,1
+MN,1972,Severe Storm,0
+MN,1972,Fire,0
+MN,1972,Hurricane,0
+MN,1972,Tornado,0
+NM,1972,Flood,1
+NM,1972,Severe Storm,0
+NM,1972,Fire,0
+NM,1972,Hurricane,0
+NM,1972,Tornado,0
+IA,1972,Flood,1
+IA,1972,Severe Storm,0
+IA,1972,Fire,0
+IA,1972,Hurricane,0
+IA,1972,Tornado,0
+IL,1972,Flood,1
+IL,1972,Severe Storm,0
+IL,1972,Fire,0
+IL,1972,Hurricane,0
+IL,1972,Tornado,0
+WI,1972,Flood,1
+WI,1972,Severe Storm,0
+WI,1972,Fire,0
+WI,1972,Hurricane,0
+WI,1972,Tornado,0
+VA,1973,Flood,1
+VA,1973,Severe Storm,0
+VA,1973,Fire,0
+VA,1973,Hurricane,0
+VA,1973,Tornado,0
+AZ,1973,Flood,1
+AZ,1973,Severe Storm,0
+AZ,1973,Fire,0
+AZ,1973,Hurricane,0
+AZ,1973,Tornado,0
+NM,1973,Flood,1
+NM,1973,Severe Storm,0
+NM,1973,Fire,0
+NM,1973,Hurricane,0
+NM,1973,Tornado,0
+OH,1973,Flood,1
+OH,1973,Severe Storm,0
+OH,1973,Fire,0
+OH,1973,Hurricane,0
+OH,1973,Tornado,0
+MI,1973,Flood,1
+MI,1973,Severe Storm,0
+MI,1973,Fire,0
+MI,1973,Hurricane,0
+MI,1973,Tornado,0
+CA,1973,Flood,1
+CA,1973,Severe Storm,0
+CA,1973,Fire,0
+CA,1973,Hurricane,0
+CA,1973,Tornado,0
+TX,1973,Flood,1
+TX,1973,Severe Storm,1
+TX,1973,Fire,0
+TX,1973,Hurricane,0
+TX,1973,Tornado,0
+NY,1973,Flood,1
+NY,1973,Severe Storm,0
+NY,1973,Fire,0
+NY,1973,Hurricane,0
+NY,1973,Tornado,0
+TN,1973,Flood,1
+TN,1973,Severe Storm,0
+TN,1973,Fire,0
+TN,1973,Hurricane,0
+TN,1973,Tornado,0
+AL,1973,Flood,1
+AL,1973,Severe Storm,0
+AL,1973,Fire,0
+AL,1973,Hurricane,0
+AL,1973,Tornado,1
+MS,1973,Flood,0
+MS,1973,Severe Storm,1
+MS,1973,Fire,0
+MS,1973,Hurricane,0
+MS,1973,Tornado,0
+GA,1973,Flood,0
+GA,1973,Severe Storm,0
+GA,1973,Fire,0
+GA,1973,Hurricane,0
+GA,1973,Tornado,1
+MO,1973,Flood,0
+MO,1973,Severe Storm,1
+MO,1973,Fire,0
+MO,1973,Hurricane,0
+MO,1973,Tornado,0
+IL,1973,Flood,1
+IL,1973,Severe Storm,0
+IL,1973,Fire,0
+IL,1973,Hurricane,0
+IL,1973,Tornado,0
+WI,1973,Flood,1
+WI,1973,Severe Storm,0
+WI,1973,Fire,0
+WI,1973,Hurricane,0
+WI,1973,Tornado,0
+AR,1973,Flood,1
+AR,1973,Severe Storm,0
+AR,1973,Fire,0
+AR,1973,Hurricane,0
+AR,1973,Tornado,0
+LA,1973,Flood,1
+LA,1973,Severe Storm,0
+LA,1973,Fire,0
+LA,1973,Hurricane,0
+LA,1973,Tornado,0
+KS,1973,Flood,1
+KS,1973,Severe Storm,1
+KS,1973,Fire,0
+KS,1973,Hurricane,0
+KS,1973,Tornado,0
+KY,1973,Flood,1
+KY,1973,Severe Storm,0
+KY,1973,Fire,0
+KY,1973,Hurricane,0
+KY,1973,Tornado,0
+IA,1973,Flood,1
+IA,1973,Severe Storm,0
+IA,1973,Fire,0
+IA,1973,Hurricane,0
+IA,1973,Tornado,0
+CO,1973,Flood,1
+CO,1973,Severe Storm,0
+CO,1973,Fire,0
+CO,1973,Hurricane,0
+CO,1973,Tornado,0
+ME,1973,Flood,1
+ME,1973,Severe Storm,0
+ME,1973,Fire,0
+ME,1973,Hurricane,0
+ME,1973,Tornado,0
+AK,1973,Flood,0
+AK,1973,Severe Storm,0
+AK,1973,Fire,1
+AK,1973,Hurricane,0
+AK,1973,Tornado,0
+FL,1973,Flood,1
+FL,1973,Severe Storm,0
+FL,1973,Fire,0
+FL,1973,Hurricane,0
+FL,1973,Tornado,0
+OK,1973,Flood,0
+OK,1973,Severe Storm,1
+OK,1973,Fire,0
+OK,1973,Hurricane,0
+OK,1973,Tornado,0
+NC,1973,Flood,1
+NC,1973,Severe Storm,0
+NC,1973,Fire,0
+NC,1973,Hurricane,0
+NC,1973,Tornado,0
+VT,1973,Flood,1
+VT,1973,Severe Storm,0
+VT,1973,Fire,0
+VT,1973,Hurricane,0
+VT,1973,Tornado,0
+NH,1973,Flood,1
+NH,1973,Severe Storm,0
+NH,1973,Fire,0
+NH,1973,Hurricane,0
+NH,1973,Tornado,0
+PA,1973,Flood,1
+PA,1973,Severe Storm,0
+PA,1973,Fire,0
+PA,1973,Hurricane,0
+PA,1973,Tornado,0
+NJ,1973,Flood,1
+NJ,1973,Severe Storm,0
+NJ,1973,Fire,0
+NJ,1973,Hurricane,0
+NJ,1973,Tornado,0
+MT,1973,Flood,0
+MT,1973,Severe Storm,0
+MT,1973,Fire,1
+MT,1973,Hurricane,0
+MT,1973,Tornado,0
+OR,1973,Flood,0
+OR,1973,Severe Storm,0
+OR,1973,Fire,1
+OR,1973,Hurricane,0
+OR,1973,Tornado,0
+OK,1974,Flood,1
+OK,1974,Severe Storm,0
+OK,1974,Fire,0
+OK,1974,Hurricane,0
+OK,1974,Tornado,0
+MA,1974,Flood,0
+MA,1974,Severe Storm,0
+MA,1974,Fire,1
+MA,1974,Hurricane,0
+MA,1974,Tornado,0
+NE,1974,Flood,1
+NE,1974,Severe Storm,0
+NE,1974,Fire,0
+NE,1974,Hurricane,0
+NE,1974,Tornado,0
+MO,1974,Flood,1
+MO,1974,Severe Storm,0
+MO,1974,Fire,0
+MO,1974,Hurricane,0
+MO,1974,Tornado,0
+AK,1974,Flood,1
+AK,1974,Severe Storm,0
+AK,1974,Fire,0
+AK,1974,Hurricane,0
+AK,1974,Tornado,0
+ME,1974,Flood,1
+ME,1974,Severe Storm,0
+ME,1974,Fire,0
+ME,1974,Hurricane,0
+ME,1974,Tornado,0
+NH,1974,Flood,1
+NH,1974,Severe Storm,0
+NH,1974,Fire,0
+NH,1974,Hurricane,0
+NH,1974,Tornado,0
+ID,1974,Flood,1
+ID,1974,Severe Storm,0
+ID,1974,Fire,0
+ID,1974,Hurricane,0
+ID,1974,Tornado,0
+WA,1974,Flood,1
+WA,1974,Severe Storm,0
+WA,1974,Fire,0
+WA,1974,Hurricane,0
+WA,1974,Tornado,0
+OR,1974,Flood,1
+OR,1974,Severe Storm,0
+OR,1974,Fire,0
+OR,1974,Hurricane,0
+OR,1974,Tornado,0
+CA,1974,Flood,1
+CA,1974,Severe Storm,0
+CA,1974,Fire,0
+CA,1974,Hurricane,0
+CA,1974,Tornado,0
+MT,1974,Flood,1
+MT,1974,Severe Storm,0
+MT,1974,Fire,0
+MT,1974,Hurricane,0
+MT,1974,Tornado,0
+WV,1974,Flood,1
+WV,1974,Severe Storm,0
+WV,1974,Fire,0
+WV,1974,Hurricane,0
+WV,1974,Tornado,0
+LA,1974,Flood,1
+LA,1974,Severe Storm,0
+LA,1974,Fire,0
+LA,1974,Hurricane,1
+LA,1974,Tornado,0
+TN,1974,Flood,0
+TN,1974,Severe Storm,0
+TN,1974,Fire,0
+TN,1974,Hurricane,0
+TN,1974,Tornado,1
+IN,1974,Flood,0
+IN,1974,Severe Storm,0
+IN,1974,Fire,0
+IN,1974,Hurricane,0
+IN,1974,Tornado,1
+AL,1974,Flood,0
+AL,1974,Severe Storm,0
+AL,1974,Fire,0
+AL,1974,Hurricane,0
+AL,1974,Tornado,1
+OH,1974,Flood,1
+OH,1974,Severe Storm,0
+OH,1974,Fire,0
+OH,1974,Hurricane,0
+OH,1974,Tornado,1
+KY,1974,Flood,0
+KY,1974,Severe Storm,0
+KY,1974,Fire,0
+KY,1974,Hurricane,0
+KY,1974,Tornado,1
+GA,1974,Flood,0
+GA,1974,Severe Storm,0
+GA,1974,Fire,0
+GA,1974,Hurricane,0
+GA,1974,Tornado,1
+IL,1974,Flood,1
+IL,1974,Severe Storm,0
+IL,1974,Fire,0
+IL,1974,Hurricane,0
+IL,1974,Tornado,1
+MI,1974,Flood,0
+MI,1974,Severe Storm,0
+MI,1974,Fire,0
+MI,1974,Hurricane,0
+MI,1974,Tornado,1
+NC,1974,Flood,0
+NC,1974,Severe Storm,0
+NC,1974,Fire,0
+NC,1974,Hurricane,0
+NC,1974,Tornado,1
+MS,1974,Flood,1
+MS,1974,Severe Storm,0
+MS,1974,Fire,0
+MS,1974,Hurricane,0
+MS,1974,Tornado,0
+WI,1974,Flood,0
+WI,1974,Severe Storm,0
+WI,1974,Fire,0
+WI,1974,Hurricane,0
+WI,1974,Tornado,1
+HI,1974,Flood,1
+HI,1974,Severe Storm,0
+HI,1974,Fire,0
+HI,1974,Hurricane,0
+HI,1974,Tornado,0
+ND,1974,Flood,1
+ND,1974,Severe Storm,0
+ND,1974,Fire,0
+ND,1974,Hurricane,0
+ND,1974,Tornado,0
+NM,1974,Flood,0
+NM,1974,Severe Storm,0
+NM,1974,Fire,1
+NM,1974,Hurricane,0
+NM,1974,Tornado,0
+AR,1974,Flood,1
+AR,1974,Severe Storm,0
+AR,1974,Fire,0
+AR,1974,Hurricane,0
+AR,1974,Tornado,0
+KS,1974,Flood,1
+KS,1974,Severe Storm,0
+KS,1974,Fire,0
+KS,1974,Hurricane,0
+KS,1974,Tornado,0
+MN,1974,Flood,1
+MN,1974,Severe Storm,0
+MN,1974,Fire,0
+MN,1974,Hurricane,0
+MN,1974,Tornado,0
+IA,1974,Flood,1
+IA,1974,Severe Storm,0
+IA,1974,Fire,0
+IA,1974,Hurricane,0
+IA,1974,Tornado,0
+SD,1974,Flood,0
+SD,1974,Severe Storm,0
+SD,1974,Fire,1
+SD,1974,Hurricane,0
+SD,1974,Tornado,0
+NY,1974,Flood,1
+NY,1974,Severe Storm,0
+NY,1974,Fire,0
+NY,1974,Hurricane,0
+NY,1974,Tornado,0
+LA,1975,Flood,1
+LA,1975,Severe Storm,1
+LA,1975,Fire,0
+LA,1975,Hurricane,0
+LA,1975,Tornado,0
+NY,1975,Flood,1
+NY,1975,Severe Storm,0
+NY,1975,Fire,0
+NY,1975,Hurricane,0
+NY,1975,Tornado,0
+AK,1975,Flood,1
+AK,1975,Severe Storm,0
+AK,1975,Fire,0
+AK,1975,Hurricane,0
+AK,1975,Tornado,0
+OK,1975,Flood,1
+OK,1975,Severe Storm,1
+OK,1975,Fire,0
+OK,1975,Hurricane,0
+OK,1975,Tornado,0
+TX,1975,Flood,1
+TX,1975,Severe Storm,0
+TX,1975,Fire,0
+TX,1975,Hurricane,0
+TX,1975,Tornado,1
+AL,1975,Flood,1
+AL,1975,Severe Storm,0
+AL,1975,Fire,0
+AL,1975,Hurricane,0
+AL,1975,Tornado,1
+MS,1975,Flood,1
+MS,1975,Severe Storm,0
+MS,1975,Fire,0
+MS,1975,Hurricane,0
+MS,1975,Tornado,1
+GA,1975,Flood,0
+GA,1975,Severe Storm,0
+GA,1975,Fire,0
+GA,1975,Hurricane,0
+GA,1975,Tornado,1
+TN,1975,Flood,1
+TN,1975,Severe Storm,0
+TN,1975,Fire,0
+TN,1975,Hurricane,0
+TN,1975,Tornado,0
+KY,1975,Flood,1
+KY,1975,Severe Storm,0
+KY,1975,Fire,0
+KY,1975,Hurricane,0
+KY,1975,Tornado,0
+AR,1975,Flood,1
+AR,1975,Severe Storm,0
+AR,1975,Fire,0
+AR,1975,Hurricane,0
+AR,1975,Tornado,1
+MI,1975,Flood,1
+MI,1975,Severe Storm,0
+MI,1975,Fire,0
+MI,1975,Hurricane,0
+MI,1975,Tornado,0
+MO,1975,Flood,0
+MO,1975,Severe Storm,0
+MO,1975,Fire,0
+MO,1975,Hurricane,0
+MO,1975,Tornado,1
+NE,1975,Flood,0
+NE,1975,Severe Storm,0
+NE,1975,Fire,0
+NE,1975,Hurricane,0
+NE,1975,Tornado,1
+ND,1975,Flood,1
+ND,1975,Severe Storm,0
+ND,1975,Fire,0
+ND,1975,Hurricane,0
+ND,1975,Tornado,0
+MT,1975,Flood,1
+MT,1975,Severe Storm,0
+MT,1975,Fire,0
+MT,1975,Hurricane,0
+MT,1975,Tornado,0
+MN,1975,Flood,1
+MN,1975,Severe Storm,1
+MN,1975,Fire,0
+MN,1975,Hurricane,0
+MN,1975,Tornado,0
+NJ,1975,Flood,1
+NJ,1975,Severe Storm,0
+NJ,1975,Fire,0
+NJ,1975,Hurricane,0
+NJ,1975,Tornado,0
+IL,1975,Flood,0
+IL,1975,Severe Storm,0
+IL,1975,Fire,0
+IL,1975,Hurricane,0
+IL,1975,Tornado,1
+SD,1975,Flood,0
+SD,1975,Severe Storm,0
+SD,1975,Fire,1
+SD,1975,Hurricane,0
+SD,1975,Tornado,0
+FL,1975,Flood,1
+FL,1975,Severe Storm,0
+FL,1975,Fire,0
+FL,1975,Hurricane,0
+FL,1975,Tornado,0
+OH,1975,Flood,1
+OH,1975,Severe Storm,0
+OH,1975,Fire,0
+OH,1975,Hurricane,0
+OH,1975,Tornado,0
+WV,1975,Flood,1
+WV,1975,Severe Storm,0
+WV,1975,Fire,0
+WV,1975,Hurricane,0
+WV,1975,Tornado,0
+WI,1975,Flood,0
+WI,1975,Severe Storm,1
+WI,1975,Fire,0
+WI,1975,Hurricane,0
+WI,1975,Tornado,0
+PA,1975,Flood,1
+PA,1975,Severe Storm,0
+PA,1975,Fire,0
+PA,1975,Hurricane,0
+PA,1975,Tornado,0
+AL,1976,Flood,0
+AL,1976,Severe Storm,1
+AL,1976,Fire,0
+AL,1976,Hurricane,0
+AL,1976,Tornado,0
+NY,1976,Flood,1
+NY,1976,Severe Storm,0
+NY,1976,Fire,0
+NY,1976,Hurricane,1
+NY,1976,Tornado,0
+MD,1976,Flood,1
+MD,1976,Severe Storm,0
+MD,1976,Fire,0
+MD,1976,Hurricane,0
+MD,1976,Tornado,0
+OK,1976,Flood,1
+OK,1976,Severe Storm,0
+OK,1976,Fire,0
+OK,1976,Hurricane,0
+OK,1976,Tornado,1
+WA,1976,Flood,1
+WA,1976,Severe Storm,0
+WA,1976,Fire,0
+WA,1976,Hurricane,0
+WA,1976,Tornado,0
+AK,1976,Flood,0
+AK,1976,Severe Storm,0
+AK,1976,Fire,1
+AK,1976,Hurricane,0
+AK,1976,Tornado,0
+MI,1976,Flood,0
+MI,1976,Severe Storm,1
+MI,1976,Fire,0
+MI,1976,Hurricane,0
+MI,1976,Tornado,0
+WI,1976,Flood,1
+WI,1976,Severe Storm,0
+WI,1976,Fire,0
+WI,1976,Hurricane,0
+WI,1976,Tornado,0
+MS,1976,Flood,0
+MS,1976,Severe Storm,1
+MS,1976,Fire,0
+MS,1976,Hurricane,0
+MS,1976,Tornado,0
+AR,1976,Flood,0
+AR,1976,Severe Storm,0
+AR,1976,Fire,0
+AR,1976,Hurricane,0
+AR,1976,Tornado,1
+ND,1976,Flood,1
+ND,1976,Severe Storm,0
+ND,1976,Fire,0
+ND,1976,Hurricane,0
+ND,1976,Tornado,0
+ID,1976,Flood,1
+ID,1976,Severe Storm,0
+ID,1976,Fire,0
+ID,1976,Hurricane,0
+ID,1976,Tornado,0
+GA,1976,Flood,1
+GA,1976,Severe Storm,0
+GA,1976,Fire,0
+GA,1976,Hurricane,0
+GA,1976,Tornado,0
+IL,1976,Flood,0
+IL,1976,Severe Storm,1
+IL,1976,Fire,0
+IL,1976,Hurricane,0
+IL,1976,Tornado,0
+TX,1976,Flood,1
+TX,1976,Severe Storm,0
+TX,1976,Fire,0
+TX,1976,Hurricane,0
+TX,1976,Tornado,0
+SD,1976,Flood,1
+SD,1976,Severe Storm,0
+SD,1976,Fire,0
+SD,1976,Hurricane,0
+SD,1976,Tornado,0
+PA,1976,Flood,1
+PA,1976,Severe Storm,0
+PA,1976,Fire,0
+PA,1976,Hurricane,0
+PA,1976,Tornado,0
+KS,1976,Flood,1
+KS,1976,Severe Storm,0
+KS,1976,Fire,0
+KS,1976,Hurricane,0
+KS,1976,Tornado,0
+MO,1976,Flood,1
+MO,1976,Severe Storm,0
+MO,1976,Fire,0
+MO,1976,Hurricane,0
+MO,1976,Tornado,0
+CO,1976,Flood,1
+CO,1976,Severe Storm,0
+CO,1976,Fire,0
+CO,1976,Hurricane,0
+CO,1976,Tornado,0
+VT,1976,Flood,1
+VT,1976,Severe Storm,0
+VT,1976,Fire,0
+VT,1976,Hurricane,0
+VT,1976,Tornado,0
+NJ,1976,Flood,1
+NJ,1976,Severe Storm,0
+NJ,1976,Fire,0
+NJ,1976,Hurricane,0
+NJ,1976,Tornado,0
+MN,1976,Flood,0
+MN,1976,Severe Storm,0
+MN,1976,Fire,1
+MN,1976,Hurricane,0
+MN,1976,Tornado,0
+CA,1976,Flood,1
+CA,1976,Severe Storm,0
+CA,1976,Fire,0
+CA,1976,Hurricane,0
+CA,1976,Tornado,0
+MN,1977,Flood,0
+MN,1977,Severe Storm,0
+MN,1977,Fire,1
+MN,1977,Hurricane,0
+MN,1977,Tornado,0
+MD,1977,Flood,1
+MD,1977,Severe Storm,0
+MD,1977,Fire,0
+MD,1977,Hurricane,0
+MD,1977,Tornado,0
+PA,1977,Flood,1
+PA,1977,Severe Storm,0
+PA,1977,Fire,0
+PA,1977,Hurricane,0
+PA,1977,Tornado,0
+OK,1977,Flood,0
+OK,1977,Severe Storm,0
+OK,1977,Fire,1
+OK,1977,Hurricane,0
+OK,1977,Tornado,0
+KY,1977,Flood,1
+KY,1977,Severe Storm,0
+KY,1977,Fire,0
+KY,1977,Hurricane,0
+KY,1977,Tornado,0
+WV,1977,Flood,1
+WV,1977,Severe Storm,0
+WV,1977,Fire,0
+WV,1977,Hurricane,0
+WV,1977,Tornado,0
+VA,1977,Flood,1
+VA,1977,Severe Storm,0
+VA,1977,Fire,0
+VA,1977,Hurricane,0
+VA,1977,Tornado,0
+AL,1977,Flood,1
+AL,1977,Severe Storm,0
+AL,1977,Fire,0
+AL,1977,Hurricane,0
+AL,1977,Tornado,0
+TN,1977,Flood,1
+TN,1977,Severe Storm,0
+TN,1977,Fire,0
+TN,1977,Hurricane,0
+TN,1977,Tornado,0
+LA,1977,Flood,1
+LA,1977,Severe Storm,0
+LA,1977,Fire,0
+LA,1977,Hurricane,0
+LA,1977,Tornado,0
+MO,1977,Flood,1
+MO,1977,Severe Storm,0
+MO,1977,Fire,0
+MO,1977,Hurricane,0
+MO,1977,Tornado,1
+NM,1977,Flood,0
+NM,1977,Severe Storm,0
+NM,1977,Fire,1
+NM,1977,Hurricane,0
+NM,1977,Tornado,0
+MT,1977,Flood,0
+MT,1977,Severe Storm,0
+MT,1977,Fire,1
+MT,1977,Hurricane,0
+MT,1977,Tornado,0
+ME,1977,Flood,0
+ME,1977,Severe Storm,0
+ME,1977,Fire,1
+ME,1977,Hurricane,0
+ME,1977,Tornado,0
+CA,1977,Flood,0
+CA,1977,Severe Storm,0
+CA,1977,Fire,1
+CA,1977,Hurricane,0
+CA,1977,Tornado,0
+ID,1977,Flood,0
+ID,1977,Severe Storm,0
+ID,1977,Fire,1
+ID,1977,Hurricane,0
+ID,1977,Tornado,0
+KS,1977,Flood,1
+KS,1977,Severe Storm,0
+KS,1977,Fire,0
+KS,1977,Hurricane,0
+KS,1977,Tornado,0
+WI,1978,Flood,0
+WI,1978,Severe Storm,1
+WI,1978,Fire,0
+WI,1978,Hurricane,0
+WI,1978,Tornado,0
+AZ,1978,Flood,1
+AZ,1978,Severe Storm,0
+AZ,1978,Fire,0
+AZ,1978,Hurricane,0
+AZ,1978,Tornado,0
+GA,1978,Flood,1
+GA,1978,Severe Storm,0
+GA,1978,Fire,0
+GA,1978,Hurricane,0
+GA,1978,Tornado,0
+NC,1978,Flood,1
+NC,1978,Severe Storm,0
+NC,1978,Fire,0
+NC,1978,Hurricane,0
+NC,1978,Tornado,0
+TN,1978,Flood,1
+TN,1978,Severe Storm,0
+TN,1978,Fire,0
+TN,1978,Hurricane,0
+TN,1978,Tornado,0
+VA,1978,Flood,1
+VA,1978,Severe Storm,0
+VA,1978,Fire,0
+VA,1978,Hurricane,0
+VA,1978,Tornado,0
+WA,1978,Flood,1
+WA,1978,Severe Storm,0
+WA,1978,Fire,0
+WA,1978,Hurricane,0
+WA,1978,Tornado,0
+AR,1978,Flood,1
+AR,1978,Severe Storm,0
+AR,1978,Fire,0
+AR,1978,Hurricane,0
+AR,1978,Tornado,1
+MA,1978,Flood,1
+MA,1978,Severe Storm,0
+MA,1978,Fire,0
+MA,1978,Hurricane,0
+MA,1978,Tornado,0
+CA,1978,Flood,1
+CA,1978,Severe Storm,0
+CA,1978,Fire,0
+CA,1978,Hurricane,0
+CA,1978,Tornado,0
+NH,1978,Flood,1
+NH,1978,Severe Storm,0
+NH,1978,Fire,0
+NH,1978,Hurricane,0
+NH,1978,Tornado,0
+ME,1978,Flood,1
+ME,1978,Severe Storm,0
+ME,1978,Fire,0
+ME,1978,Hurricane,0
+ME,1978,Tornado,0
+NE,1978,Flood,1
+NE,1978,Severe Storm,0
+NE,1978,Fire,0
+NE,1978,Hurricane,0
+NE,1978,Tornado,0
+IN,1978,Flood,1
+IN,1978,Severe Storm,0
+IN,1978,Fire,0
+IN,1978,Hurricane,0
+IN,1978,Tornado,0
+ND,1978,Flood,1
+ND,1978,Severe Storm,0
+ND,1978,Fire,0
+ND,1978,Hurricane,0
+ND,1978,Tornado,1
+MN,1978,Flood,1
+MN,1978,Severe Storm,1
+MN,1978,Fire,0
+MN,1978,Hurricane,0
+MN,1978,Tornado,0
+AL,1978,Flood,1
+AL,1978,Severe Storm,0
+AL,1978,Fire,0
+AL,1978,Hurricane,0
+AL,1978,Tornado,1
+MS,1978,Flood,0
+MS,1978,Severe Storm,0
+MS,1978,Fire,0
+MS,1978,Hurricane,0
+MS,1978,Tornado,1
+LA,1978,Flood,1
+LA,1978,Severe Storm,0
+LA,1978,Fire,0
+LA,1978,Hurricane,0
+LA,1978,Tornado,0
+MT,1978,Flood,1
+MT,1978,Severe Storm,0
+MT,1978,Fire,0
+MT,1978,Hurricane,0
+MT,1978,Tornado,0
+WY,1978,Flood,1
+WY,1978,Severe Storm,0
+WY,1978,Fire,0
+WY,1978,Hurricane,0
+WY,1978,Tornado,0
+TX,1978,Flood,1
+TX,1978,Severe Storm,0
+TX,1978,Fire,0
+TX,1978,Hurricane,0
+TX,1978,Tornado,0
+OR,1978,Flood,0
+OR,1978,Severe Storm,0
+OR,1978,Fire,1
+OR,1978,Hurricane,0
+OR,1978,Tornado,0
+CO,1978,Flood,0
+CO,1978,Severe Storm,0
+CO,1978,Fire,1
+CO,1978,Hurricane,0
+CO,1978,Tornado,0
+CA,1979,Flood,1
+CA,1979,Severe Storm,0
+CA,1979,Fire,1
+CA,1979,Hurricane,0
+CA,1979,Tornado,0
+LA,1979,Flood,1
+LA,1979,Severe Storm,0
+LA,1979,Fire,0
+LA,1979,Hurricane,0
+LA,1979,Tornado,1
+KY,1979,Flood,1
+KY,1979,Severe Storm,0
+KY,1979,Fire,0
+KY,1979,Hurricane,0
+KY,1979,Tornado,0
+WV,1979,Flood,1
+WV,1979,Severe Storm,0
+WV,1979,Fire,0
+WV,1979,Hurricane,0
+WV,1979,Tornado,0
+AZ,1979,Flood,1
+AZ,1979,Severe Storm,0
+AZ,1979,Fire,0
+AZ,1979,Hurricane,0
+AZ,1979,Tornado,0
+NM,1979,Flood,1
+NM,1979,Severe Storm,0
+NM,1979,Fire,0
+NM,1979,Hurricane,0
+NM,1979,Tornado,0
+HI,1979,Flood,1
+HI,1979,Severe Storm,0
+HI,1979,Fire,0
+HI,1979,Hurricane,0
+HI,1979,Tornado,0
+MO,1979,Flood,1
+MO,1979,Severe Storm,0
+MO,1979,Fire,0
+MO,1979,Hurricane,0
+MO,1979,Tornado,1
+WA,1979,Flood,1
+WA,1979,Severe Storm,0
+WA,1979,Fire,1
+WA,1979,Hurricane,0
+WA,1979,Tornado,0
+GA,1979,Flood,1
+GA,1979,Severe Storm,0
+GA,1979,Fire,0
+GA,1979,Hurricane,0
+GA,1979,Tornado,0
+NH,1979,Flood,1
+NH,1979,Severe Storm,0
+NH,1979,Fire,0
+NH,1979,Hurricane,0
+NH,1979,Tornado,0
+AL,1979,Flood,1
+AL,1979,Severe Storm,0
+AL,1979,Fire,0
+AL,1979,Hurricane,1
+AL,1979,Tornado,0
+FL,1979,Flood,1
+FL,1979,Severe Storm,1
+FL,1979,Fire,0
+FL,1979,Hurricane,1
+FL,1979,Tornado,0
+IA,1979,Flood,0
+IA,1979,Severe Storm,0
+IA,1979,Fire,0
+IA,1979,Hurricane,0
+IA,1979,Tornado,1
+TX,1979,Flood,1
+TX,1979,Severe Storm,1
+TX,1979,Fire,0
+TX,1979,Hurricane,0
+TX,1979,Tornado,1
+AR,1979,Flood,0
+AR,1979,Severe Storm,0
+AR,1979,Fire,0
+AR,1979,Hurricane,0
+AR,1979,Tornado,1
+OK,1979,Flood,0
+OK,1979,Severe Storm,0
+OK,1979,Fire,0
+OK,1979,Hurricane,0
+OK,1979,Tornado,1
+MS,1979,Flood,0
+MS,1979,Severe Storm,1
+MS,1979,Fire,0
+MS,1979,Hurricane,1
+MS,1979,Tornado,0
+ND,1979,Flood,1
+ND,1979,Severe Storm,0
+ND,1979,Fire,0
+ND,1979,Hurricane,0
+ND,1979,Tornado,0
+IL,1979,Flood,1
+IL,1979,Severe Storm,0
+IL,1979,Fire,0
+IL,1979,Hurricane,0
+IL,1979,Tornado,0
+MN,1979,Flood,1
+MN,1979,Severe Storm,0
+MN,1979,Fire,0
+MN,1979,Hurricane,0
+MN,1979,Tornado,0
+TN,1979,Flood,0
+TN,1979,Severe Storm,1
+TN,1979,Fire,0
+TN,1979,Hurricane,0
+TN,1979,Tornado,0
+NV,1979,Flood,0
+NV,1979,Severe Storm,0
+NV,1979,Fire,1
+NV,1979,Hurricane,0
+NV,1979,Tornado,0
+KS,1979,Flood,1
+KS,1979,Severe Storm,0
+KS,1979,Fire,0
+KS,1979,Hurricane,0
+KS,1979,Tornado,0
+WY,1979,Flood,0
+WY,1979,Severe Storm,0
+WY,1979,Fire,0
+WY,1979,Hurricane,0
+WY,1979,Tornado,1
+VA,1979,Flood,1
+VA,1979,Severe Storm,0
+VA,1979,Fire,0
+VA,1979,Hurricane,0
+VA,1979,Tornado,0
+OR,1979,Flood,0
+OR,1979,Severe Storm,0
+OR,1979,Fire,1
+OR,1979,Hurricane,0
+OR,1979,Tornado,0
+IN,1979,Flood,1
+IN,1979,Severe Storm,0
+IN,1979,Fire,0
+IN,1979,Hurricane,0
+IN,1979,Tornado,0
+MT,1979,Flood,0
+MT,1979,Severe Storm,0
+MT,1979,Fire,1
+MT,1979,Hurricane,0
+MT,1979,Tornado,0
+ID,1979,Flood,0
+ID,1979,Severe Storm,0
+ID,1979,Fire,1
+ID,1979,Hurricane,0
+ID,1979,Tornado,0
+MD,1979,Flood,0
+MD,1979,Severe Storm,1
+MD,1979,Fire,0
+MD,1979,Hurricane,0
+MD,1979,Tornado,0
+NC,1979,Flood,1
+NC,1979,Severe Storm,0
+NC,1979,Fire,0
+NC,1979,Hurricane,0
+NC,1979,Tornado,0
+CT,1980,Flood,0
+CT,1980,Severe Storm,0
+CT,1980,Fire,0
+CT,1980,Hurricane,0
+CT,1980,Tornado,1
+WA,1980,Flood,1
+WA,1980,Severe Storm,0
+WA,1980,Fire,0
+WA,1980,Hurricane,0
+WA,1980,Tornado,0
+HI,1980,Flood,1
+HI,1980,Severe Storm,0
+HI,1980,Fire,0
+HI,1980,Hurricane,0
+HI,1980,Tornado,0
+AZ,1980,Flood,1
+AZ,1980,Severe Storm,0
+AZ,1980,Fire,0
+AZ,1980,Hurricane,0
+AZ,1980,Tornado,0
+CA,1980,Flood,1
+CA,1980,Severe Storm,0
+CA,1980,Fire,0
+CA,1980,Hurricane,0
+CA,1980,Tornado,0
+LA,1980,Flood,1
+LA,1980,Severe Storm,0
+LA,1980,Fire,0
+LA,1980,Hurricane,0
+LA,1980,Tornado,0
+AR,1980,Flood,0
+AR,1980,Severe Storm,0
+AR,1980,Fire,0
+AR,1980,Hurricane,0
+AR,1980,Tornado,1
+MS,1980,Flood,0
+MS,1980,Severe Storm,1
+MS,1980,Fire,0
+MS,1980,Hurricane,0
+MS,1980,Tornado,0
+AL,1980,Flood,0
+AL,1980,Severe Storm,1
+AL,1980,Fire,0
+AL,1980,Hurricane,0
+AL,1980,Tornado,0
+WI,1980,Flood,1
+WI,1980,Severe Storm,0
+WI,1980,Fire,1
+WI,1980,Hurricane,0
+WI,1980,Tornado,0
+MO,1980,Flood,0
+MO,1980,Severe Storm,0
+MO,1980,Fire,0
+MO,1980,Hurricane,0
+MO,1980,Tornado,1
+MI,1980,Flood,1
+MI,1980,Severe Storm,0
+MI,1980,Fire,0
+MI,1980,Hurricane,0
+MI,1980,Tornado,1
+NE,1980,Flood,0
+NE,1980,Severe Storm,0
+NE,1980,Fire,0
+NE,1980,Hurricane,0
+NE,1980,Tornado,1
+PA,1980,Flood,1
+PA,1980,Severe Storm,0
+PA,1980,Fire,0
+PA,1980,Hurricane,0
+PA,1980,Tornado,1
+CO,1980,Flood,0
+CO,1980,Severe Storm,0
+CO,1980,Fire,1
+CO,1980,Hurricane,0
+CO,1980,Tornado,0
+TX,1980,Flood,1
+TX,1980,Severe Storm,0
+TX,1980,Fire,0
+TX,1980,Hurricane,1
+TX,1980,Tornado,0
+WV,1980,Flood,1
+WV,1980,Severe Storm,0
+WV,1980,Fire,0
+WV,1980,Hurricane,0
+WV,1980,Tornado,0
+OH,1980,Flood,1
+OH,1980,Severe Storm,0
+OH,1980,Fire,0
+OH,1980,Hurricane,0
+OH,1980,Tornado,0
+CA,1981,Flood,1
+CA,1981,Severe Storm,0
+CA,1981,Fire,1
+CA,1981,Hurricane,0
+CA,1981,Tornado,0
+AL,1981,Flood,1
+AL,1981,Severe Storm,1
+AL,1981,Fire,0
+AL,1981,Hurricane,0
+AL,1981,Tornado,0
+MT,1981,Flood,1
+MT,1981,Severe Storm,0
+MT,1981,Fire,0
+MT,1981,Hurricane,0
+MT,1981,Tornado,0
+PA,1981,Flood,1
+PA,1981,Severe Storm,0
+PA,1981,Fire,0
+PA,1981,Hurricane,0
+PA,1981,Tornado,0
+IL,1981,Flood,0
+IL,1981,Severe Storm,1
+IL,1981,Fire,0
+IL,1981,Hurricane,0
+IL,1981,Tornado,0
+OH,1981,Flood,0
+OH,1981,Severe Storm,1
+OH,1981,Fire,0
+OH,1981,Hurricane,0
+OH,1981,Tornado,0
+KS,1981,Flood,0
+KS,1981,Severe Storm,1
+KS,1981,Fire,0
+KS,1981,Hurricane,0
+KS,1981,Tornado,0
+OR,1981,Flood,0
+OR,1981,Severe Storm,0
+OR,1981,Fire,1
+OR,1981,Hurricane,0
+OR,1981,Tornado,0
+NV,1981,Flood,1
+NV,1981,Severe Storm,0
+NV,1981,Fire,1
+NV,1981,Hurricane,0
+NV,1981,Tornado,0
+TX,1981,Flood,1
+TX,1981,Severe Storm,0
+TX,1981,Fire,0
+TX,1981,Hurricane,0
+TX,1981,Tornado,0
+TX,1982,Flood,1
+TX,1982,Severe Storm,0
+TX,1982,Fire,0
+TX,1982,Hurricane,0
+TX,1982,Tornado,1
+OK,1982,Flood,1
+OK,1982,Severe Storm,0
+OK,1982,Fire,0
+OK,1982,Hurricane,0
+OK,1982,Tornado,0
+MA,1982,Flood,0
+MA,1982,Severe Storm,0
+MA,1982,Fire,1
+MA,1982,Hurricane,0
+MA,1982,Tornado,0
+CA,1982,Flood,1
+CA,1982,Severe Storm,0
+CA,1982,Fire,1
+CA,1982,Hurricane,0
+CA,1982,Tornado,0
+IN,1982,Flood,1
+IN,1982,Severe Storm,0
+IN,1982,Fire,0
+IN,1982,Hurricane,0
+IN,1982,Tornado,0
+OH,1982,Flood,1
+OH,1982,Severe Storm,0
+OH,1982,Fire,0
+OH,1982,Hurricane,0
+OH,1982,Tornado,0
+MI,1982,Flood,1
+MI,1982,Severe Storm,0
+MI,1982,Fire,0
+MI,1982,Hurricane,0
+MI,1982,Tornado,0
+MS,1982,Flood,0
+MS,1982,Severe Storm,0
+MS,1982,Fire,0
+MS,1982,Hurricane,0
+MS,1982,Tornado,1
+HI,1982,Flood,1
+HI,1982,Severe Storm,0
+HI,1982,Fire,0
+HI,1982,Hurricane,0
+HI,1982,Tornado,0
+AR,1982,Flood,0
+AR,1982,Severe Storm,0
+AR,1982,Fire,0
+AR,1982,Hurricane,0
+AR,1982,Tornado,1
+ND,1982,Flood,1
+ND,1982,Severe Storm,0
+ND,1982,Fire,0
+ND,1982,Hurricane,0
+ND,1982,Tornado,0
+IL,1982,Flood,0
+IL,1982,Severe Storm,0
+IL,1982,Fire,0
+IL,1982,Hurricane,0
+IL,1982,Tornado,1
+CT,1982,Flood,1
+CT,1982,Severe Storm,0
+CT,1982,Fire,0
+CT,1982,Hurricane,0
+CT,1982,Tornado,0
+KS,1982,Flood,1
+KS,1982,Severe Storm,0
+KS,1982,Fire,0
+KS,1982,Hurricane,0
+KS,1982,Tornado,0
+FL,1982,Flood,1
+FL,1982,Severe Storm,0
+FL,1982,Fire,0
+FL,1982,Hurricane,0
+FL,1982,Tornado,0
+CO,1982,Flood,1
+CO,1982,Severe Storm,0
+CO,1982,Fire,0
+CO,1982,Hurricane,0
+CO,1982,Tornado,0
+WA,1982,Flood,1
+WA,1982,Severe Storm,0
+WA,1982,Fire,0
+WA,1982,Hurricane,0
+WA,1982,Tornado,0
+TN,1982,Flood,1
+TN,1982,Severe Storm,0
+TN,1982,Fire,0
+TN,1982,Hurricane,0
+TN,1982,Tornado,0
+MO,1982,Flood,1
+MO,1982,Severe Storm,0
+MO,1982,Fire,0
+MO,1982,Hurricane,0
+MO,1982,Tornado,0
+KY,1982,Flood,1
+KY,1982,Severe Storm,0
+KY,1982,Fire,0
+KY,1982,Hurricane,0
+KY,1982,Tornado,0
+MO,1983,Flood,1
+MO,1983,Severe Storm,0
+MO,1983,Fire,0
+MO,1983,Hurricane,0
+MO,1983,Tornado,0
+IL,1983,Flood,0
+IL,1983,Severe Storm,1
+IL,1983,Fire,0
+IL,1983,Hurricane,0
+IL,1983,Tornado,0
+AR,1983,Flood,1
+AR,1983,Severe Storm,1
+AR,1983,Fire,0
+AR,1983,Hurricane,0
+AR,1983,Tornado,0
+LA,1983,Flood,1
+LA,1983,Severe Storm,0
+LA,1983,Fire,0
+LA,1983,Hurricane,0
+LA,1983,Tornado,0
+WA,1983,Flood,1
+WA,1983,Severe Storm,0
+WA,1983,Fire,0
+WA,1983,Hurricane,0
+WA,1983,Tornado,0
+HI,1983,Flood,0
+HI,1983,Severe Storm,0
+HI,1983,Fire,1
+HI,1983,Hurricane,0
+HI,1983,Tornado,0
+MS,1983,Flood,0
+MS,1983,Severe Storm,1
+MS,1983,Fire,0
+MS,1983,Hurricane,0
+MS,1983,Tornado,0
+UT,1983,Flood,1
+UT,1983,Severe Storm,0
+UT,1983,Fire,0
+UT,1983,Hurricane,0
+UT,1983,Tornado,0
+OK,1983,Flood,1
+OK,1983,Severe Storm,0
+OK,1983,Fire,0
+OK,1983,Hurricane,0
+OK,1983,Tornado,0
+CA,1983,Flood,1
+CA,1983,Severe Storm,0
+CA,1983,Fire,0
+CA,1983,Hurricane,0
+CA,1983,Tornado,0
+AZ,1983,Flood,1
+AZ,1983,Severe Storm,0
+AZ,1983,Fire,0
+AZ,1983,Hurricane,0
+AZ,1983,Tornado,0
+NV,1983,Flood,0
+NV,1983,Severe Storm,0
+NV,1983,Fire,1
+NV,1983,Hurricane,0
+NV,1983,Tornado,0
+TX,1983,Flood,0
+TX,1983,Severe Storm,0
+TX,1983,Fire,0
+TX,1983,Hurricane,1
+TX,1983,Tornado,0
+AZ,1984,Flood,1
+AZ,1984,Severe Storm,0
+AZ,1984,Fire,0
+AZ,1984,Hurricane,0
+AZ,1984,Tornado,0
+NM,1984,Flood,1
+NM,1984,Severe Storm,0
+NM,1984,Fire,0
+NM,1984,Hurricane,0
+NM,1984,Tornado,0
+OK,1984,Flood,1
+OK,1984,Severe Storm,0
+OK,1984,Fire,0
+OK,1984,Hurricane,0
+OK,1984,Tornado,1
+AL,1984,Flood,0
+AL,1984,Severe Storm,1
+AL,1984,Fire,0
+AL,1984,Hurricane,0
+AL,1984,Tornado,1
+MS,1984,Flood,1
+MS,1984,Severe Storm,0
+MS,1984,Fire,0
+MS,1984,Hurricane,0
+MS,1984,Tornado,1
+SC,1984,Flood,0
+SC,1984,Severe Storm,0
+SC,1984,Fire,0
+SC,1984,Hurricane,0
+SC,1984,Tornado,1
+NC,1984,Flood,0
+NC,1984,Severe Storm,0
+NC,1984,Fire,0
+NC,1984,Hurricane,1
+NC,1984,Tornado,1
+NJ,1984,Flood,1
+NJ,1984,Severe Storm,0
+NJ,1984,Fire,0
+NJ,1984,Hurricane,0
+NJ,1984,Tornado,0
+NY,1984,Flood,1
+NY,1984,Severe Storm,0
+NY,1984,Fire,0
+NY,1984,Hurricane,0
+NY,1984,Tornado,0
+GA,1984,Flood,0
+GA,1984,Severe Storm,0
+GA,1984,Fire,0
+GA,1984,Hurricane,0
+GA,1984,Tornado,1
+LA,1984,Flood,0
+LA,1984,Severe Storm,0
+LA,1984,Fire,0
+LA,1984,Hurricane,0
+LA,1984,Tornado,1
+WV,1984,Flood,1
+WV,1984,Severe Storm,0
+WV,1984,Fire,0
+WV,1984,Hurricane,0
+WV,1984,Tornado,0
+KY,1984,Flood,0
+KY,1984,Severe Storm,1
+KY,1984,Fire,0
+KY,1984,Hurricane,0
+KY,1984,Tornado,0
+VA,1984,Flood,1
+VA,1984,Severe Storm,0
+VA,1984,Fire,0
+VA,1984,Hurricane,0
+VA,1984,Tornado,0
+TN,1984,Flood,1
+TN,1984,Severe Storm,0
+TN,1984,Fire,0
+TN,1984,Hurricane,0
+TN,1984,Tornado,0
+WI,1984,Flood,1
+WI,1984,Severe Storm,0
+WI,1984,Fire,0
+WI,1984,Hurricane,0
+WI,1984,Tornado,1
+VT,1984,Flood,1
+VT,1984,Severe Storm,0
+VT,1984,Fire,0
+VT,1984,Hurricane,0
+VT,1984,Tornado,0
+CT,1984,Flood,1
+CT,1984,Severe Storm,0
+CT,1984,Fire,0
+CT,1984,Hurricane,0
+CT,1984,Tornado,0
+MO,1984,Flood,1
+MO,1984,Severe Storm,0
+MO,1984,Fire,0
+MO,1984,Hurricane,0
+MO,1984,Tornado,0
+KS,1984,Flood,0
+KS,1984,Severe Storm,1
+KS,1984,Fire,0
+KS,1984,Hurricane,0
+KS,1984,Tornado,0
+IA,1984,Flood,0
+IA,1984,Severe Storm,1
+IA,1984,Fire,0
+IA,1984,Hurricane,0
+IA,1984,Tornado,0
+NE,1984,Flood,0
+NE,1984,Severe Storm,0
+NE,1984,Fire,0
+NE,1984,Hurricane,0
+NE,1984,Tornado,1
+SD,1984,Flood,1
+SD,1984,Severe Storm,0
+SD,1984,Fire,0
+SD,1984,Hurricane,0
+SD,1984,Tornado,0
+CO,1984,Flood,1
+CO,1984,Severe Storm,0
+CO,1984,Fire,0
+CO,1984,Hurricane,0
+CO,1984,Tornado,0
+UT,1984,Flood,1
+UT,1984,Severe Storm,0
+UT,1984,Fire,0
+UT,1984,Hurricane,0
+UT,1984,Tornado,0
+MT,1984,Flood,0
+MT,1984,Severe Storm,0
+MT,1984,Fire,1
+MT,1984,Hurricane,0
+MT,1984,Tornado,0
+OR,1984,Flood,0
+OR,1984,Severe Storm,0
+OR,1984,Fire,1
+OR,1984,Hurricane,0
+OR,1984,Tornado,0
+PA,1984,Flood,1
+PA,1984,Severe Storm,0
+PA,1984,Fire,0
+PA,1984,Hurricane,0
+PA,1984,Tornado,0
+NV,1984,Flood,1
+NV,1984,Severe Storm,0
+NV,1984,Fire,0
+NV,1984,Hurricane,0
+NV,1984,Tornado,0
+TX,1985,Flood,1
+TX,1985,Severe Storm,0
+TX,1985,Fire,0
+TX,1985,Hurricane,0
+TX,1985,Tornado,0
+LA,1985,Flood,1
+LA,1985,Severe Storm,0
+LA,1985,Fire,0
+LA,1985,Hurricane,0
+LA,1985,Tornado,0
+AZ,1985,Flood,0
+AZ,1985,Severe Storm,1
+AZ,1985,Fire,0
+AZ,1985,Hurricane,0
+AZ,1985,Tornado,0
+NM,1985,Flood,1
+NM,1985,Severe Storm,0
+NM,1985,Fire,0
+NM,1985,Hurricane,0
+NM,1985,Tornado,0
+NY,1985,Flood,1
+NY,1985,Severe Storm,0
+NY,1985,Fire,0
+NY,1985,Hurricane,0
+NY,1985,Tornado,0
+IL,1985,Flood,1
+IL,1985,Severe Storm,0
+IL,1985,Fire,0
+IL,1985,Hurricane,0
+IL,1985,Tornado,0
+FL,1985,Flood,0
+FL,1985,Severe Storm,0
+FL,1985,Fire,1
+FL,1985,Hurricane,1
+FL,1985,Tornado,0
+OH,1985,Flood,0
+OH,1985,Severe Storm,0
+OH,1985,Fire,0
+OH,1985,Hurricane,0
+OH,1985,Tornado,1
+PA,1985,Flood,0
+PA,1985,Severe Storm,0
+PA,1985,Fire,0
+PA,1985,Hurricane,0
+PA,1985,Tornado,1
+CA,1985,Flood,0
+CA,1985,Severe Storm,0
+CA,1985,Fire,1
+CA,1985,Hurricane,0
+CA,1985,Tornado,0
+SD,1985,Flood,0
+SD,1985,Severe Storm,0
+SD,1985,Fire,1
+SD,1985,Hurricane,0
+SD,1985,Tornado,0
+WY,1985,Flood,1
+WY,1985,Severe Storm,0
+WY,1985,Fire,0
+WY,1985,Hurricane,0
+WY,1985,Tornado,0
+WA,1985,Flood,0
+WA,1985,Severe Storm,0
+WA,1985,Fire,1
+WA,1985,Hurricane,0
+WA,1985,Tornado,0
+MS,1985,Flood,0
+MS,1985,Severe Storm,0
+MS,1985,Fire,0
+MS,1985,Hurricane,1
+MS,1985,Tornado,0
+AL,1985,Flood,0
+AL,1985,Severe Storm,0
+AL,1985,Fire,0
+AL,1985,Hurricane,1
+AL,1985,Tornado,0
+MI,1985,Flood,1
+MI,1985,Severe Storm,0
+MI,1985,Fire,0
+MI,1985,Hurricane,0
+MI,1985,Tornado,0
+PA,1986,Flood,1
+PA,1986,Severe Storm,0
+PA,1986,Fire,0
+PA,1986,Hurricane,1
+PA,1986,Tornado,0
+CT,1986,Flood,0
+CT,1986,Severe Storm,0
+CT,1986,Fire,0
+CT,1986,Hurricane,1
+CT,1986,Tornado,0
+NJ,1986,Flood,0
+NJ,1986,Severe Storm,0
+NJ,1986,Fire,0
+NJ,1986,Hurricane,1
+NJ,1986,Tornado,0
+RI,1986,Flood,0
+RI,1986,Severe Storm,0
+RI,1986,Fire,0
+RI,1986,Hurricane,1
+RI,1986,Tornado,0
+NY,1986,Flood,0
+NY,1986,Severe Storm,0
+NY,1986,Fire,0
+NY,1986,Hurricane,1
+NY,1986,Tornado,0
+MA,1986,Flood,0
+MA,1986,Severe Storm,0
+MA,1986,Fire,0
+MA,1986,Hurricane,1
+MA,1986,Tornado,0
+LA,1986,Flood,0
+LA,1986,Severe Storm,0
+LA,1986,Fire,0
+LA,1986,Hurricane,1
+LA,1986,Tornado,0
+WV,1986,Flood,1
+WV,1986,Severe Storm,0
+WV,1986,Fire,0
+WV,1986,Hurricane,0
+WV,1986,Tornado,0
+VA,1986,Flood,1
+VA,1986,Severe Storm,0
+VA,1986,Fire,0
+VA,1986,Hurricane,0
+VA,1986,Tornado,0
+FL,1986,Flood,0
+FL,1986,Severe Storm,0
+FL,1986,Fire,0
+FL,1986,Hurricane,1
+FL,1986,Tornado,0
+WA,1986,Flood,1
+WA,1986,Severe Storm,0
+WA,1986,Fire,0
+WA,1986,Hurricane,0
+WA,1986,Tornado,0
+CA,1986,Flood,1
+CA,1986,Severe Storm,0
+CA,1986,Fire,0
+CA,1986,Hurricane,0
+CA,1986,Tornado,0
+NV,1986,Flood,1
+NV,1986,Severe Storm,0
+NV,1986,Fire,0
+NV,1986,Hurricane,0
+NV,1986,Tornado,0
+UT,1986,Flood,1
+UT,1986,Severe Storm,0
+UT,1986,Fire,0
+UT,1986,Hurricane,0
+UT,1986,Tornado,0
+MT,1986,Flood,1
+MT,1986,Severe Storm,0
+MT,1986,Fire,0
+MT,1986,Hurricane,0
+MT,1986,Tornado,0
+TX,1986,Flood,0
+TX,1986,Severe Storm,0
+TX,1986,Fire,0
+TX,1986,Hurricane,0
+TX,1986,Tornado,1
+SD,1986,Flood,1
+SD,1986,Severe Storm,0
+SD,1986,Fire,0
+SD,1986,Hurricane,0
+SD,1986,Tornado,0
+NC,1986,Flood,0
+NC,1986,Severe Storm,0
+NC,1986,Fire,1
+NC,1986,Hurricane,0
+NC,1986,Tornado,0
+IN,1986,Flood,0
+IN,1986,Severe Storm,0
+IN,1986,Fire,0
+IN,1986,Hurricane,0
+IN,1986,Tornado,1
+WI,1986,Flood,1
+WI,1986,Severe Storm,0
+WI,1986,Fire,0
+WI,1986,Hurricane,0
+WI,1986,Tornado,0
+NH,1986,Flood,1
+NH,1986,Severe Storm,0
+NH,1986,Fire,0
+NH,1986,Hurricane,0
+NH,1986,Tornado,0
+MD,1986,Flood,1
+MD,1986,Severe Storm,0
+MD,1986,Fire,0
+MD,1986,Hurricane,0
+MD,1986,Tornado,0
+MI,1986,Flood,1
+MI,1986,Severe Storm,0
+MI,1986,Fire,0
+MI,1986,Hurricane,0
+MI,1986,Tornado,0
+IL,1987,Flood,1
+IL,1987,Severe Storm,0
+IL,1987,Fire,0
+IL,1987,Hurricane,0
+IL,1987,Tornado,0
+WI,1987,Flood,1
+WI,1987,Severe Storm,0
+WI,1987,Fire,0
+WI,1987,Hurricane,0
+WI,1987,Tornado,0
+MO,1987,Flood,1
+MO,1987,Severe Storm,0
+MO,1987,Fire,0
+MO,1987,Hurricane,0
+MO,1987,Tornado,0
+OK,1987,Flood,1
+OK,1987,Severe Storm,0
+OK,1987,Fire,0
+OK,1987,Hurricane,0
+OK,1987,Tornado,0
+MT,1987,Flood,1
+MT,1987,Severe Storm,0
+MT,1987,Fire,0
+MT,1987,Hurricane,0
+MT,1987,Tornado,0
+KS,1987,Flood,1
+KS,1987,Severe Storm,0
+KS,1987,Fire,0
+KS,1987,Hurricane,0
+KS,1987,Tornado,0
+AK,1987,Flood,1
+AK,1987,Severe Storm,0
+AK,1987,Fire,0
+AK,1987,Hurricane,0
+AK,1987,Tornado,0
+WA,1987,Flood,1
+WA,1987,Severe Storm,0
+WA,1987,Fire,0
+WA,1987,Hurricane,0
+WA,1987,Tornado,0
+MS,1987,Flood,0
+MS,1987,Severe Storm,1
+MS,1987,Fire,0
+MS,1987,Hurricane,0
+MS,1987,Tornado,0
+ME,1987,Flood,1
+ME,1987,Severe Storm,0
+ME,1987,Fire,0
+ME,1987,Hurricane,0
+ME,1987,Tornado,0
+NH,1987,Flood,1
+NH,1987,Severe Storm,0
+NH,1987,Fire,0
+NH,1987,Hurricane,0
+NH,1987,Tornado,0
+MA,1987,Flood,1
+MA,1987,Severe Storm,0
+MA,1987,Fire,0
+MA,1987,Hurricane,0
+MA,1987,Tornado,0
+NY,1987,Flood,1
+NY,1987,Severe Storm,0
+NY,1987,Fire,0
+NY,1987,Hurricane,0
+NY,1987,Tornado,0
+TX,1987,Flood,0
+TX,1987,Severe Storm,0
+TX,1987,Fire,0
+TX,1987,Hurricane,0
+TX,1987,Tornado,1
+OR,1987,Flood,0
+OR,1987,Severe Storm,0
+OR,1987,Fire,1
+OR,1987,Hurricane,0
+OR,1987,Tornado,0
+OH,1987,Flood,1
+OH,1987,Severe Storm,0
+OH,1987,Fire,0
+OH,1987,Hurricane,0
+OH,1987,Tornado,0
+IA,1987,Flood,1
+IA,1987,Severe Storm,0
+IA,1987,Fire,0
+IA,1987,Hurricane,0
+IA,1987,Tornado,0
+SD,1987,Flood,0
+SD,1987,Severe Storm,0
+SD,1987,Fire,1
+SD,1987,Hurricane,0
+SD,1987,Tornado,0
+MN,1987,Flood,0
+MN,1987,Severe Storm,1
+MN,1987,Fire,0
+MN,1987,Hurricane,0
+MN,1987,Tornado,0
+CA,1987,Flood,0
+CA,1987,Severe Storm,0
+CA,1987,Fire,1
+CA,1987,Hurricane,0
+CA,1987,Tornado,0
+OR,1988,Flood,0
+OR,1988,Severe Storm,0
+OR,1988,Fire,1
+OR,1988,Hurricane,0
+OR,1988,Tornado,0
+TX,1988,Flood,0
+TX,1988,Severe Storm,0
+TX,1988,Fire,1
+TX,1988,Hurricane,0
+TX,1988,Tornado,1
+LA,1988,Flood,0
+LA,1988,Severe Storm,0
+LA,1988,Fire,0
+LA,1988,Hurricane,0
+LA,1988,Tornado,1
+AR,1988,Flood,1
+AR,1988,Severe Storm,0
+AR,1988,Fire,0
+AR,1988,Hurricane,0
+AR,1988,Tornado,1
+HI,1988,Flood,1
+HI,1988,Severe Storm,0
+HI,1988,Fire,0
+HI,1988,Hurricane,0
+HI,1988,Tornado,0
+CA,1988,Flood,1
+CA,1988,Severe Storm,0
+CA,1988,Fire,1
+CA,1988,Hurricane,0
+CA,1988,Tornado,0
+AK,1988,Flood,0
+AK,1988,Severe Storm,0
+AK,1988,Fire,1
+AK,1988,Hurricane,0
+AK,1988,Tornado,0
+SD,1988,Flood,0
+SD,1988,Severe Storm,0
+SD,1988,Fire,1
+SD,1988,Hurricane,0
+SD,1988,Tornado,0
+IA,1988,Flood,0
+IA,1988,Severe Storm,0
+IA,1988,Fire,0
+IA,1988,Hurricane,0
+IA,1988,Tornado,1
+WA,1988,Flood,0
+WA,1988,Severe Storm,0
+WA,1988,Fire,1
+WA,1988,Hurricane,0
+WA,1988,Tornado,0
+TX,1989,Flood,1
+TX,1989,Severe Storm,1
+TX,1989,Fire,0
+TX,1989,Hurricane,1
+TX,1989,Tornado,0
+AR,1989,Flood,0
+AR,1989,Severe Storm,0
+AR,1989,Fire,0
+AR,1989,Hurricane,0
+AR,1989,Tornado,1
+NC,1989,Flood,0
+NC,1989,Severe Storm,0
+NC,1989,Fire,0
+NC,1989,Hurricane,1
+NC,1989,Tornado,1
+IL,1989,Flood,0
+IL,1989,Severe Storm,0
+IL,1989,Fire,0
+IL,1989,Hurricane,0
+IL,1989,Tornado,1
+UT,1989,Flood,1
+UT,1989,Severe Storm,0
+UT,1989,Fire,0
+UT,1989,Hurricane,0
+UT,1989,Tornado,0
+KY,1989,Flood,1
+KY,1989,Severe Storm,0
+KY,1989,Fire,0
+KY,1989,Hurricane,0
+KY,1989,Tornado,0
+WA,1989,Flood,1
+WA,1989,Severe Storm,0
+WA,1989,Fire,0
+WA,1989,Hurricane,0
+WA,1989,Tornado,0
+ND,1989,Flood,1
+ND,1989,Severe Storm,0
+ND,1989,Fire,0
+ND,1989,Hurricane,0
+ND,1989,Tornado,0
+MN,1989,Flood,1
+MN,1989,Severe Storm,0
+MN,1989,Fire,0
+MN,1989,Hurricane,0
+MN,1989,Tornado,0
+LA,1989,Flood,1
+LA,1989,Severe Storm,0
+LA,1989,Fire,0
+LA,1989,Hurricane,0
+LA,1989,Tornado,1
+ME,1989,Flood,1
+ME,1989,Severe Storm,0
+ME,1989,Fire,0
+ME,1989,Hurricane,0
+ME,1989,Tornado,0
+AK,1989,Flood,1
+AK,1989,Severe Storm,0
+AK,1989,Fire,0
+AK,1989,Hurricane,0
+AK,1989,Tornado,0
+OH,1989,Flood,1
+OH,1989,Severe Storm,0
+OH,1989,Fire,0
+OH,1989,Hurricane,0
+OH,1989,Tornado,0
+CO,1989,Flood,0
+CO,1989,Severe Storm,0
+CO,1989,Fire,1
+CO,1989,Hurricane,0
+CO,1989,Tornado,0
+CT,1989,Flood,0
+CT,1989,Severe Storm,0
+CT,1989,Fire,0
+CT,1989,Hurricane,0
+CT,1989,Tornado,1
+MD,1989,Flood,0
+MD,1989,Severe Storm,1
+MD,1989,Fire,0
+MD,1989,Hurricane,0
+MD,1989,Tornado,0
+VT,1989,Flood,1
+VT,1989,Severe Storm,0
+VT,1989,Fire,0
+VT,1989,Hurricane,0
+VT,1989,Tornado,0
+SC,1989,Flood,0
+SC,1989,Severe Storm,0
+SC,1989,Fire,0
+SC,1989,Hurricane,1
+SC,1989,Tornado,0
+KY,1990,Flood,1
+KY,1990,Severe Storm,0
+KY,1990,Fire,0
+KY,1990,Hurricane,0
+KY,1990,Tornado,0
+VA,1990,Flood,1
+VA,1990,Severe Storm,0
+VA,1990,Fire,0
+VA,1990,Hurricane,0
+VA,1990,Tornado,0
+AL,1990,Flood,0
+AL,1990,Severe Storm,1
+AL,1990,Fire,0
+AL,1990,Hurricane,0
+AL,1990,Tornado,1
+LA,1990,Flood,1
+LA,1990,Severe Storm,0
+LA,1990,Fire,0
+LA,1990,Hurricane,0
+LA,1990,Tornado,0
+WA,1990,Flood,1
+WA,1990,Severe Storm,0
+WA,1990,Fire,0
+WA,1990,Hurricane,0
+WA,1990,Tornado,0
+OR,1990,Flood,1
+OR,1990,Severe Storm,0
+OR,1990,Fire,1
+OR,1990,Hurricane,0
+OR,1990,Tornado,0
+GA,1990,Flood,0
+GA,1990,Severe Storm,1
+GA,1990,Fire,0
+GA,1990,Hurricane,0
+GA,1990,Tornado,0
+TN,1990,Flood,1
+TN,1990,Severe Storm,0
+TN,1990,Fire,0
+TN,1990,Hurricane,0
+TN,1990,Tornado,0
+MS,1990,Flood,0
+MS,1990,Severe Storm,1
+MS,1990,Fire,0
+MS,1990,Hurricane,0
+MS,1990,Tornado,0
+FL,1990,Flood,1
+FL,1990,Severe Storm,0
+FL,1990,Fire,0
+FL,1990,Hurricane,0
+FL,1990,Tornado,0
+TX,1990,Flood,0
+TX,1990,Severe Storm,1
+TX,1990,Fire,0
+TX,1990,Hurricane,0
+TX,1990,Tornado,0
+AR,1990,Flood,1
+AR,1990,Severe Storm,0
+AR,1990,Fire,0
+AR,1990,Hurricane,0
+AR,1990,Tornado,0
+OK,1990,Flood,0
+OK,1990,Severe Storm,1
+OK,1990,Fire,0
+OK,1990,Hurricane,0
+OK,1990,Tornado,0
+MO,1990,Flood,1
+MO,1990,Severe Storm,0
+MO,1990,Fire,0
+MO,1990,Hurricane,0
+MO,1990,Tornado,0
+IA,1990,Flood,1
+IA,1990,Severe Storm,0
+IA,1990,Fire,0
+IA,1990,Hurricane,0
+IA,1990,Tornado,0
+IN,1990,Flood,0
+IN,1990,Severe Storm,1
+IN,1990,Fire,0
+IN,1990,Hurricane,0
+IN,1990,Tornado,0
+OH,1990,Flood,0
+OH,1990,Severe Storm,1
+OH,1990,Fire,0
+OH,1990,Hurricane,0
+OH,1990,Tornado,0
+IL,1990,Flood,0
+IL,1990,Severe Storm,1
+IL,1990,Fire,0
+IL,1990,Hurricane,0
+IL,1990,Tornado,1
+AZ,1990,Flood,0
+AZ,1990,Severe Storm,0
+AZ,1990,Fire,1
+AZ,1990,Hurricane,0
+AZ,1990,Tornado,0
+CA,1990,Flood,0
+CA,1990,Severe Storm,0
+CA,1990,Fire,1
+CA,1990,Hurricane,0
+CA,1990,Tornado,0
+NE,1990,Flood,0
+NE,1990,Severe Storm,1
+NE,1990,Fire,0
+NE,1990,Hurricane,0
+NE,1990,Tornado,0
+AK,1990,Flood,0
+AK,1990,Severe Storm,0
+AK,1990,Fire,1
+AK,1990,Hurricane,0
+AK,1990,Tornado,0
+WI,1990,Flood,1
+WI,1990,Severe Storm,1
+WI,1990,Fire,0
+WI,1990,Hurricane,0
+WI,1990,Tornado,0
+VT,1990,Flood,1
+VT,1990,Severe Storm,0
+VT,1990,Fire,0
+VT,1990,Hurricane,0
+VT,1990,Tornado,0
+NH,1990,Flood,1
+NH,1990,Severe Storm,0
+NH,1990,Fire,0
+NH,1990,Hurricane,0
+NH,1990,Tornado,0
+SD,1990,Flood,0
+SD,1990,Severe Storm,0
+SD,1990,Fire,1
+SD,1990,Hurricane,0
+SD,1990,Tornado,0
+GA,1991,Flood,1
+GA,1991,Severe Storm,0
+GA,1991,Fire,0
+GA,1991,Hurricane,0
+GA,1991,Tornado,0
+SC,1991,Flood,1
+SC,1991,Severe Storm,0
+SC,1991,Fire,0
+SC,1991,Hurricane,0
+SC,1991,Tornado,0
+CO,1991,Flood,0
+CO,1991,Severe Storm,0
+CO,1991,Fire,1
+CO,1991,Hurricane,0
+CO,1991,Tornado,0
+WA,1991,Flood,1
+WA,1991,Severe Storm,0
+WA,1991,Fire,0
+WA,1991,Hurricane,0
+WA,1991,Tornado,0
+IN,1991,Flood,1
+IN,1991,Severe Storm,0
+IN,1991,Fire,0
+IN,1991,Hurricane,0
+IN,1991,Tornado,0
+AZ,1991,Flood,1
+AZ,1991,Severe Storm,0
+AZ,1991,Fire,0
+AZ,1991,Hurricane,0
+AZ,1991,Tornado,0
+MS,1991,Flood,1
+MS,1991,Severe Storm,1
+MS,1991,Fire,0
+MS,1991,Hurricane,0
+MS,1991,Tornado,0
+AL,1991,Flood,1
+AL,1991,Severe Storm,0
+AL,1991,Fire,0
+AL,1991,Hurricane,0
+AL,1991,Tornado,0
+TN,1991,Flood,1
+TN,1991,Severe Storm,0
+TN,1991,Fire,0
+TN,1991,Hurricane,0
+TN,1991,Tornado,0
+KY,1991,Flood,1
+KY,1991,Severe Storm,0
+KY,1991,Fire,0
+KY,1991,Hurricane,0
+KY,1991,Tornado,0
+TX,1991,Flood,0
+TX,1991,Severe Storm,1
+TX,1991,Fire,0
+TX,1991,Hurricane,0
+TX,1991,Tornado,0
+LA,1991,Flood,1
+LA,1991,Severe Storm,1
+LA,1991,Fire,0
+LA,1991,Hurricane,0
+LA,1991,Tornado,0
+KS,1991,Flood,0
+KS,1991,Severe Storm,0
+KS,1991,Fire,0
+KS,1991,Hurricane,0
+KS,1991,Tornado,1
+OK,1991,Flood,0
+OK,1991,Severe Storm,0
+OK,1991,Fire,0
+OK,1991,Hurricane,0
+OK,1991,Tornado,1
+NE,1991,Flood,1
+NE,1991,Severe Storm,0
+NE,1991,Fire,0
+NE,1991,Hurricane,0
+NE,1991,Tornado,0
+AR,1991,Flood,1
+AR,1991,Severe Storm,0
+AR,1991,Fire,0
+AR,1991,Hurricane,0
+AR,1991,Tornado,0
+AK,1991,Flood,0
+AK,1991,Severe Storm,0
+AK,1991,Fire,1
+AK,1991,Hurricane,0
+AK,1991,Tornado,0
+IA,1991,Flood,1
+IA,1991,Severe Storm,0
+IA,1991,Fire,0
+IA,1991,Hurricane,0
+IA,1991,Tornado,0
+WI,1991,Flood,0
+WI,1991,Severe Storm,1
+WI,1991,Fire,0
+WI,1991,Hurricane,0
+WI,1991,Tornado,0
+MA,1991,Flood,0
+MA,1991,Severe Storm,0
+MA,1991,Fire,0
+MA,1991,Hurricane,1
+MA,1991,Tornado,0
+RI,1991,Flood,0
+RI,1991,Severe Storm,0
+RI,1991,Fire,0
+RI,1991,Hurricane,1
+RI,1991,Tornado,0
+ME,1991,Flood,0
+ME,1991,Severe Storm,0
+ME,1991,Fire,0
+ME,1991,Hurricane,1
+ME,1991,Tornado,0
+CT,1991,Flood,0
+CT,1991,Severe Storm,0
+CT,1991,Fire,0
+CT,1991,Hurricane,1
+CT,1991,Tornado,0
+NH,1991,Flood,0
+NH,1991,Severe Storm,0
+NH,1991,Fire,0
+NH,1991,Hurricane,1
+NH,1991,Tornado,0
+NY,1991,Flood,0
+NY,1991,Severe Storm,0
+NY,1991,Fire,0
+NY,1991,Hurricane,1
+NY,1991,Tornado,0
+WA,1992,Flood,0
+WA,1992,Severe Storm,0
+WA,1992,Fire,1
+WA,1992,Hurricane,0
+WA,1992,Tornado,0
+CA,1992,Flood,1
+CA,1992,Severe Storm,0
+CA,1992,Fire,1
+CA,1992,Hurricane,0
+CA,1992,Tornado,0
+TX,1992,Flood,1
+TX,1992,Severe Storm,1
+TX,1992,Fire,0
+TX,1992,Hurricane,0
+TX,1992,Tornado,1
+DE,1992,Flood,1
+DE,1992,Severe Storm,0
+DE,1992,Fire,0
+DE,1992,Hurricane,0
+DE,1992,Tornado,0
+NJ,1992,Flood,0
+NJ,1992,Severe Storm,1
+NJ,1992,Fire,0
+NJ,1992,Hurricane,0
+NJ,1992,Tornado,0
+VT,1992,Flood,1
+VT,1992,Severe Storm,0
+VT,1992,Fire,0
+VT,1992,Hurricane,0
+VT,1992,Tornado,0
+MS,1992,Flood,0
+MS,1992,Severe Storm,0
+MS,1992,Fire,0
+MS,1992,Hurricane,0
+MS,1992,Tornado,1
+ME,1992,Flood,1
+ME,1992,Severe Storm,0
+ME,1992,Fire,1
+ME,1992,Hurricane,0
+ME,1992,Tornado,0
+IL,1992,Flood,1
+IL,1992,Severe Storm,0
+IL,1992,Fire,0
+IL,1992,Hurricane,0
+IL,1992,Tornado,0
+VA,1992,Flood,1
+VA,1992,Severe Storm,0
+VA,1992,Fire,0
+VA,1992,Hurricane,0
+VA,1992,Tornado,0
+OR,1992,Flood,0
+OR,1992,Severe Storm,0
+OR,1992,Fire,1
+OR,1992,Hurricane,0
+OR,1992,Tornado,0
+NM,1992,Flood,1
+NM,1992,Severe Storm,0
+NM,1992,Fire,0
+NM,1992,Hurricane,0
+NM,1992,Tornado,0
+MN,1992,Flood,0
+MN,1992,Severe Storm,1
+MN,1992,Fire,0
+MN,1992,Hurricane,0
+MN,1992,Tornado,0
+SD,1992,Flood,0
+SD,1992,Severe Storm,1
+SD,1992,Fire,0
+SD,1992,Hurricane,0
+SD,1992,Tornado,0
+AR,1992,Flood,0
+AR,1992,Severe Storm,1
+AR,1992,Fire,0
+AR,1992,Hurricane,0
+AR,1992,Tornado,0
+OH,1992,Flood,0
+OH,1992,Severe Storm,1
+OH,1992,Fire,0
+OH,1992,Hurricane,0
+OH,1992,Tornado,0
+FL,1992,Flood,1
+FL,1992,Severe Storm,0
+FL,1992,Fire,0
+FL,1992,Hurricane,1
+FL,1992,Tornado,0
+IN,1992,Flood,1
+IN,1992,Severe Storm,1
+IN,1992,Fire,0
+IN,1992,Hurricane,0
+IN,1992,Tornado,0
+NE,1992,Flood,1
+NE,1992,Severe Storm,0
+NE,1992,Fire,0
+NE,1992,Hurricane,0
+NE,1992,Tornado,0
+LA,1992,Flood,0
+LA,1992,Severe Storm,0
+LA,1992,Fire,0
+LA,1992,Hurricane,1
+LA,1992,Tornado,0
+WI,1992,Flood,1
+WI,1992,Severe Storm,0
+WI,1992,Fire,0
+WI,1992,Hurricane,0
+WI,1992,Tornado,1
+HI,1992,Flood,0
+HI,1992,Severe Storm,0
+HI,1992,Fire,0
+HI,1992,Hurricane,1
+HI,1992,Tornado,0
+IA,1993,Flood,1
+IA,1993,Severe Storm,0
+IA,1993,Fire,0
+IA,1993,Hurricane,0
+IA,1993,Tornado,0
+FL,1993,Flood,0
+FL,1993,Severe Storm,1
+FL,1993,Fire,0
+FL,1993,Hurricane,0
+FL,1993,Tornado,1
+MS,1993,Flood,0
+MS,1993,Severe Storm,0
+MS,1993,Fire,0
+MS,1993,Hurricane,0
+MS,1993,Tornado,1
+GA,1993,Flood,0
+GA,1993,Severe Storm,0
+GA,1993,Fire,0
+GA,1993,Hurricane,0
+GA,1993,Tornado,1
+TX,1993,Flood,0
+TX,1993,Severe Storm,0
+TX,1993,Fire,1
+TX,1993,Hurricane,0
+TX,1993,Tornado,1
+CT,1993,Flood,1
+CT,1993,Severe Storm,0
+CT,1993,Fire,0
+CT,1993,Hurricane,0
+CT,1993,Tornado,0
+NJ,1993,Flood,1
+NJ,1993,Severe Storm,0
+NJ,1993,Fire,0
+NJ,1993,Hurricane,0
+NJ,1993,Tornado,0
+NY,1993,Flood,1
+NY,1993,Severe Storm,0
+NY,1993,Fire,0
+NY,1993,Hurricane,0
+NY,1993,Tornado,0
+AZ,1993,Flood,1
+AZ,1993,Severe Storm,0
+AZ,1993,Fire,1
+AZ,1993,Hurricane,0
+AZ,1993,Tornado,0
+LA,1993,Flood,1
+LA,1993,Severe Storm,0
+LA,1993,Fire,0
+LA,1993,Hurricane,0
+LA,1993,Tornado,0
+CA,1993,Flood,1
+CA,1993,Severe Storm,0
+CA,1993,Fire,0
+CA,1993,Hurricane,0
+CA,1993,Tornado,0
+WA,1993,Flood,0
+WA,1993,Severe Storm,1
+WA,1993,Fire,0
+WA,1993,Hurricane,0
+WA,1993,Tornado,0
+NE,1993,Flood,1
+NE,1993,Severe Storm,0
+NE,1993,Fire,0
+NE,1993,Hurricane,0
+NE,1993,Tornado,0
+OK,1993,Flood,0
+OK,1993,Severe Storm,1
+OK,1993,Fire,0
+OK,1993,Hurricane,0
+OK,1993,Tornado,1
+MO,1993,Flood,1
+MO,1993,Severe Storm,0
+MO,1993,Fire,0
+MO,1993,Hurricane,0
+MO,1993,Tornado,0
+ME,1993,Flood,1
+ME,1993,Severe Storm,0
+ME,1993,Fire,0
+ME,1993,Hurricane,0
+ME,1993,Tornado,0
+VT,1993,Flood,1
+VT,1993,Severe Storm,0
+VT,1993,Fire,0
+VT,1993,Hurricane,0
+VT,1993,Tornado,0
+NM,1993,Flood,1
+NM,1993,Severe Storm,0
+NM,1993,Fire,0
+NM,1993,Hurricane,0
+NM,1993,Tornado,0
+MN,1993,Flood,0
+MN,1993,Severe Storm,1
+MN,1993,Fire,0
+MN,1993,Hurricane,0
+MN,1993,Tornado,0
+WI,1993,Flood,0
+WI,1993,Severe Storm,1
+WI,1993,Fire,0
+WI,1993,Hurricane,0
+WI,1993,Tornado,0
+IL,1993,Flood,1
+IL,1993,Severe Storm,0
+IL,1993,Fire,0
+IL,1993,Hurricane,0
+IL,1993,Tornado,0
+SD,1993,Flood,0
+SD,1993,Severe Storm,1
+SD,1993,Fire,0
+SD,1993,Hurricane,0
+SD,1993,Tornado,0
+KS,1993,Flood,1
+KS,1993,Severe Storm,0
+KS,1993,Fire,0
+KS,1993,Hurricane,0
+KS,1993,Tornado,0
+ND,1993,Flood,1
+ND,1993,Severe Storm,0
+ND,1993,Fire,0
+ND,1993,Hurricane,0
+ND,1993,Tornado,0
+IN,1993,Flood,0
+IN,1993,Severe Storm,1
+IN,1993,Fire,0
+IN,1993,Hurricane,0
+IN,1993,Tornado,0
+NC,1993,Flood,0
+NC,1993,Severe Storm,0
+NC,1993,Fire,0
+NC,1993,Hurricane,1
+NC,1993,Tornado,0
+CA,1994,Flood,0
+CA,1994,Severe Storm,0
+CA,1994,Fire,1
+CA,1994,Hurricane,0
+CA,1994,Tornado,0
+MO,1994,Flood,0
+MO,1994,Severe Storm,1
+MO,1994,Fire,0
+MO,1994,Hurricane,0
+MO,1994,Tornado,0
+VA,1994,Flood,0
+VA,1994,Severe Storm,1
+VA,1994,Fire,0
+VA,1994,Hurricane,0
+VA,1994,Tornado,0
+MS,1994,Flood,0
+MS,1994,Severe Storm,1
+MS,1994,Fire,0
+MS,1994,Hurricane,0
+MS,1994,Tornado,0
+LA,1994,Flood,0
+LA,1994,Severe Storm,1
+LA,1994,Fire,0
+LA,1994,Hurricane,0
+LA,1994,Tornado,0
+TN,1994,Flood,1
+TN,1994,Severe Storm,1
+TN,1994,Fire,0
+TN,1994,Hurricane,0
+TN,1994,Tornado,0
+AL,1994,Flood,0
+AL,1994,Severe Storm,1
+AL,1994,Fire,0
+AL,1994,Hurricane,0
+AL,1994,Tornado,0
+PA,1994,Flood,0
+PA,1994,Severe Storm,1
+PA,1994,Fire,0
+PA,1994,Hurricane,0
+PA,1994,Tornado,0
+DE,1994,Flood,0
+DE,1994,Severe Storm,1
+DE,1994,Fire,0
+DE,1994,Hurricane,0
+DE,1994,Tornado,0
+GA,1994,Flood,0
+GA,1994,Severe Storm,0
+GA,1994,Fire,0
+GA,1994,Hurricane,0
+GA,1994,Tornado,1
+OK,1994,Flood,0
+OK,1994,Severe Storm,1
+OK,1994,Fire,0
+OK,1994,Hurricane,0
+OK,1994,Tornado,0
+AZ,1994,Flood,0
+AZ,1994,Severe Storm,0
+AZ,1994,Fire,1
+AZ,1994,Hurricane,0
+AZ,1994,Tornado,0
+IL,1994,Flood,0
+IL,1994,Severe Storm,1
+IL,1994,Fire,0
+IL,1994,Hurricane,0
+IL,1994,Tornado,0
+TX,1994,Flood,0
+TX,1994,Severe Storm,1
+TX,1994,Fire,1
+TX,1994,Hurricane,0
+TX,1994,Tornado,0
+ME,1994,Flood,1
+ME,1994,Severe Storm,0
+ME,1994,Fire,0
+ME,1994,Hurricane,0
+ME,1994,Tornado,0
+SD,1994,Flood,0
+SD,1994,Severe Storm,1
+SD,1994,Fire,1
+SD,1994,Hurricane,0
+SD,1994,Tornado,0
+ND,1994,Flood,0
+ND,1994,Severe Storm,1
+ND,1994,Fire,0
+ND,1994,Hurricane,0
+ND,1994,Tornado,0
+CO,1994,Flood,0
+CO,1994,Severe Storm,0
+CO,1994,Fire,1
+CO,1994,Hurricane,0
+CO,1994,Tornado,0
+FL,1994,Flood,1
+FL,1994,Severe Storm,1
+FL,1994,Fire,0
+FL,1994,Hurricane,0
+FL,1994,Tornado,0
+WA,1994,Flood,0
+WA,1994,Severe Storm,0
+WA,1994,Fire,1
+WA,1994,Hurricane,0
+WA,1994,Tornado,0
+NV,1994,Flood,0
+NV,1994,Severe Storm,0
+NV,1994,Fire,1
+NV,1994,Hurricane,0
+NV,1994,Tornado,0
+UT,1994,Flood,0
+UT,1994,Severe Storm,0
+UT,1994,Fire,1
+UT,1994,Hurricane,0
+UT,1994,Tornado,0
+MT,1994,Flood,0
+MT,1994,Severe Storm,0
+MT,1994,Fire,1
+MT,1994,Hurricane,0
+MT,1994,Tornado,0
+OR,1994,Flood,0
+OR,1994,Severe Storm,0
+OR,1994,Fire,1
+OR,1994,Hurricane,0
+OR,1994,Tornado,0
+AK,1994,Flood,0
+AK,1994,Severe Storm,1
+AK,1994,Fire,0
+AK,1994,Hurricane,0
+AK,1994,Tornado,0
+TX,1995,Flood,1
+TX,1995,Severe Storm,1
+TX,1995,Fire,0
+TX,1995,Hurricane,0
+TX,1995,Tornado,0
+GA,1995,Flood,0
+GA,1995,Severe Storm,1
+GA,1995,Fire,0
+GA,1995,Hurricane,0
+GA,1995,Tornado,0
+FL,1995,Flood,0
+FL,1995,Severe Storm,1
+FL,1995,Fire,0
+FL,1995,Hurricane,1
+FL,1995,Tornado,0
+CA,1995,Flood,0
+CA,1995,Severe Storm,1
+CA,1995,Fire,0
+CA,1995,Hurricane,0
+CA,1995,Tornado,0
+AL,1995,Flood,0
+AL,1995,Severe Storm,1
+AL,1995,Fire,0
+AL,1995,Hurricane,0
+AL,1995,Tornado,0
+LA,1995,Flood,0
+LA,1995,Severe Storm,1
+LA,1995,Fire,0
+LA,1995,Hurricane,0
+LA,1995,Tornado,0
+MS,1995,Flood,0
+MS,1995,Severe Storm,1
+MS,1995,Fire,0
+MS,1995,Hurricane,0
+MS,1995,Tornado,0
+ND,1995,Flood,0
+ND,1995,Severe Storm,1
+ND,1995,Fire,0
+ND,1995,Hurricane,0
+ND,1995,Tornado,0
+SD,1995,Flood,1
+SD,1995,Severe Storm,0
+SD,1995,Fire,0
+SD,1995,Hurricane,0
+SD,1995,Tornado,0
+IL,1995,Flood,0
+IL,1995,Severe Storm,1
+IL,1995,Fire,0
+IL,1995,Hurricane,0
+IL,1995,Tornado,0
+MO,1995,Flood,0
+MO,1995,Severe Storm,1
+MO,1995,Fire,0
+MO,1995,Hurricane,0
+MO,1995,Tornado,0
+AZ,1995,Flood,0
+AZ,1995,Severe Storm,0
+AZ,1995,Fire,1
+AZ,1995,Hurricane,0
+AZ,1995,Tornado,0
+KY,1995,Flood,0
+KY,1995,Severe Storm,0
+KY,1995,Fire,0
+KY,1995,Hurricane,0
+KY,1995,Tornado,1
+TN,1995,Flood,0
+TN,1995,Severe Storm,0
+TN,1995,Fire,0
+TN,1995,Hurricane,0
+TN,1995,Tornado,1
+OK,1995,Flood,0
+OK,1995,Severe Storm,1
+OK,1995,Fire,0
+OK,1995,Hurricane,0
+OK,1995,Tornado,1
+VA,1995,Flood,0
+VA,1995,Severe Storm,1
+VA,1995,Fire,0
+VA,1995,Hurricane,0
+VA,1995,Tornado,0
+WV,1995,Flood,0
+WV,1995,Severe Storm,1
+WV,1995,Fire,0
+WV,1995,Hurricane,0
+WV,1995,Tornado,0
+OR,1995,Flood,1
+OR,1995,Severe Storm,0
+OR,1995,Fire,0
+OR,1995,Hurricane,0
+OR,1995,Tornado,0
+VT,1995,Flood,0
+VT,1995,Severe Storm,1
+VT,1995,Fire,0
+VT,1995,Hurricane,0
+VT,1995,Tornado,0
+MN,1995,Flood,0
+MN,1995,Severe Storm,1
+MN,1995,Fire,0
+MN,1995,Hurricane,0
+MN,1995,Tornado,0
+NY,1995,Flood,0
+NY,1995,Severe Storm,0
+NY,1995,Fire,1
+NY,1995,Hurricane,0
+NY,1995,Tornado,0
+OH,1995,Flood,0
+OH,1995,Severe Storm,1
+OH,1995,Fire,0
+OH,1995,Hurricane,0
+OH,1995,Tornado,0
+MA,1995,Flood,0
+MA,1995,Severe Storm,0
+MA,1995,Fire,1
+MA,1995,Hurricane,0
+MA,1995,Tornado,0
+AL,1996,Flood,0
+AL,1996,Severe Storm,1
+AL,1996,Fire,0
+AL,1996,Hurricane,1
+AL,1996,Tornado,0
+FL,1996,Flood,1
+FL,1996,Severe Storm,0
+FL,1996,Fire,0
+FL,1996,Hurricane,1
+FL,1996,Tornado,0
+GA,1996,Flood,0
+GA,1996,Severe Storm,1
+GA,1996,Fire,0
+GA,1996,Hurricane,1
+GA,1996,Tornado,0
+AK,1996,Flood,1
+AK,1996,Severe Storm,0
+AK,1996,Fire,1
+AK,1996,Hurricane,0
+AK,1996,Tornado,0
+NC,1996,Flood,1
+NC,1996,Severe Storm,0
+NC,1996,Fire,0
+NC,1996,Hurricane,1
+NC,1996,Tornado,0
+WA,1996,Flood,1
+WA,1996,Severe Storm,1
+WA,1996,Fire,1
+WA,1996,Hurricane,0
+WA,1996,Tornado,0
+NH,1996,Flood,1
+NH,1996,Severe Storm,0
+NH,1996,Fire,0
+NH,1996,Hurricane,0
+NH,1996,Tornado,0
+PA,1996,Flood,1
+PA,1996,Severe Storm,0
+PA,1996,Fire,0
+PA,1996,Hurricane,0
+PA,1996,Tornado,0
+MD,1996,Flood,1
+MD,1996,Severe Storm,0
+MD,1996,Fire,0
+MD,1996,Hurricane,1
+MD,1996,Tornado,0
+NY,1996,Flood,1
+NY,1996,Severe Storm,0
+NY,1996,Fire,0
+NY,1996,Hurricane,0
+NY,1996,Tornado,0
+WV,1996,Flood,1
+WV,1996,Severe Storm,1
+WV,1996,Fire,1
+WV,1996,Hurricane,0
+WV,1996,Tornado,0
+VA,1996,Flood,1
+VA,1996,Severe Storm,0
+VA,1996,Fire,0
+VA,1996,Hurricane,1
+VA,1996,Tornado,0
+OH,1996,Flood,1
+OH,1996,Severe Storm,0
+OH,1996,Fire,0
+OH,1996,Hurricane,0
+OH,1996,Tornado,0
+OR,1996,Flood,1
+OR,1996,Severe Storm,1
+OR,1996,Fire,1
+OR,1996,Hurricane,0
+OR,1996,Tornado,0
+ID,1996,Flood,0
+ID,1996,Severe Storm,1
+ID,1996,Fire,0
+ID,1996,Hurricane,0
+ID,1996,Tornado,0
+VT,1996,Flood,1
+VT,1996,Severe Storm,0
+VT,1996,Fire,0
+VT,1996,Hurricane,0
+VT,1996,Tornado,0
+TX,1996,Flood,0
+TX,1996,Severe Storm,0
+TX,1996,Fire,1
+TX,1996,Hurricane,0
+TX,1996,Tornado,0
+OK,1996,Flood,0
+OK,1996,Severe Storm,0
+OK,1996,Fire,1
+OK,1996,Hurricane,0
+OK,1996,Tornado,0
+MT,1996,Flood,0
+MT,1996,Severe Storm,1
+MT,1996,Fire,1
+MT,1996,Hurricane,0
+MT,1996,Tornado,0
+ME,1996,Flood,0
+ME,1996,Severe Storm,1
+ME,1996,Fire,0
+ME,1996,Hurricane,0
+ME,1996,Tornado,0
+IN,1996,Flood,1
+IN,1996,Severe Storm,1
+IN,1996,Fire,0
+IN,1996,Hurricane,0
+IN,1996,Tornado,0
+AR,1996,Flood,0
+AR,1996,Severe Storm,1
+AR,1996,Fire,0
+AR,1996,Hurricane,0
+AR,1996,Tornado,0
+IL,1996,Flood,0
+IL,1996,Severe Storm,1
+IL,1996,Fire,0
+IL,1996,Hurricane,0
+IL,1996,Tornado,0
+AZ,1996,Flood,0
+AZ,1996,Severe Storm,0
+AZ,1996,Fire,1
+AZ,1996,Hurricane,0
+AZ,1996,Tornado,0
+NM,1996,Flood,0
+NM,1996,Severe Storm,0
+NM,1996,Fire,1
+NM,1996,Hurricane,0
+NM,1996,Tornado,0
+CO,1996,Flood,0
+CO,1996,Severe Storm,0
+CO,1996,Fire,1
+CO,1996,Hurricane,0
+CO,1996,Tornado,0
+KY,1996,Flood,0
+KY,1996,Severe Storm,1
+KY,1996,Fire,0
+KY,1996,Hurricane,0
+KY,1996,Tornado,0
+MN,1996,Flood,1
+MN,1996,Severe Storm,0
+MN,1996,Fire,0
+MN,1996,Hurricane,0
+MN,1996,Tornado,0
+ND,1996,Flood,0
+ND,1996,Severe Storm,1
+ND,1996,Fire,0
+ND,1996,Hurricane,0
+ND,1996,Tornado,0
+NV,1996,Flood,0
+NV,1996,Severe Storm,0
+NV,1996,Fire,1
+NV,1996,Hurricane,0
+NV,1996,Tornado,0
+IA,1996,Flood,0
+IA,1996,Severe Storm,1
+IA,1996,Fire,0
+IA,1996,Hurricane,0
+IA,1996,Tornado,0
+NE,1996,Flood,0
+NE,1996,Severe Storm,1
+NE,1996,Fire,0
+NE,1996,Hurricane,0
+NE,1996,Tornado,0
+MI,1996,Flood,0
+MI,1996,Severe Storm,1
+MI,1996,Fire,0
+MI,1996,Hurricane,0
+MI,1996,Tornado,0
+WI,1996,Flood,1
+WI,1996,Severe Storm,0
+WI,1996,Fire,0
+WI,1996,Hurricane,0
+WI,1996,Tornado,0
+SC,1996,Flood,1
+SC,1996,Severe Storm,0
+SC,1996,Fire,0
+SC,1996,Hurricane,0
+SC,1996,Tornado,0
+FL,1997,Flood,0
+FL,1997,Severe Storm,1
+FL,1997,Fire,0
+FL,1997,Hurricane,0
+FL,1997,Tornado,0
+CA,1997,Flood,0
+CA,1997,Severe Storm,1
+CA,1997,Fire,1
+CA,1997,Hurricane,0
+CA,1997,Tornado,0
+MA,1997,Flood,1
+MA,1997,Severe Storm,0
+MA,1997,Fire,0
+MA,1997,Hurricane,0
+MA,1997,Tornado,0
+ME,1997,Flood,1
+ME,1997,Severe Storm,1
+ME,1997,Fire,0
+ME,1997,Hurricane,0
+ME,1997,Tornado,0
+NH,1997,Flood,1
+NH,1997,Severe Storm,0
+NH,1997,Fire,0
+NH,1997,Hurricane,0
+NH,1997,Tornado,0
+HI,1997,Flood,1
+HI,1997,Severe Storm,1
+HI,1997,Fire,0
+HI,1997,Hurricane,0
+HI,1997,Tornado,0
+NY,1997,Flood,0
+NY,1997,Severe Storm,1
+NY,1997,Fire,0
+NY,1997,Hurricane,0
+NY,1997,Tornado,0
+NJ,1997,Flood,0
+NJ,1997,Severe Storm,1
+NJ,1997,Fire,0
+NJ,1997,Hurricane,0
+NJ,1997,Tornado,0
+PA,1997,Flood,1
+PA,1997,Severe Storm,0
+PA,1997,Fire,0
+PA,1997,Hurricane,0
+PA,1997,Tornado,0
+OR,1997,Flood,1
+OR,1997,Severe Storm,1
+OR,1997,Fire,0
+OR,1997,Hurricane,0
+OR,1997,Tornado,0
+NV,1997,Flood,0
+NV,1997,Severe Storm,1
+NV,1997,Fire,0
+NV,1997,Hurricane,0
+NV,1997,Tornado,0
+ID,1997,Flood,0
+ID,1997,Severe Storm,1
+ID,1997,Fire,0
+ID,1997,Hurricane,0
+ID,1997,Tornado,0
+MN,1997,Flood,1
+MN,1997,Severe Storm,1
+MN,1997,Fire,0
+MN,1997,Hurricane,0
+MN,1997,Tornado,0
+SD,1997,Flood,1
+SD,1997,Severe Storm,1
+SD,1997,Fire,0
+SD,1997,Hurricane,0
+SD,1997,Tornado,0
+ND,1997,Flood,1
+ND,1997,Severe Storm,1
+ND,1997,Fire,0
+ND,1997,Hurricane,0
+ND,1997,Tornado,0
+WA,1997,Flood,1
+WA,1997,Severe Storm,1
+WA,1997,Fire,1
+WA,1997,Hurricane,0
+WA,1997,Tornado,0
+AR,1997,Flood,1
+AR,1997,Severe Storm,1
+AR,1997,Fire,0
+AR,1997,Hurricane,0
+AR,1997,Tornado,0
+OH,1997,Flood,0
+OH,1997,Severe Storm,1
+OH,1997,Fire,0
+OH,1997,Hurricane,0
+OH,1997,Tornado,0
+KY,1997,Flood,0
+KY,1997,Severe Storm,1
+KY,1997,Fire,0
+KY,1997,Hurricane,0
+KY,1997,Tornado,0
+IN,1997,Flood,0
+IN,1997,Severe Storm,1
+IN,1997,Fire,0
+IN,1997,Hurricane,0
+IN,1997,Tornado,0
+WV,1997,Flood,1
+WV,1997,Severe Storm,0
+WV,1997,Fire,0
+WV,1997,Hurricane,0
+WV,1997,Tornado,0
+TN,1997,Flood,0
+TN,1997,Severe Storm,1
+TN,1997,Fire,0
+TN,1997,Hurricane,0
+TN,1997,Tornado,1
+LA,1997,Flood,0
+LA,1997,Severe Storm,1
+LA,1997,Fire,0
+LA,1997,Hurricane,0
+LA,1997,Tornado,0
+IL,1997,Flood,0
+IL,1997,Severe Storm,1
+IL,1997,Fire,0
+IL,1997,Hurricane,0
+IL,1997,Tornado,0
+MS,1997,Flood,1
+MS,1997,Severe Storm,0
+MS,1997,Fire,0
+MS,1997,Hurricane,0
+MS,1997,Tornado,0
+WI,1997,Flood,0
+WI,1997,Severe Storm,1
+WI,1997,Fire,0
+WI,1997,Hurricane,0
+WI,1997,Tornado,0
+TX,1997,Flood,1
+TX,1997,Severe Storm,0
+TX,1997,Fire,0
+TX,1997,Hurricane,0
+TX,1997,Tornado,0
+MI,1997,Flood,0
+MI,1997,Severe Storm,1
+MI,1997,Fire,0
+MI,1997,Hurricane,0
+MI,1997,Tornado,0
+AL,1997,Flood,0
+AL,1997,Severe Storm,1
+AL,1997,Fire,0
+AL,1997,Hurricane,0
+AL,1997,Tornado,0
+VT,1997,Flood,1
+VT,1997,Severe Storm,0
+VT,1997,Fire,0
+VT,1997,Hurricane,0
+VT,1997,Tornado,0
+MT,1997,Flood,0
+MT,1997,Severe Storm,1
+MT,1997,Fire,0
+MT,1997,Hurricane,0
+MT,1997,Tornado,0
+CO,1997,Flood,1
+CO,1997,Severe Storm,0
+CO,1997,Fire,0
+CO,1997,Hurricane,0
+CO,1997,Tornado,0
+NE,1998,Flood,0
+NE,1998,Severe Storm,1
+NE,1998,Fire,0
+NE,1998,Hurricane,0
+NE,1998,Tornado,0
+FL,1998,Flood,0
+FL,1998,Severe Storm,1
+FL,1998,Fire,1
+FL,1998,Hurricane,1
+FL,1998,Tornado,0
+ME,1998,Flood,0
+ME,1998,Severe Storm,1
+ME,1998,Fire,0
+ME,1998,Hurricane,0
+ME,1998,Tornado,0
+TN,1998,Flood,0
+TN,1998,Severe Storm,1
+TN,1998,Fire,0
+TN,1998,Hurricane,0
+TN,1998,Tornado,0
+VT,1998,Flood,0
+VT,1998,Severe Storm,1
+VT,1998,Fire,0
+VT,1998,Hurricane,0
+VT,1998,Tornado,0
+NC,1998,Flood,0
+NC,1998,Severe Storm,1
+NC,1998,Fire,0
+NC,1998,Hurricane,1
+NC,1998,Tornado,0
+NH,1998,Flood,0
+NH,1998,Severe Storm,1
+NH,1998,Fire,0
+NH,1998,Hurricane,0
+NH,1998,Tornado,0
+NM,1998,Flood,0
+NM,1998,Severe Storm,1
+NM,1998,Fire,1
+NM,1998,Hurricane,0
+NM,1998,Tornado,0
+CA,1998,Flood,0
+CA,1998,Severe Storm,1
+CA,1998,Fire,0
+CA,1998,Hurricane,0
+CA,1998,Tornado,0
+DE,1998,Flood,0
+DE,1998,Severe Storm,1
+DE,1998,Fire,0
+DE,1998,Hurricane,0
+DE,1998,Tornado,0
+HI,1998,Flood,0
+HI,1998,Severe Storm,0
+HI,1998,Fire,1
+HI,1998,Hurricane,0
+HI,1998,Tornado,0
+KY,1998,Flood,0
+KY,1998,Severe Storm,1
+KY,1998,Fire,0
+KY,1998,Hurricane,0
+KY,1998,Tornado,0
+AL,1998,Flood,0
+AL,1998,Severe Storm,1
+AL,1998,Fire,0
+AL,1998,Hurricane,1
+AL,1998,Tornado,0
+GA,1998,Flood,0
+GA,1998,Severe Storm,1
+GA,1998,Fire,0
+GA,1998,Hurricane,0
+GA,1998,Tornado,0
+MN,1998,Flood,0
+MN,1998,Severe Storm,0
+MN,1998,Fire,0
+MN,1998,Hurricane,0
+MN,1998,Tornado,1
+AR,1998,Flood,0
+AR,1998,Severe Storm,0
+AR,1998,Fire,0
+AR,1998,Hurricane,0
+AR,1998,Tornado,1
+IN,1998,Flood,0
+IN,1998,Severe Storm,1
+IN,1998,Fire,0
+IN,1998,Hurricane,0
+IN,1998,Tornado,0
+TX,1998,Flood,0
+TX,1998,Severe Storm,1
+TX,1998,Fire,1
+TX,1998,Hurricane,0
+TX,1998,Tornado,0
+SD,1998,Flood,1
+SD,1998,Severe Storm,0
+SD,1998,Fire,0
+SD,1998,Hurricane,0
+SD,1998,Tornado,0
+PA,1998,Flood,0
+PA,1998,Severe Storm,1
+PA,1998,Fire,0
+PA,1998,Hurricane,0
+PA,1998,Tornado,0
+OR,1998,Flood,1
+OR,1998,Severe Storm,0
+OR,1998,Fire,0
+OR,1998,Hurricane,0
+OR,1998,Tornado,0
+ND,1998,Flood,1
+ND,1998,Severe Storm,0
+ND,1998,Fire,0
+ND,1998,Hurricane,0
+ND,1998,Tornado,0
+NY,1998,Flood,0
+NY,1998,Severe Storm,1
+NY,1998,Fire,0
+NY,1998,Hurricane,0
+NY,1998,Tornado,0
+MA,1998,Flood,1
+MA,1998,Severe Storm,0
+MA,1998,Fire,0
+MA,1998,Hurricane,0
+MA,1998,Tornado,0
+MI,1998,Flood,0
+MI,1998,Severe Storm,1
+MI,1998,Fire,0
+MI,1998,Hurricane,0
+MI,1998,Tornado,0
+OH,1998,Flood,0
+OH,1998,Severe Storm,1
+OH,1998,Fire,0
+OH,1998,Hurricane,0
+OH,1998,Tornado,0
+WV,1998,Flood,0
+WV,1998,Severe Storm,1
+WV,1998,Fire,0
+WV,1998,Hurricane,0
+WV,1998,Tornado,0
+IA,1998,Flood,1
+IA,1998,Severe Storm,0
+IA,1998,Fire,0
+IA,1998,Hurricane,0
+IA,1998,Tornado,0
+WI,1998,Flood,0
+WI,1998,Severe Storm,1
+WI,1998,Fire,0
+WI,1998,Hurricane,0
+WI,1998,Tornado,0
+WA,1998,Flood,0
+WA,1998,Severe Storm,0
+WA,1998,Fire,1
+WA,1998,Hurricane,0
+WA,1998,Tornado,0
+OK,1998,Flood,0
+OK,1998,Severe Storm,0
+OK,1998,Fire,1
+OK,1998,Hurricane,0
+OK,1998,Tornado,0
+SC,1998,Flood,0
+SC,1998,Severe Storm,0
+SC,1998,Fire,0
+SC,1998,Hurricane,1
+SC,1998,Tornado,0
+VA,1998,Flood,0
+VA,1998,Severe Storm,0
+VA,1998,Fire,0
+VA,1998,Hurricane,1
+VA,1998,Tornado,0
+LA,1998,Flood,0
+LA,1998,Severe Storm,0
+LA,1998,Fire,0
+LA,1998,Hurricane,1
+LA,1998,Tornado,0
+MS,1998,Flood,0
+MS,1998,Severe Storm,0
+MS,1998,Fire,0
+MS,1998,Hurricane,1
+MS,1998,Tornado,0
+MS,1999,Flood,0
+MS,1999,Severe Storm,0
+MS,1999,Fire,0
+MS,1999,Hurricane,1
+MS,1999,Tornado,0
+WA,1999,Flood,0
+WA,1999,Severe Storm,1
+WA,1999,Fire,0
+WA,1999,Hurricane,0
+WA,1999,Tornado,0
+KS,1999,Flood,0
+KS,1999,Severe Storm,1
+KS,1999,Fire,0
+KS,1999,Hurricane,0
+KS,1999,Tornado,1
+MO,1999,Flood,0
+MO,1999,Severe Storm,1
+MO,1999,Fire,0
+MO,1999,Hurricane,0
+MO,1999,Tornado,0
+TX,1999,Flood,1
+TX,1999,Severe Storm,0
+TX,1999,Fire,1
+TX,1999,Hurricane,1
+TX,1999,Tornado,1
+FL,1999,Flood,0
+FL,1999,Severe Storm,1
+FL,1999,Fire,1
+FL,1999,Hurricane,1
+FL,1999,Tornado,0
+AL,1999,Flood,0
+AL,1999,Severe Storm,1
+AL,1999,Fire,1
+AL,1999,Hurricane,0
+AL,1999,Tornado,0
+TN,1999,Flood,0
+TN,1999,Severe Storm,1
+TN,1999,Fire,1
+TN,1999,Hurricane,0
+TN,1999,Tornado,0
+LA,1999,Flood,0
+LA,1999,Severe Storm,1
+LA,1999,Fire,0
+LA,1999,Hurricane,0
+LA,1999,Tornado,0
+ME,1999,Flood,0
+ME,1999,Severe Storm,1
+ME,1999,Fire,0
+ME,1999,Hurricane,0
+ME,1999,Tornado,0
+AR,1999,Flood,0
+AR,1999,Severe Storm,1
+AR,1999,Fire,0
+AR,1999,Hurricane,0
+AR,1999,Tornado,0
+GA,1999,Flood,0
+GA,1999,Severe Storm,1
+GA,1999,Fire,0
+GA,1999,Hurricane,1
+GA,1999,Tornado,0
+OK,1999,Flood,0
+OK,1999,Severe Storm,0
+OK,1999,Fire,0
+OK,1999,Hurricane,0
+OK,1999,Tornado,1
+MI,1999,Flood,0
+MI,1999,Severe Storm,0
+MI,1999,Fire,1
+MI,1999,Hurricane,0
+MI,1999,Tornado,0
+CO,1999,Flood,0
+CO,1999,Severe Storm,1
+CO,1999,Fire,0
+CO,1999,Hurricane,0
+CO,1999,Tornado,0
+IA,1999,Flood,0
+IA,1999,Severe Storm,1
+IA,1999,Fire,0
+IA,1999,Hurricane,0
+IA,1999,Tornado,0
+IL,1999,Flood,0
+IL,1999,Severe Storm,1
+IL,1999,Fire,0
+IL,1999,Hurricane,0
+IL,1999,Tornado,0
+ND,1999,Flood,1
+ND,1999,Severe Storm,0
+ND,1999,Fire,0
+ND,1999,Hurricane,0
+ND,1999,Tornado,0
+SD,1999,Flood,0
+SD,1999,Severe Storm,0
+SD,1999,Fire,0
+SD,1999,Hurricane,0
+SD,1999,Tornado,1
+AZ,1999,Flood,0
+AZ,1999,Severe Storm,0
+AZ,1999,Fire,1
+AZ,1999,Hurricane,0
+AZ,1999,Tornado,0
+NV,1999,Flood,0
+NV,1999,Severe Storm,1
+NV,1999,Fire,1
+NV,1999,Hurricane,0
+NV,1999,Tornado,0
+MT,1999,Flood,0
+MT,1999,Severe Storm,0
+MT,1999,Fire,1
+MT,1999,Hurricane,0
+MT,1999,Tornado,0
+MN,1999,Flood,0
+MN,1999,Severe Storm,1
+MN,1999,Fire,0
+MN,1999,Hurricane,0
+MN,1999,Tornado,0
+NY,1999,Flood,0
+NY,1999,Severe Storm,0
+NY,1999,Fire,1
+NY,1999,Hurricane,1
+NY,1999,Tornado,0
+UT,1999,Flood,0
+UT,1999,Severe Storm,0
+UT,1999,Fire,0
+UT,1999,Hurricane,0
+UT,1999,Tornado,1
+WI,1999,Flood,1
+WI,1999,Severe Storm,0
+WI,1999,Fire,0
+WI,1999,Hurricane,0
+WI,1999,Tornado,0
+NE,1999,Flood,0
+NE,1999,Severe Storm,1
+NE,1999,Fire,0
+NE,1999,Hurricane,0
+NE,1999,Tornado,0
+NC,1999,Flood,0
+NC,1999,Severe Storm,0
+NC,1999,Fire,0
+NC,1999,Hurricane,1
+NC,1999,Tornado,0
+CA,1999,Flood,0
+CA,1999,Severe Storm,0
+CA,1999,Fire,1
+CA,1999,Hurricane,0
+CA,1999,Tornado,0
+PA,1999,Flood,1
+PA,1999,Severe Storm,1
+PA,1999,Fire,0
+PA,1999,Hurricane,1
+PA,1999,Tornado,0
+VA,1999,Flood,0
+VA,1999,Severe Storm,0
+VA,1999,Fire,0
+VA,1999,Hurricane,1
+VA,1999,Tornado,0
+SC,1999,Flood,0
+SC,1999,Severe Storm,0
+SC,1999,Fire,0
+SC,1999,Hurricane,1
+SC,1999,Tornado,0
+NJ,1999,Flood,0
+NJ,1999,Severe Storm,0
+NJ,1999,Fire,0
+NJ,1999,Hurricane,1
+NJ,1999,Tornado,0
+DE,1999,Flood,0
+DE,1999,Severe Storm,0
+DE,1999,Fire,0
+DE,1999,Hurricane,1
+DE,1999,Tornado,0
+NM,1999,Flood,0
+NM,1999,Severe Storm,1
+NM,1999,Fire,0
+NM,1999,Hurricane,0
+NM,1999,Tornado,0
+CT,1999,Flood,0
+CT,1999,Severe Storm,0
+CT,1999,Fire,0
+CT,1999,Hurricane,1
+CT,1999,Tornado,0
+MD,1999,Flood,0
+MD,1999,Severe Storm,0
+MD,1999,Fire,0
+MD,1999,Hurricane,1
+MD,1999,Tornado,0
+FL,2000,Flood,0
+FL,2000,Severe Storm,0
+FL,2000,Fire,1
+FL,2000,Hurricane,1
+FL,2000,Tornado,0
+AZ,2000,Flood,0
+AZ,2000,Severe Storm,1
+AZ,2000,Fire,0
+AZ,2000,Hurricane,0
+AZ,2000,Tornado,0
+NH,2000,Flood,0
+NH,2000,Severe Storm,0
+NH,2000,Fire,0
+NH,2000,Hurricane,1
+NH,2000,Tornado,0
+TX,2000,Flood,0
+TX,2000,Severe Storm,0
+TX,2000,Fire,1
+TX,2000,Hurricane,0
+TX,2000,Tornado,1
+VT,2000,Flood,0
+VT,2000,Severe Storm,1
+VT,2000,Fire,0
+VT,2000,Hurricane,0
+VT,2000,Tornado,0
+ME,2000,Flood,0
+ME,2000,Severe Storm,1
+ME,2000,Fire,0
+ME,2000,Hurricane,1
+ME,2000,Tornado,0
+KY,2000,Flood,0
+KY,2000,Severe Storm,1
+KY,2000,Fire,1
+KY,2000,Hurricane,0
+KY,2000,Tornado,1
+MA,2000,Flood,0
+MA,2000,Severe Storm,0
+MA,2000,Fire,1
+MA,2000,Hurricane,0
+MA,2000,Tornado,0
+NV,2000,Flood,0
+NV,2000,Severe Storm,0
+NV,2000,Fire,1
+NV,2000,Hurricane,0
+NV,2000,Tornado,0
+GA,2000,Flood,0
+GA,2000,Severe Storm,1
+GA,2000,Fire,0
+GA,2000,Hurricane,0
+GA,2000,Tornado,0
+SC,2000,Flood,0
+SC,2000,Severe Storm,1
+SC,2000,Fire,0
+SC,2000,Hurricane,0
+SC,2000,Tornado,0
+NC,2000,Flood,0
+NC,2000,Severe Storm,1
+NC,2000,Fire,0
+NC,2000,Hurricane,0
+NC,2000,Tornado,0
+AK,2000,Flood,0
+AK,2000,Severe Storm,1
+AK,2000,Fire,0
+AK,2000,Hurricane,0
+AK,2000,Tornado,0
+AL,2000,Flood,0
+AL,2000,Severe Storm,1
+AL,2000,Fire,1
+AL,2000,Hurricane,0
+AL,2000,Tornado,0
+WV,2000,Flood,1
+WV,2000,Severe Storm,0
+WV,2000,Fire,0
+WV,2000,Hurricane,0
+WV,2000,Tornado,0
+VA,2000,Flood,0
+VA,2000,Severe Storm,1
+VA,2000,Fire,0
+VA,2000,Hurricane,0
+VA,2000,Tornado,0
+WA,2000,Flood,0
+WA,2000,Severe Storm,0
+WA,2000,Fire,1
+WA,2000,Hurricane,0
+WA,2000,Tornado,0
+OH,2000,Flood,0
+OH,2000,Severe Storm,1
+OH,2000,Fire,0
+OH,2000,Hurricane,0
+OH,2000,Tornado,0
+MO,2000,Flood,1
+MO,2000,Severe Storm,0
+MO,2000,Fire,1
+MO,2000,Hurricane,0
+MO,2000,Tornado,0
+HI,2000,Flood,0
+HI,2000,Severe Storm,0
+HI,2000,Fire,1
+HI,2000,Hurricane,0
+HI,2000,Tornado,0
+MD,2000,Flood,0
+MD,2000,Severe Storm,1
+MD,2000,Fire,0
+MD,2000,Hurricane,0
+MD,2000,Tornado,0
+NM,2000,Flood,0
+NM,2000,Severe Storm,0
+NM,2000,Fire,1
+NM,2000,Hurricane,0
+NM,2000,Tornado,0
+KS,2000,Flood,0
+KS,2000,Severe Storm,1
+KS,2000,Fire,0
+KS,2000,Hurricane,0
+KS,2000,Tornado,0
+SD,2000,Flood,0
+SD,2000,Severe Storm,1
+SD,2000,Fire,1
+SD,2000,Hurricane,0
+SD,2000,Tornado,0
+CO,2000,Flood,0
+CO,2000,Severe Storm,0
+CO,2000,Fire,1
+CO,2000,Hurricane,0
+CO,2000,Tornado,0
+TN,2000,Flood,0
+TN,2000,Severe Storm,1
+TN,2000,Fire,0
+TN,2000,Hurricane,0
+TN,2000,Tornado,0
+WI,2000,Flood,0
+WI,2000,Severe Storm,1
+WI,2000,Fire,0
+WI,2000,Hurricane,0
+WI,2000,Tornado,0
+ND,2000,Flood,0
+ND,2000,Severe Storm,1
+ND,2000,Fire,0
+ND,2000,Hurricane,0
+ND,2000,Tornado,0
+MN,2000,Flood,0
+MN,2000,Severe Storm,1
+MN,2000,Fire,0
+MN,2000,Hurricane,0
+MN,2000,Tornado,0
+NY,2000,Flood,0
+NY,2000,Severe Storm,1
+NY,2000,Fire,0
+NY,2000,Hurricane,0
+NY,2000,Tornado,0
+MT,2000,Flood,0
+MT,2000,Severe Storm,0
+MT,2000,Fire,1
+MT,2000,Hurricane,0
+MT,2000,Tornado,0
+WY,2000,Flood,0
+WY,2000,Severe Storm,0
+WY,2000,Fire,1
+WY,2000,Hurricane,0
+WY,2000,Tornado,0
+NJ,2000,Flood,0
+NJ,2000,Severe Storm,1
+NJ,2000,Fire,0
+NJ,2000,Hurricane,0
+NJ,2000,Tornado,0
+ID,2000,Flood,0
+ID,2000,Severe Storm,0
+ID,2000,Fire,1
+ID,2000,Hurricane,0
+ID,2000,Tornado,0
+LA,2000,Flood,0
+LA,2000,Severe Storm,0
+LA,2000,Fire,1
+LA,2000,Hurricane,0
+LA,2000,Tornado,0
+OK,2000,Flood,0
+OK,2000,Severe Storm,0
+OK,2000,Fire,1
+OK,2000,Hurricane,0
+OK,2000,Tornado,0
+TX,2001,Flood,0
+TX,2001,Severe Storm,0
+TX,2001,Fire,1
+TX,2001,Hurricane,0
+TX,2001,Tornado,0
+FL,2001,Flood,0
+FL,2001,Severe Storm,1
+FL,2001,Fire,1
+FL,2001,Hurricane,0
+FL,2001,Tornado,0
+MI,2001,Flood,0
+MI,2001,Severe Storm,1
+MI,2001,Fire,0
+MI,2001,Hurricane,0
+MI,2001,Tornado,0
+MN,2001,Flood,1
+MN,2001,Severe Storm,0
+MN,2001,Fire,1
+MN,2001,Hurricane,0
+MN,2001,Tornado,0
+AZ,2001,Flood,0
+AZ,2001,Severe Storm,1
+AZ,2001,Fire,0
+AZ,2001,Hurricane,0
+AZ,2001,Tornado,0
+TN,2001,Flood,0
+TN,2001,Severe Storm,1
+TN,2001,Fire,1
+TN,2001,Hurricane,0
+TN,2001,Tornado,0
+KY,2001,Flood,0
+KY,2001,Severe Storm,1
+KY,2001,Fire,1
+KY,2001,Hurricane,0
+KY,2001,Tornado,0
+HI,2001,Flood,0
+HI,2001,Severe Storm,1
+HI,2001,Fire,0
+HI,2001,Hurricane,0
+HI,2001,Tornado,0
+OK,2001,Flood,0
+OK,2001,Severe Storm,1
+OK,2001,Fire,0
+OK,2001,Hurricane,0
+OK,2001,Tornado,0
+MT,2001,Flood,0
+MT,2001,Severe Storm,1
+MT,2001,Fire,0
+MT,2001,Hurricane,0
+MT,2001,Tornado,0
+WY,2001,Flood,0
+WY,2001,Severe Storm,1
+WY,2001,Fire,1
+WY,2001,Hurricane,0
+WY,2001,Tornado,0
+AL,2001,Flood,0
+AL,2001,Severe Storm,1
+AL,2001,Fire,0
+AL,2001,Hurricane,0
+AL,2001,Tornado,0
+ND,2001,Flood,1
+ND,2001,Severe Storm,0
+ND,2001,Fire,0
+ND,2001,Hurricane,0
+ND,2001,Tornado,1
+VT,2001,Flood,0
+VT,2001,Severe Storm,1
+VT,2001,Fire,0
+VT,2001,Hurricane,0
+VT,2001,Tornado,0
+MS,2001,Flood,0
+MS,2001,Severe Storm,1
+MS,2001,Fire,0
+MS,2001,Hurricane,0
+MS,2001,Tornado,0
+AR,2001,Flood,0
+AR,2001,Severe Storm,1
+AR,2001,Fire,0
+AR,2001,Hurricane,0
+AR,2001,Tornado,0
+MA,2001,Flood,0
+MA,2001,Severe Storm,1
+MA,2001,Fire,0
+MA,2001,Hurricane,0
+MA,2001,Tornado,0
+KS,2001,Flood,0
+KS,2001,Severe Storm,1
+KS,2001,Fire,0
+KS,2001,Hurricane,0
+KS,2001,Tornado,0
+IA,2001,Flood,0
+IA,2001,Severe Storm,1
+IA,2001,Fire,0
+IA,2001,Hurricane,0
+IA,2001,Tornado,0
+IL,2001,Flood,1
+IL,2001,Severe Storm,0
+IL,2001,Fire,0
+IL,2001,Hurricane,0
+IL,2001,Tornado,0
+WI,2001,Flood,1
+WI,2001,Severe Storm,0
+WI,2001,Fire,0
+WI,2001,Hurricane,0
+WI,2001,Tornado,0
+NE,2001,Flood,0
+NE,2001,Severe Storm,1
+NE,2001,Fire,0
+NE,2001,Hurricane,0
+NE,2001,Tornado,0
+ME,2001,Flood,0
+ME,2001,Severe Storm,1
+ME,2001,Fire,0
+ME,2001,Hurricane,0
+ME,2001,Tornado,0
+SD,2001,Flood,1
+SD,2001,Severe Storm,0
+SD,2001,Fire,1
+SD,2001,Hurricane,0
+SD,2001,Tornado,0
+CO,2001,Flood,0
+CO,2001,Severe Storm,1
+CO,2001,Fire,0
+CO,2001,Hurricane,0
+CO,2001,Tornado,0
+GA,2001,Flood,0
+GA,2001,Severe Storm,0
+GA,2001,Fire,1
+GA,2001,Hurricane,0
+GA,2001,Tornado,0
+NM,2001,Flood,0
+NM,2001,Severe Storm,0
+NM,2001,Fire,1
+NM,2001,Hurricane,0
+NM,2001,Tornado,0
+WV,2001,Flood,0
+WV,2001,Severe Storm,1
+WV,2001,Fire,0
+WV,2001,Hurricane,0
+WV,2001,Tornado,0
+PA,2001,Flood,0
+PA,2001,Severe Storm,1
+PA,2001,Fire,0
+PA,2001,Hurricane,0
+PA,2001,Tornado,0
+AK,2001,Flood,0
+AK,2001,Severe Storm,0
+AK,2001,Fire,1
+AK,2001,Hurricane,0
+AK,2001,Tornado,0
+NV,2001,Flood,0
+NV,2001,Severe Storm,0
+NV,2001,Fire,1
+NV,2001,Hurricane,0
+NV,2001,Tornado,0
+VA,2001,Flood,0
+VA,2001,Severe Storm,1
+VA,2001,Fire,1
+VA,2001,Hurricane,0
+VA,2001,Tornado,0
+WA,2001,Flood,0
+WA,2001,Severe Storm,0
+WA,2001,Fire,1
+WA,2001,Hurricane,0
+WA,2001,Tornado,0
+OR,2001,Flood,0
+OR,2001,Severe Storm,0
+OR,2001,Fire,1
+OR,2001,Hurricane,0
+OR,2001,Tornado,0
+UT,2001,Flood,0
+UT,2001,Severe Storm,0
+UT,2001,Fire,1
+UT,2001,Hurricane,0
+UT,2001,Tornado,0
+OH,2001,Flood,0
+OH,2001,Severe Storm,1
+OH,2001,Fire,0
+OH,2001,Hurricane,0
+OH,2001,Tornado,0
+NY,2001,Flood,0
+NY,2001,Severe Storm,0
+NY,2001,Fire,1
+NY,2001,Hurricane,0
+NY,2001,Tornado,0
+NJ,2001,Flood,0
+NJ,2001,Severe Storm,0
+NJ,2001,Fire,1
+NJ,2001,Hurricane,0
+NJ,2001,Tornado,0
+NE,2002,Flood,0
+NE,2002,Severe Storm,1
+NE,2002,Fire,0
+NE,2002,Hurricane,0
+NE,2002,Tornado,0
+OK,2002,Flood,0
+OK,2002,Severe Storm,1
+OK,2002,Fire,0
+OK,2002,Hurricane,0
+OK,2002,Tornado,0
+CO,2002,Flood,0
+CO,2002,Severe Storm,0
+CO,2002,Fire,1
+CO,2002,Hurricane,0
+CO,2002,Tornado,0
+KY,2002,Flood,0
+KY,2002,Severe Storm,1
+KY,2002,Fire,1
+KY,2002,Hurricane,0
+KY,2002,Tornado,0
+TN,2002,Flood,0
+TN,2002,Severe Storm,1
+TN,2002,Fire,1
+TN,2002,Hurricane,0
+TN,2002,Tornado,0
+SC,2002,Flood,0
+SC,2002,Severe Storm,0
+SC,2002,Fire,1
+SC,2002,Hurricane,0
+SC,2002,Tornado,0
+WV,2002,Flood,0
+WV,2002,Severe Storm,1
+WV,2002,Fire,1
+WV,2002,Hurricane,0
+WV,2002,Tornado,0
+VA,2002,Flood,0
+VA,2002,Severe Storm,1
+VA,2002,Fire,1
+VA,2002,Hurricane,0
+VA,2002,Tornado,0
+AL,2002,Flood,0
+AL,2002,Severe Storm,1
+AL,2002,Fire,1
+AL,2002,Hurricane,0
+AL,2002,Tornado,0
+MS,2002,Flood,0
+MS,2002,Severe Storm,1
+MS,2002,Fire,0
+MS,2002,Hurricane,0
+MS,2002,Tornado,0
+AR,2002,Flood,0
+AR,2002,Severe Storm,1
+AR,2002,Fire,0
+AR,2002,Hurricane,0
+AR,2002,Tornado,0
+CA,2002,Flood,0
+CA,2002,Severe Storm,0
+CA,2002,Fire,1
+CA,2002,Hurricane,0
+CA,2002,Tornado,0
+OR,2002,Flood,0
+OR,2002,Severe Storm,1
+OR,2002,Fire,1
+OR,2002,Hurricane,0
+OR,2002,Tornado,0
+NM,2002,Flood,0
+NM,2002,Severe Storm,0
+NM,2002,Fire,1
+NM,2002,Hurricane,0
+NM,2002,Tornado,0
+AZ,2002,Flood,0
+AZ,2002,Severe Storm,0
+AZ,2002,Fire,1
+AZ,2002,Hurricane,0
+AZ,2002,Tornado,0
+MD,2002,Flood,0
+MD,2002,Severe Storm,0
+MD,2002,Fire,0
+MD,2002,Hurricane,0
+MD,2002,Tornado,1
+MI,2002,Flood,1
+MI,2002,Severe Storm,0
+MI,2002,Fire,0
+MI,2002,Hurricane,0
+MI,2002,Tornado,0
+MO,2002,Flood,0
+MO,2002,Severe Storm,1
+MO,2002,Fire,0
+MO,2002,Hurricane,0
+MO,2002,Tornado,0
+IL,2002,Flood,0
+IL,2002,Severe Storm,0
+IL,2002,Fire,0
+IL,2002,Hurricane,0
+IL,2002,Tornado,1
+MN,2002,Flood,0
+MN,2002,Severe Storm,1
+MN,2002,Fire,1
+MN,2002,Hurricane,0
+MN,2002,Tornado,0
+NJ,2002,Flood,0
+NJ,2002,Severe Storm,0
+NJ,2002,Fire,1
+NJ,2002,Hurricane,0
+NJ,2002,Tornado,0
+NV,2002,Flood,0
+NV,2002,Severe Storm,0
+NV,2002,Fire,1
+NV,2002,Hurricane,0
+NV,2002,Tornado,0
+IN,2002,Flood,0
+IN,2002,Severe Storm,1
+IN,2002,Fire,0
+IN,2002,Hurricane,0
+IN,2002,Tornado,0
+WY,2002,Flood,0
+WY,2002,Severe Storm,0
+WY,2002,Fire,1
+WY,2002,Hurricane,0
+WY,2002,Tornado,0
+IA,2002,Flood,1
+IA,2002,Severe Storm,0
+IA,2002,Fire,0
+IA,2002,Hurricane,0
+IA,2002,Tornado,0
+AK,2002,Flood,1
+AK,2002,Severe Storm,0
+AK,2002,Fire,0
+AK,2002,Hurricane,0
+AK,2002,Tornado,0
+ND,2002,Flood,0
+ND,2002,Severe Storm,1
+ND,2002,Fire,1
+ND,2002,Hurricane,0
+ND,2002,Tornado,0
+SD,2002,Flood,0
+SD,2002,Severe Storm,0
+SD,2002,Fire,1
+SD,2002,Hurricane,0
+SD,2002,Tornado,0
+UT,2002,Flood,0
+UT,2002,Severe Storm,0
+UT,2002,Fire,1
+UT,2002,Hurricane,0
+UT,2002,Tornado,0
+MT,2002,Flood,0
+MT,2002,Severe Storm,1
+MT,2002,Fire,0
+MT,2002,Hurricane,0
+MT,2002,Tornado,0
+TX,2002,Flood,1
+TX,2002,Severe Storm,0
+TX,2002,Fire,0
+TX,2002,Hurricane,0
+TX,2002,Tornado,0
+VT,2002,Flood,0
+VT,2002,Severe Storm,1
+VT,2002,Fire,0
+VT,2002,Hurricane,0
+VT,2002,Tornado,0
+WI,2002,Flood,0
+WI,2002,Severe Storm,1
+WI,2002,Fire,0
+WI,2002,Hurricane,0
+WI,2002,Tornado,1
+WA,2002,Flood,0
+WA,2002,Severe Storm,0
+WA,2002,Fire,1
+WA,2002,Hurricane,0
+WA,2002,Tornado,0
+LA,2002,Flood,0
+LA,2002,Severe Storm,0
+LA,2002,Fire,0
+LA,2002,Hurricane,1
+LA,2002,Tornado,0
+MS,2003,Flood,0
+MS,2003,Severe Storm,1
+MS,2003,Fire,0
+MS,2003,Hurricane,1
+MS,2003,Tornado,0
+LA,2003,Flood,0
+LA,2003,Severe Storm,0
+LA,2003,Fire,0
+LA,2003,Hurricane,1
+LA,2003,Tornado,0
+AL,2003,Flood,0
+AL,2003,Severe Storm,1
+AL,2003,Fire,0
+AL,2003,Hurricane,1
+AL,2003,Tornado,0
+TX,2003,Flood,0
+TX,2003,Severe Storm,1
+TX,2003,Fire,0
+TX,2003,Hurricane,1
+TX,2003,Tornado,0
+TN,2003,Flood,0
+TN,2003,Severe Storm,1
+TN,2003,Fire,0
+TN,2003,Hurricane,0
+TN,2003,Tornado,0
+OH,2003,Flood,0
+OH,2003,Severe Storm,1
+OH,2003,Fire,0
+OH,2003,Hurricane,0
+OH,2003,Tornado,1
+AK,2003,Flood,0
+AK,2003,Severe Storm,1
+AK,2003,Fire,0
+AK,2003,Hurricane,0
+AK,2003,Tornado,0
+CA,2003,Flood,0
+CA,2003,Severe Storm,0
+CA,2003,Fire,1
+CA,2003,Hurricane,0
+CA,2003,Tornado,0
+PA,2003,Flood,0
+PA,2003,Severe Storm,1
+PA,2003,Fire,0
+PA,2003,Hurricane,0
+PA,2003,Tornado,0
+MD,2003,Flood,0
+MD,2003,Severe Storm,1
+MD,2003,Fire,0
+MD,2003,Hurricane,1
+MD,2003,Tornado,0
+WV,2003,Flood,0
+WV,2003,Severe Storm,1
+WV,2003,Fire,0
+WV,2003,Hurricane,1
+WV,2003,Tornado,0
+KY,2003,Flood,0
+KY,2003,Severe Storm,1
+KY,2003,Fire,0
+KY,2003,Hurricane,0
+KY,2003,Tornado,0
+VA,2003,Flood,0
+VA,2003,Severe Storm,1
+VA,2003,Fire,0
+VA,2003,Hurricane,1
+VA,2003,Tornado,0
+FL,2003,Flood,0
+FL,2003,Severe Storm,1
+FL,2003,Fire,0
+FL,2003,Hurricane,0
+FL,2003,Tornado,0
+MO,2003,Flood,0
+MO,2003,Severe Storm,1
+MO,2003,Fire,0
+MO,2003,Hurricane,0
+MO,2003,Tornado,0
+KS,2003,Flood,0
+KS,2003,Severe Storm,1
+KS,2003,Fire,0
+KS,2003,Hurricane,0
+KS,2003,Tornado,0
+NM,2003,Flood,0
+NM,2003,Severe Storm,0
+NM,2003,Fire,1
+NM,2003,Hurricane,0
+NM,2003,Tornado,0
+OK,2003,Flood,0
+OK,2003,Severe Storm,1
+OK,2003,Fire,1
+OK,2003,Hurricane,0
+OK,2003,Tornado,0
+IL,2003,Flood,0
+IL,2003,Severe Storm,1
+IL,2003,Fire,0
+IL,2003,Hurricane,0
+IL,2003,Tornado,0
+HI,2003,Flood,0
+HI,2003,Severe Storm,0
+HI,2003,Fire,1
+HI,2003,Hurricane,0
+HI,2003,Tornado,0
+AR,2003,Flood,0
+AR,2003,Severe Storm,1
+AR,2003,Fire,0
+AR,2003,Hurricane,0
+AR,2003,Tornado,0
+NV,2003,Flood,0
+NV,2003,Severe Storm,0
+NV,2003,Fire,1
+NV,2003,Hurricane,0
+NV,2003,Tornado,0
+AZ,2003,Flood,0
+AZ,2003,Severe Storm,0
+AZ,2003,Fire,1
+AZ,2003,Hurricane,0
+AZ,2003,Tornado,0
+IN,2003,Flood,0
+IN,2003,Severe Storm,1
+IN,2003,Fire,0
+IN,2003,Hurricane,0
+IN,2003,Tornado,0
+WA,2003,Flood,0
+WA,2003,Severe Storm,0
+WA,2003,Fire,1
+WA,2003,Hurricane,0
+WA,2003,Tornado,0
+UT,2003,Flood,0
+UT,2003,Severe Storm,0
+UT,2003,Fire,1
+UT,2003,Hurricane,0
+UT,2003,Tornado,0
+NE,2003,Flood,0
+NE,2003,Severe Storm,1
+NE,2003,Fire,0
+NE,2003,Hurricane,0
+NE,2003,Tornado,0
+MT,2003,Flood,0
+MT,2003,Severe Storm,0
+MT,2003,Fire,1
+MT,2003,Hurricane,0
+MT,2003,Tornado,0
+CO,2003,Flood,0
+CO,2003,Severe Storm,0
+CO,2003,Fire,1
+CO,2003,Hurricane,0
+CO,2003,Tornado,0
+ND,2003,Flood,0
+ND,2003,Severe Storm,1
+ND,2003,Fire,0
+ND,2003,Hurricane,0
+ND,2003,Tornado,0
+OR,2003,Flood,0
+OR,2003,Severe Storm,0
+OR,2003,Fire,1
+OR,2003,Hurricane,0
+OR,2003,Tornado,0
+NY,2003,Flood,0
+NY,2003,Severe Storm,1
+NY,2003,Fire,0
+NY,2003,Hurricane,0
+NY,2003,Tornado,0
+NH,2003,Flood,0
+NH,2003,Severe Storm,1
+NH,2003,Fire,0
+NH,2003,Hurricane,0
+NH,2003,Tornado,0
+VT,2003,Flood,0
+VT,2003,Severe Storm,1
+VT,2003,Fire,0
+VT,2003,Hurricane,0
+VT,2003,Tornado,0
+NC,2003,Flood,0
+NC,2003,Severe Storm,0
+NC,2003,Fire,0
+NC,2003,Hurricane,1
+NC,2003,Tornado,0
+DE,2003,Flood,0
+DE,2003,Severe Storm,0
+DE,2003,Fire,0
+DE,2003,Hurricane,1
+DE,2003,Tornado,0
+CA,2004,Flood,0
+CA,2004,Severe Storm,0
+CA,2004,Fire,1
+CA,2004,Hurricane,0
+CA,2004,Tornado,0
+CO,2004,Flood,0
+CO,2004,Severe Storm,0
+CO,2004,Fire,1
+CO,2004,Hurricane,0
+CO,2004,Tornado,0
+WA,2004,Flood,0
+WA,2004,Severe Storm,1
+WA,2004,Fire,1
+WA,2004,Hurricane,0
+WA,2004,Tornado,0
+SD,2004,Flood,0
+SD,2004,Severe Storm,1
+SD,2004,Fire,1
+SD,2004,Hurricane,0
+SD,2004,Tornado,0
+WY,2004,Flood,0
+WY,2004,Severe Storm,0
+WY,2004,Fire,1
+WY,2004,Hurricane,0
+WY,2004,Tornado,0
+WV,2004,Flood,0
+WV,2004,Severe Storm,1
+WV,2004,Fire,0
+WV,2004,Hurricane,0
+WV,2004,Tornado,0
+VA,2004,Flood,0
+VA,2004,Severe Storm,1
+VA,2004,Fire,0
+VA,2004,Hurricane,0
+VA,2004,Tornado,0
+OH,2004,Flood,0
+OH,2004,Severe Storm,1
+OH,2004,Fire,0
+OH,2004,Hurricane,0
+OH,2004,Tornado,0
+ME,2004,Flood,0
+ME,2004,Severe Storm,1
+ME,2004,Fire,0
+ME,2004,Hurricane,0
+ME,2004,Tornado,0
+OR,2004,Flood,0
+OR,2004,Severe Storm,1
+OR,2004,Fire,1
+OR,2004,Hurricane,0
+OR,2004,Tornado,0
+MA,2004,Flood,1
+MA,2004,Severe Storm,0
+MA,2004,Fire,0
+MA,2004,Hurricane,0
+MA,2004,Tornado,0
+IL,2004,Flood,0
+IL,2004,Severe Storm,1
+IL,2004,Fire,0
+IL,2004,Hurricane,0
+IL,2004,Tornado,0
+NM,2004,Flood,0
+NM,2004,Severe Storm,1
+NM,2004,Fire,1
+NM,2004,Hurricane,0
+NM,2004,Tornado,0
+ND,2004,Flood,0
+ND,2004,Severe Storm,1
+ND,2004,Fire,0
+ND,2004,Hurricane,0
+ND,2004,Tornado,0
+AR,2004,Flood,0
+AR,2004,Severe Storm,1
+AR,2004,Fire,0
+AR,2004,Hurricane,0
+AR,2004,Tornado,0
+IA,2004,Flood,0
+IA,2004,Severe Storm,1
+IA,2004,Fire,0
+IA,2004,Hurricane,0
+IA,2004,Tornado,0
+NE,2004,Flood,0
+NE,2004,Severe Storm,1
+NE,2004,Fire,0
+NE,2004,Hurricane,0
+NE,2004,Tornado,0
+IN,2004,Flood,0
+IN,2004,Severe Storm,1
+IN,2004,Fire,0
+IN,2004,Hurricane,0
+IN,2004,Tornado,0
+LA,2004,Flood,0
+LA,2004,Severe Storm,1
+LA,2004,Fire,0
+LA,2004,Hurricane,1
+LA,2004,Tornado,0
+AZ,2004,Flood,0
+AZ,2004,Severe Storm,0
+AZ,2004,Fire,1
+AZ,2004,Hurricane,0
+AZ,2004,Tornado,0
+KY,2004,Flood,0
+KY,2004,Severe Storm,1
+KY,2004,Fire,0
+KY,2004,Hurricane,0
+KY,2004,Tornado,0
+MO,2004,Flood,0
+MO,2004,Severe Storm,1
+MO,2004,Fire,0
+MO,2004,Hurricane,0
+MO,2004,Tornado,0
+UT,2004,Flood,0
+UT,2004,Severe Storm,0
+UT,2004,Fire,1
+UT,2004,Hurricane,0
+UT,2004,Tornado,0
+WI,2004,Flood,0
+WI,2004,Severe Storm,1
+WI,2004,Fire,0
+WI,2004,Hurricane,0
+WI,2004,Tornado,0
+NV,2004,Flood,0
+NV,2004,Severe Storm,0
+NV,2004,Fire,1
+NV,2004,Hurricane,0
+NV,2004,Tornado,0
+MI,2004,Flood,0
+MI,2004,Severe Storm,1
+MI,2004,Fire,0
+MI,2004,Hurricane,0
+MI,2004,Tornado,0
+AK,2004,Flood,0
+AK,2004,Severe Storm,0
+AK,2004,Fire,1
+AK,2004,Hurricane,0
+AK,2004,Tornado,0
+NJ,2004,Flood,0
+NJ,2004,Severe Storm,1
+NJ,2004,Fire,0
+NJ,2004,Hurricane,0
+NJ,2004,Tornado,0
+KS,2004,Flood,0
+KS,2004,Severe Storm,1
+KS,2004,Fire,0
+KS,2004,Hurricane,0
+KS,2004,Tornado,0
+NY,2004,Flood,0
+NY,2004,Severe Storm,1
+NY,2004,Fire,0
+NY,2004,Hurricane,0
+NY,2004,Tornado,0
+PA,2004,Flood,0
+PA,2004,Severe Storm,1
+PA,2004,Fire,0
+PA,2004,Hurricane,1
+PA,2004,Tornado,0
+FL,2004,Flood,0
+FL,2004,Severe Storm,0
+FL,2004,Fire,0
+FL,2004,Hurricane,1
+FL,2004,Tornado,0
+SC,2004,Flood,0
+SC,2004,Severe Storm,1
+SC,2004,Fire,0
+SC,2004,Hurricane,1
+SC,2004,Tornado,0
+NC,2004,Flood,0
+NC,2004,Severe Storm,0
+NC,2004,Fire,0
+NC,2004,Hurricane,1
+NC,2004,Tornado,0
+HI,2004,Flood,0
+HI,2004,Severe Storm,0
+HI,2004,Fire,1
+HI,2004,Hurricane,0
+HI,2004,Tornado,0
+MS,2004,Flood,0
+MS,2004,Severe Storm,0
+MS,2004,Fire,0
+MS,2004,Hurricane,1
+MS,2004,Tornado,0
+AL,2004,Flood,0
+AL,2004,Severe Storm,0
+AL,2004,Fire,0
+AL,2004,Hurricane,1
+AL,2004,Tornado,0
+GA,2004,Flood,0
+GA,2004,Severe Storm,0
+GA,2004,Fire,0
+GA,2004,Hurricane,1
+GA,2004,Tornado,0
+VT,2004,Flood,0
+VT,2004,Severe Storm,1
+VT,2004,Fire,0
+VT,2004,Hurricane,0
+VT,2004,Tornado,0
+NY,2005,Flood,0
+NY,2005,Severe Storm,1
+NY,2005,Fire,0
+NY,2005,Hurricane,1
+NY,2005,Tornado,0
+NJ,2005,Flood,0
+NJ,2005,Severe Storm,1
+NJ,2005,Fire,0
+NJ,2005,Hurricane,1
+NJ,2005,Tornado,0
+MN,2005,Flood,0
+MN,2005,Severe Storm,1
+MN,2005,Fire,0
+MN,2005,Hurricane,1
+MN,2005,Tornado,0
+TN,2005,Flood,0
+TN,2005,Severe Storm,1
+TN,2005,Fire,0
+TN,2005,Hurricane,1
+TN,2005,Tornado,0
+SC,2005,Flood,0
+SC,2005,Severe Storm,0
+SC,2005,Fire,0
+SC,2005,Hurricane,1
+SC,2005,Tornado,0
+VA,2005,Flood,0
+VA,2005,Severe Storm,1
+VA,2005,Fire,0
+VA,2005,Hurricane,1
+VA,2005,Tornado,0
+DE,2005,Flood,0
+DE,2005,Severe Storm,1
+DE,2005,Fire,0
+DE,2005,Hurricane,1
+DE,2005,Tornado,0
+AK,2005,Flood,0
+AK,2005,Severe Storm,1
+AK,2005,Fire,0
+AK,2005,Hurricane,0
+AK,2005,Tornado,0
+IN,2005,Flood,0
+IN,2005,Severe Storm,1
+IN,2005,Fire,0
+IN,2005,Hurricane,1
+IN,2005,Tornado,0
+UT,2005,Flood,1
+UT,2005,Severe Storm,1
+UT,2005,Fire,1
+UT,2005,Hurricane,0
+UT,2005,Tornado,0
+HI,2005,Flood,0
+HI,2005,Severe Storm,1
+HI,2005,Fire,1
+HI,2005,Hurricane,0
+HI,2005,Tornado,0
+WV,2005,Flood,0
+WV,2005,Severe Storm,1
+WV,2005,Fire,0
+WV,2005,Hurricane,1
+WV,2005,Tornado,0
+CA,2005,Flood,0
+CA,2005,Severe Storm,1
+CA,2005,Fire,1
+CA,2005,Hurricane,1
+CA,2005,Tornado,0
+KS,2005,Flood,0
+KS,2005,Severe Storm,1
+KS,2005,Fire,0
+KS,2005,Hurricane,1
+KS,2005,Tornado,0
+OH,2005,Flood,0
+OH,2005,Severe Storm,1
+OH,2005,Fire,0
+OH,2005,Hurricane,1
+OH,2005,Tornado,0
+AZ,2005,Flood,0
+AZ,2005,Severe Storm,1
+AZ,2005,Fire,1
+AZ,2005,Hurricane,1
+AZ,2005,Tornado,0
+NV,2005,Flood,0
+NV,2005,Severe Storm,1
+NV,2005,Fire,1
+NV,2005,Hurricane,1
+NV,2005,Tornado,0
+PA,2005,Flood,0
+PA,2005,Severe Storm,1
+PA,2005,Fire,0
+PA,2005,Hurricane,1
+PA,2005,Tornado,0
+SD,2005,Flood,0
+SD,2005,Severe Storm,1
+SD,2005,Fire,1
+SD,2005,Hurricane,0
+SD,2005,Tornado,0
+NE,2005,Flood,0
+NE,2005,Severe Storm,1
+NE,2005,Fire,0
+NE,2005,Hurricane,1
+NE,2005,Tornado,0
+ME,2005,Flood,0
+ME,2005,Severe Storm,1
+ME,2005,Fire,0
+ME,2005,Hurricane,1
+ME,2005,Tornado,0
+ID,2005,Flood,1
+ID,2005,Severe Storm,0
+ID,2005,Fire,0
+ID,2005,Hurricane,1
+ID,2005,Tornado,0
+CO,2005,Flood,0
+CO,2005,Severe Storm,0
+CO,2005,Fire,1
+CO,2005,Hurricane,0
+CO,2005,Tornado,0
+MS,2005,Flood,0
+MS,2005,Severe Storm,0
+MS,2005,Fire,0
+MS,2005,Hurricane,1
+MS,2005,Tornado,0
+AL,2005,Flood,0
+AL,2005,Severe Storm,0
+AL,2005,Fire,0
+AL,2005,Hurricane,1
+AL,2005,Tornado,0
+FL,2005,Flood,0
+FL,2005,Severe Storm,0
+FL,2005,Fire,0
+FL,2005,Hurricane,1
+FL,2005,Tornado,0
+ND,2005,Flood,0
+ND,2005,Severe Storm,1
+ND,2005,Fire,0
+ND,2005,Hurricane,0
+ND,2005,Tornado,0
+WA,2005,Flood,0
+WA,2005,Severe Storm,0
+WA,2005,Fire,1
+WA,2005,Hurricane,0
+WA,2005,Tornado,0
+WY,2005,Flood,0
+WY,2005,Severe Storm,0
+WY,2005,Fire,0
+WY,2005,Hurricane,0
+WY,2005,Tornado,1
+LA,2005,Flood,0
+LA,2005,Severe Storm,1
+LA,2005,Fire,0
+LA,2005,Hurricane,1
+LA,2005,Tornado,0
+OR,2005,Flood,0
+OR,2005,Severe Storm,0
+OR,2005,Fire,1
+OR,2005,Hurricane,0
+OR,2005,Tornado,0
+TX,2005,Flood,0
+TX,2005,Severe Storm,0
+TX,2005,Fire,0
+TX,2005,Hurricane,1
+TX,2005,Tornado,0
+AR,2005,Flood,0
+AR,2005,Severe Storm,0
+AR,2005,Fire,0
+AR,2005,Hurricane,1
+AR,2005,Tornado,0
+NC,2005,Flood,0
+NC,2005,Severe Storm,0
+NC,2005,Fire,0
+NC,2005,Hurricane,1
+NC,2005,Tornado,0
+OK,2005,Flood,0
+OK,2005,Severe Storm,0
+OK,2005,Fire,0
+OK,2005,Hurricane,1
+OK,2005,Tornado,0
+GA,2005,Flood,0
+GA,2005,Severe Storm,0
+GA,2005,Fire,0
+GA,2005,Hurricane,1
+GA,2005,Tornado,0
+IL,2005,Flood,0
+IL,2005,Severe Storm,0
+IL,2005,Fire,0
+IL,2005,Hurricane,1
+IL,2005,Tornado,0
+NM,2005,Flood,0
+NM,2005,Severe Storm,0
+NM,2005,Fire,0
+NM,2005,Hurricane,1
+NM,2005,Tornado,0
+MI,2005,Flood,0
+MI,2005,Severe Storm,0
+MI,2005,Fire,0
+MI,2005,Hurricane,1
+MI,2005,Tornado,0
+IA,2005,Flood,0
+IA,2005,Severe Storm,0
+IA,2005,Fire,0
+IA,2005,Hurricane,1
+IA,2005,Tornado,0
+MO,2005,Flood,0
+MO,2005,Severe Storm,0
+MO,2005,Fire,0
+MO,2005,Hurricane,1
+MO,2005,Tornado,0
+KY,2005,Flood,0
+KY,2005,Severe Storm,0
+KY,2005,Fire,0
+KY,2005,Hurricane,1
+KY,2005,Tornado,0
+MT,2005,Flood,0
+MT,2005,Severe Storm,0
+MT,2005,Fire,0
+MT,2005,Hurricane,1
+MT,2005,Tornado,0
+MA,2005,Flood,0
+MA,2005,Severe Storm,0
+MA,2005,Fire,0
+MA,2005,Hurricane,1
+MA,2005,Tornado,0
+MD,2005,Flood,0
+MD,2005,Severe Storm,0
+MD,2005,Fire,0
+MD,2005,Hurricane,1
+MD,2005,Tornado,0
+WI,2005,Flood,0
+WI,2005,Severe Storm,0
+WI,2005,Fire,0
+WI,2005,Hurricane,1
+WI,2005,Tornado,0
+CT,2005,Flood,0
+CT,2005,Severe Storm,0
+CT,2005,Fire,0
+CT,2005,Hurricane,1
+CT,2005,Tornado,0
+NH,2005,Flood,0
+NH,2005,Severe Storm,0
+NH,2005,Fire,0
+NH,2005,Hurricane,1
+NH,2005,Tornado,0
+RI,2005,Flood,0
+RI,2005,Severe Storm,0
+RI,2005,Fire,0
+RI,2005,Hurricane,1
+RI,2005,Tornado,0
+CA,2006,Flood,0
+CA,2006,Severe Storm,1
+CA,2006,Fire,1
+CA,2006,Hurricane,0
+CA,2006,Tornado,0
+NC,2006,Flood,0
+NC,2006,Severe Storm,0
+NC,2006,Fire,0
+NC,2006,Hurricane,1
+NC,2006,Tornado,0
+MA,2006,Flood,0
+MA,2006,Severe Storm,1
+MA,2006,Fire,0
+MA,2006,Hurricane,0
+MA,2006,Tornado,0
+FL,2006,Flood,0
+FL,2006,Severe Storm,0
+FL,2006,Fire,1
+FL,2006,Hurricane,1
+FL,2006,Tornado,0
+NH,2006,Flood,0
+NH,2006,Severe Storm,1
+NH,2006,Fire,0
+NH,2006,Hurricane,0
+NH,2006,Tornado,0
+IN,2006,Flood,0
+IN,2006,Severe Storm,0
+IN,2006,Fire,0
+IN,2006,Hurricane,0
+IN,2006,Tornado,1
+KS,2006,Flood,0
+KS,2006,Severe Storm,1
+KS,2006,Fire,1
+KS,2006,Hurricane,0
+KS,2006,Tornado,0
+OK,2006,Flood,0
+OK,2006,Severe Storm,1
+OK,2006,Fire,1
+OK,2006,Hurricane,0
+OK,2006,Tornado,0
+KY,2006,Flood,0
+KY,2006,Severe Storm,1
+KY,2006,Fire,0
+KY,2006,Hurricane,0
+KY,2006,Tornado,0
+AK,2006,Flood,1
+AK,2006,Severe Storm,1
+AK,2006,Fire,1
+AK,2006,Hurricane,0
+AK,2006,Tornado,0
+CT,2006,Flood,0
+CT,2006,Severe Storm,1
+CT,2006,Fire,0
+CT,2006,Hurricane,0
+CT,2006,Tornado,0
+SD,2006,Flood,0
+SD,2006,Severe Storm,1
+SD,2006,Fire,1
+SD,2006,Hurricane,0
+SD,2006,Tornado,0
+TX,2006,Flood,0
+TX,2006,Severe Storm,1
+TX,2006,Fire,1
+TX,2006,Hurricane,0
+TX,2006,Tornado,0
+NM,2006,Flood,0
+NM,2006,Severe Storm,1
+NM,2006,Fire,1
+NM,2006,Hurricane,0
+NM,2006,Tornado,0
+MN,2006,Flood,1
+MN,2006,Severe Storm,1
+MN,2006,Fire,0
+MN,2006,Hurricane,0
+MN,2006,Tornado,0
+ND,2006,Flood,0
+ND,2006,Severe Storm,1
+ND,2006,Fire,0
+ND,2006,Hurricane,0
+ND,2006,Tornado,0
+CO,2006,Flood,0
+CO,2006,Severe Storm,0
+CO,2006,Fire,1
+CO,2006,Hurricane,0
+CO,2006,Tornado,0
+NE,2006,Flood,0
+NE,2006,Severe Storm,1
+NE,2006,Fire,1
+NE,2006,Hurricane,0
+NE,2006,Tornado,0
+NV,2006,Flood,0
+NV,2006,Severe Storm,1
+NV,2006,Fire,1
+NV,2006,Hurricane,0
+NV,2006,Tornado,0
+ID,2006,Flood,0
+ID,2006,Severe Storm,1
+ID,2006,Fire,0
+ID,2006,Hurricane,0
+ID,2006,Tornado,0
+MO,2006,Flood,0
+MO,2006,Severe Storm,1
+MO,2006,Fire,0
+MO,2006,Hurricane,0
+MO,2006,Tornado,0
+OR,2006,Flood,0
+OR,2006,Severe Storm,1
+OR,2006,Fire,1
+OR,2006,Hurricane,0
+OR,2006,Tornado,0
+IL,2006,Flood,0
+IL,2006,Severe Storm,1
+IL,2006,Fire,0
+IL,2006,Hurricane,0
+IL,2006,Tornado,0
+TN,2006,Flood,0
+TN,2006,Severe Storm,1
+TN,2006,Fire,0
+TN,2006,Hurricane,0
+TN,2006,Tornado,0
+AR,2006,Flood,0
+AR,2006,Severe Storm,1
+AR,2006,Fire,0
+AR,2006,Hurricane,0
+AR,2006,Tornado,0
+VA,2006,Flood,0
+VA,2006,Severe Storm,1
+VA,2006,Fire,1
+VA,2006,Hurricane,0
+VA,2006,Tornado,0
+HI,2006,Flood,0
+HI,2006,Severe Storm,1
+HI,2006,Fire,1
+HI,2006,Hurricane,0
+HI,2006,Tornado,0
+WA,2006,Flood,0
+WA,2006,Severe Storm,1
+WA,2006,Fire,1
+WA,2006,Hurricane,0
+WA,2006,Tornado,0
+ME,2006,Flood,0
+ME,2006,Severe Storm,1
+ME,2006,Fire,0
+ME,2006,Hurricane,0
+ME,2006,Tornado,0
+AZ,2006,Flood,0
+AZ,2006,Severe Storm,1
+AZ,2006,Fire,1
+AZ,2006,Hurricane,0
+AZ,2006,Tornado,0
+PA,2006,Flood,0
+PA,2006,Severe Storm,1
+PA,2006,Fire,0
+PA,2006,Hurricane,0
+PA,2006,Tornado,0
+NY,2006,Flood,0
+NY,2006,Severe Storm,1
+NY,2006,Fire,0
+NY,2006,Hurricane,0
+NY,2006,Tornado,0
+MD,2006,Flood,0
+MD,2006,Severe Storm,1
+MD,2006,Fire,0
+MD,2006,Hurricane,0
+MD,2006,Tornado,0
+OH,2006,Flood,0
+OH,2006,Severe Storm,1
+OH,2006,Fire,0
+OH,2006,Hurricane,0
+OH,2006,Tornado,0
+DE,2006,Flood,0
+DE,2006,Severe Storm,1
+DE,2006,Fire,0
+DE,2006,Hurricane,0
+DE,2006,Tornado,0
+NJ,2006,Flood,0
+NJ,2006,Severe Storm,1
+NJ,2006,Fire,0
+NJ,2006,Hurricane,0
+NJ,2006,Tornado,0
+MT,2006,Flood,0
+MT,2006,Severe Storm,0
+MT,2006,Fire,1
+MT,2006,Hurricane,0
+MT,2006,Tornado,0
+WY,2006,Flood,0
+WY,2006,Severe Storm,0
+WY,2006,Fire,1
+WY,2006,Hurricane,0
+WY,2006,Tornado,0
+IN,2007,Flood,0
+IN,2007,Severe Storm,1
+IN,2007,Fire,0
+IN,2007,Hurricane,0
+IN,2007,Tornado,0
+AK,2007,Flood,0
+AK,2007,Severe Storm,1
+AK,2007,Fire,1
+AK,2007,Hurricane,0
+AK,2007,Tornado,0
+NY,2007,Flood,0
+NY,2007,Severe Storm,1
+NY,2007,Fire,0
+NY,2007,Hurricane,0
+NY,2007,Tornado,0
+CA,2007,Flood,0
+CA,2007,Severe Storm,0
+CA,2007,Fire,1
+CA,2007,Hurricane,0
+CA,2007,Tornado,0
+LA,2007,Flood,0
+LA,2007,Severe Storm,1
+LA,2007,Fire,0
+LA,2007,Hurricane,0
+LA,2007,Tornado,0
+MO,2007,Flood,0
+MO,2007,Severe Storm,1
+MO,2007,Fire,0
+MO,2007,Hurricane,0
+MO,2007,Tornado,0
+NV,2007,Flood,0
+NV,2007,Severe Storm,0
+NV,2007,Fire,1
+NV,2007,Hurricane,0
+NV,2007,Tornado,0
+TX,2007,Flood,0
+TX,2007,Severe Storm,1
+TX,2007,Fire,1
+TX,2007,Hurricane,1
+TX,2007,Tornado,0
+WA,2007,Flood,0
+WA,2007,Severe Storm,1
+WA,2007,Fire,1
+WA,2007,Hurricane,0
+WA,2007,Tornado,0
+OR,2007,Flood,0
+OR,2007,Severe Storm,1
+OR,2007,Fire,1
+OR,2007,Hurricane,0
+OR,2007,Tornado,0
+KS,2007,Flood,0
+KS,2007,Severe Storm,1
+KS,2007,Fire,0
+KS,2007,Hurricane,0
+KS,2007,Tornado,0
+NE,2007,Flood,0
+NE,2007,Severe Storm,1
+NE,2007,Fire,0
+NE,2007,Hurricane,0
+NE,2007,Tornado,0
+OK,2007,Flood,0
+OK,2007,Severe Storm,1
+OK,2007,Fire,0
+OK,2007,Hurricane,0
+OK,2007,Tornado,0
+FL,2007,Flood,0
+FL,2007,Severe Storm,1
+FL,2007,Fire,1
+FL,2007,Hurricane,0
+FL,2007,Tornado,0
+PA,2007,Flood,0
+PA,2007,Severe Storm,1
+PA,2007,Fire,0
+PA,2007,Hurricane,0
+PA,2007,Tornado,0
+NM,2007,Flood,0
+NM,2007,Severe Storm,1
+NM,2007,Fire,1
+NM,2007,Hurricane,0
+NM,2007,Tornado,0
+AL,2007,Flood,0
+AL,2007,Severe Storm,1
+AL,2007,Fire,0
+AL,2007,Hurricane,0
+AL,2007,Tornado,0
+GA,2007,Flood,0
+GA,2007,Severe Storm,1
+GA,2007,Fire,1
+GA,2007,Hurricane,0
+GA,2007,Tornado,0
+IA,2007,Flood,0
+IA,2007,Severe Storm,1
+IA,2007,Fire,0
+IA,2007,Hurricane,0
+IA,2007,Tornado,0
+ME,2007,Flood,1
+ME,2007,Severe Storm,1
+ME,2007,Fire,0
+ME,2007,Hurricane,0
+ME,2007,Tornado,0
+NJ,2007,Flood,0
+NJ,2007,Severe Storm,1
+NJ,2007,Fire,1
+NJ,2007,Hurricane,0
+NJ,2007,Tornado,0
+NH,2007,Flood,0
+NH,2007,Severe Storm,1
+NH,2007,Fire,0
+NH,2007,Hurricane,0
+NH,2007,Tornado,0
+WV,2007,Flood,0
+WV,2007,Severe Storm,1
+WV,2007,Fire,0
+WV,2007,Hurricane,0
+WV,2007,Tornado,0
+VT,2007,Flood,0
+VT,2007,Severe Storm,1
+VT,2007,Fire,0
+VT,2007,Hurricane,0
+VT,2007,Tornado,0
+CT,2007,Flood,0
+CT,2007,Severe Storm,1
+CT,2007,Fire,0
+CT,2007,Hurricane,0
+CT,2007,Tornado,0
+MA,2007,Flood,0
+MA,2007,Severe Storm,1
+MA,2007,Fire,0
+MA,2007,Hurricane,0
+MA,2007,Tornado,0
+SD,2007,Flood,0
+SD,2007,Severe Storm,1
+SD,2007,Fire,1
+SD,2007,Hurricane,0
+SD,2007,Tornado,0
+RI,2007,Flood,0
+RI,2007,Severe Storm,1
+RI,2007,Fire,0
+RI,2007,Hurricane,0
+RI,2007,Tornado,0
+KY,2007,Flood,0
+KY,2007,Severe Storm,1
+KY,2007,Fire,0
+KY,2007,Hurricane,0
+KY,2007,Tornado,0
+CO,2007,Flood,0
+CO,2007,Severe Storm,0
+CO,2007,Fire,1
+CO,2007,Hurricane,0
+CO,2007,Tornado,0
+HI,2007,Flood,0
+HI,2007,Severe Storm,0
+HI,2007,Fire,1
+HI,2007,Hurricane,0
+HI,2007,Tornado,0
+UT,2007,Flood,0
+UT,2007,Severe Storm,0
+UT,2007,Fire,1
+UT,2007,Hurricane,0
+UT,2007,Tornado,0
+ND,2007,Flood,0
+ND,2007,Severe Storm,1
+ND,2007,Fire,0
+ND,2007,Hurricane,0
+ND,2007,Tornado,0
+MT,2007,Flood,0
+MT,2007,Severe Storm,0
+MT,2007,Fire,1
+MT,2007,Hurricane,0
+MT,2007,Tornado,0
+WY,2007,Flood,0
+WY,2007,Severe Storm,0
+WY,2007,Fire,1
+WY,2007,Hurricane,0
+WY,2007,Tornado,0
+MN,2007,Flood,0
+MN,2007,Severe Storm,1
+MN,2007,Fire,0
+MN,2007,Hurricane,0
+MN,2007,Tornado,0
+WI,2007,Flood,0
+WI,2007,Severe Storm,1
+WI,2007,Fire,0
+WI,2007,Hurricane,0
+WI,2007,Tornado,0
+OH,2007,Flood,0
+OH,2007,Severe Storm,1
+OH,2007,Fire,0
+OH,2007,Hurricane,0
+OH,2007,Tornado,0
+ID,2007,Flood,0
+ID,2007,Severe Storm,0
+ID,2007,Fire,1
+ID,2007,Hurricane,0
+ID,2007,Tornado,0
+IL,2007,Flood,0
+IL,2007,Severe Storm,1
+IL,2007,Fire,0
+IL,2007,Hurricane,0
+IL,2007,Tornado,0
+TX,2008,Flood,0
+TX,2008,Severe Storm,1
+TX,2008,Fire,1
+TX,2008,Hurricane,1
+TX,2008,Tornado,0
+CA,2008,Flood,0
+CA,2008,Severe Storm,0
+CA,2008,Fire,1
+CA,2008,Hurricane,0
+CA,2008,Tornado,0
+HI,2008,Flood,0
+HI,2008,Severe Storm,1
+HI,2008,Fire,1
+HI,2008,Hurricane,0
+HI,2008,Tornado,0
+NM,2008,Flood,0
+NM,2008,Severe Storm,1
+NM,2008,Fire,1
+NM,2008,Hurricane,0
+NM,2008,Tornado,0
+IN,2008,Flood,0
+IN,2008,Severe Storm,1
+IN,2008,Fire,0
+IN,2008,Hurricane,0
+IN,2008,Tornado,0
+WA,2008,Flood,0
+WA,2008,Severe Storm,1
+WA,2008,Fire,1
+WA,2008,Hurricane,0
+WA,2008,Tornado,0
+OR,2008,Flood,0
+OR,2008,Severe Storm,1
+OR,2008,Fire,1
+OR,2008,Hurricane,0
+OR,2008,Tornado,0
+KS,2008,Flood,0
+KS,2008,Severe Storm,1
+KS,2008,Fire,0
+KS,2008,Hurricane,0
+KS,2008,Tornado,0
+NV,2008,Flood,0
+NV,2008,Severe Storm,1
+NV,2008,Fire,0
+NV,2008,Hurricane,0
+NV,2008,Tornado,0
+MO,2008,Flood,0
+MO,2008,Severe Storm,1
+MO,2008,Fire,0
+MO,2008,Hurricane,0
+MO,2008,Tornado,0
+TN,2008,Flood,0
+TN,2008,Severe Storm,1
+TN,2008,Fire,0
+TN,2008,Hurricane,0
+TN,2008,Tornado,0
+AR,2008,Flood,0
+AR,2008,Severe Storm,1
+AR,2008,Fire,0
+AR,2008,Hurricane,1
+AR,2008,Tornado,0
+KY,2008,Flood,0
+KY,2008,Severe Storm,1
+KY,2008,Fire,0
+KY,2008,Hurricane,0
+KY,2008,Tornado,0
+OK,2008,Flood,1
+OK,2008,Severe Storm,1
+OK,2008,Fire,1
+OK,2008,Hurricane,0
+OK,2008,Tornado,0
+IL,2008,Flood,0
+IL,2008,Severe Storm,1
+IL,2008,Fire,0
+IL,2008,Hurricane,0
+IL,2008,Tornado,0
+GA,2008,Flood,0
+GA,2008,Severe Storm,1
+GA,2008,Fire,0
+GA,2008,Hurricane,0
+GA,2008,Tornado,0
+CO,2008,Flood,0
+CO,2008,Severe Storm,1
+CO,2008,Fire,1
+CO,2008,Hurricane,0
+CO,2008,Tornado,0
+MS,2008,Flood,0
+MS,2008,Severe Storm,1
+MS,2008,Fire,0
+MS,2008,Hurricane,1
+MS,2008,Tornado,0
+ME,2008,Flood,1
+ME,2008,Severe Storm,1
+ME,2008,Fire,0
+ME,2008,Hurricane,0
+ME,2008,Tornado,0
+FL,2008,Flood,0
+FL,2008,Severe Storm,1
+FL,2008,Fire,1
+FL,2008,Hurricane,1
+FL,2008,Tornado,0
+IA,2008,Flood,0
+IA,2008,Severe Storm,1
+IA,2008,Fire,0
+IA,2008,Hurricane,0
+IA,2008,Tornado,0
+NE,2008,Flood,0
+NE,2008,Severe Storm,1
+NE,2008,Fire,0
+NE,2008,Hurricane,0
+NE,2008,Tornado,0
+NC,2008,Flood,0
+NC,2008,Severe Storm,0
+NC,2008,Fire,1
+NC,2008,Hurricane,0
+NC,2008,Tornado,0
+MT,2008,Flood,0
+MT,2008,Severe Storm,1
+MT,2008,Fire,0
+MT,2008,Hurricane,0
+MT,2008,Tornado,0
+WI,2008,Flood,0
+WI,2008,Severe Storm,1
+WI,2008,Fire,0
+WI,2008,Hurricane,0
+WI,2008,Tornado,0
+WV,2008,Flood,0
+WV,2008,Severe Storm,1
+WV,2008,Fire,0
+WV,2008,Hurricane,0
+WV,2008,Tornado,0
+MN,2008,Flood,0
+MN,2008,Severe Storm,1
+MN,2008,Fire,0
+MN,2008,Hurricane,0
+MN,2008,Tornado,0
+AZ,2008,Flood,0
+AZ,2008,Severe Storm,0
+AZ,2008,Fire,1
+AZ,2008,Hurricane,0
+AZ,2008,Tornado,0
+SD,2008,Flood,0
+SD,2008,Severe Storm,1
+SD,2008,Fire,0
+SD,2008,Hurricane,0
+SD,2008,Tornado,0
+MI,2008,Flood,0
+MI,2008,Severe Storm,1
+MI,2008,Fire,0
+MI,2008,Hurricane,0
+MI,2008,Tornado,0
+VT,2008,Flood,0
+VT,2008,Severe Storm,1
+VT,2008,Fire,0
+VT,2008,Hurricane,0
+VT,2008,Tornado,0
+ID,2008,Flood,1
+ID,2008,Severe Storm,0
+ID,2008,Fire,0
+ID,2008,Hurricane,0
+ID,2008,Tornado,0
+NH,2008,Flood,0
+NH,2008,Severe Storm,1
+NH,2008,Fire,0
+NH,2008,Hurricane,0
+NH,2008,Tornado,0
+LA,2008,Flood,0
+LA,2008,Severe Storm,0
+LA,2008,Fire,0
+LA,2008,Hurricane,1
+LA,2008,Tornado,0
+AL,2008,Flood,0
+AL,2008,Severe Storm,1
+AL,2008,Fire,0
+AL,2008,Hurricane,1
+AL,2008,Tornado,0
+AK,2008,Flood,0
+AK,2008,Severe Storm,1
+AK,2008,Fire,0
+AK,2008,Hurricane,0
+AK,2008,Tornado,0
+IL,2009,Flood,0
+IL,2009,Severe Storm,1
+IL,2009,Fire,0
+IL,2009,Hurricane,0
+IL,2009,Tornado,0
+NH,2009,Flood,0
+NH,2009,Severe Storm,1
+NH,2009,Fire,0
+NH,2009,Hurricane,0
+NH,2009,Tornado,0
+NC,2009,Flood,0
+NC,2009,Severe Storm,1
+NC,2009,Fire,0
+NC,2009,Hurricane,0
+NC,2009,Tornado,0
+OK,2009,Flood,0
+OK,2009,Severe Storm,1
+OK,2009,Fire,1
+OK,2009,Hurricane,0
+OK,2009,Tornado,0
+KY,2009,Flood,0
+KY,2009,Severe Storm,1
+KY,2009,Fire,0
+KY,2009,Hurricane,0
+KY,2009,Tornado,0
+CA,2009,Flood,0
+CA,2009,Severe Storm,0
+CA,2009,Fire,1
+CA,2009,Hurricane,0
+CA,2009,Tornado,0
+AR,2009,Flood,0
+AR,2009,Severe Storm,1
+AR,2009,Fire,0
+AR,2009,Hurricane,0
+AR,2009,Tornado,1
+OH,2009,Flood,0
+OH,2009,Severe Storm,1
+OH,2009,Fire,0
+OH,2009,Hurricane,0
+OH,2009,Tornado,0
+FL,2009,Flood,0
+FL,2009,Severe Storm,1
+FL,2009,Fire,1
+FL,2009,Hurricane,1
+FL,2009,Tornado,0
+KS,2009,Flood,0
+KS,2009,Severe Storm,1
+KS,2009,Fire,0
+KS,2009,Hurricane,0
+KS,2009,Tornado,0
+MO,2009,Flood,0
+MO,2009,Severe Storm,1
+MO,2009,Fire,0
+MO,2009,Hurricane,0
+MO,2009,Tornado,0
+MA,2009,Flood,0
+MA,2009,Severe Storm,1
+MA,2009,Fire,0
+MA,2009,Hurricane,0
+MA,2009,Tornado,0
+ME,2009,Flood,0
+ME,2009,Severe Storm,1
+ME,2009,Fire,0
+ME,2009,Hurricane,0
+ME,2009,Tornado,0
+NY,2009,Flood,0
+NY,2009,Severe Storm,1
+NY,2009,Fire,0
+NY,2009,Hurricane,0
+NY,2009,Tornado,0
+HI,2009,Flood,1
+HI,2009,Severe Storm,0
+HI,2009,Fire,1
+HI,2009,Hurricane,0
+HI,2009,Tornado,0
+CO,2009,Flood,0
+CO,2009,Severe Storm,0
+CO,2009,Fire,1
+CO,2009,Hurricane,0
+CO,2009,Tornado,0
+WA,2009,Flood,1
+WA,2009,Severe Storm,1
+WA,2009,Fire,1
+WA,2009,Hurricane,0
+WA,2009,Tornado,0
+TX,2009,Flood,0
+TX,2009,Severe Storm,0
+TX,2009,Fire,1
+TX,2009,Hurricane,0
+TX,2009,Tornado,0
+OR,2009,Flood,0
+OR,2009,Severe Storm,1
+OR,2009,Fire,1
+OR,2009,Hurricane,0
+OR,2009,Tornado,0
+IN,2009,Flood,0
+IN,2009,Severe Storm,1
+IN,2009,Fire,0
+IN,2009,Hurricane,0
+IN,2009,Tornado,0
+ND,2009,Flood,0
+ND,2009,Severe Storm,1
+ND,2009,Fire,0
+ND,2009,Hurricane,0
+ND,2009,Tornado,0
+MN,2009,Flood,0
+MN,2009,Severe Storm,1
+MN,2009,Fire,0
+MN,2009,Hurricane,0
+MN,2009,Tornado,0
+SC,2009,Flood,0
+SC,2009,Severe Storm,0
+SC,2009,Fire,1
+SC,2009,Hurricane,0
+SC,2009,Tornado,0
+GA,2009,Flood,0
+GA,2009,Severe Storm,1
+GA,2009,Fire,0
+GA,2009,Hurricane,0
+GA,2009,Tornado,0
+AL,2009,Flood,0
+AL,2009,Severe Storm,1
+AL,2009,Fire,0
+AL,2009,Hurricane,0
+AL,2009,Tornado,0
+NM,2009,Flood,0
+NM,2009,Severe Storm,0
+NM,2009,Fire,1
+NM,2009,Hurricane,0
+NM,2009,Tornado,0
+MS,2009,Flood,0
+MS,2009,Severe Storm,1
+MS,2009,Fire,0
+MS,2009,Hurricane,0
+MS,2009,Tornado,0
+AK,2009,Flood,1
+AK,2009,Severe Storm,0
+AK,2009,Fire,1
+AK,2009,Hurricane,0
+AK,2009,Tornado,0
+TN,2009,Flood,0
+TN,2009,Severe Storm,1
+TN,2009,Fire,0
+TN,2009,Hurricane,0
+TN,2009,Tornado,0
+WV,2009,Flood,0
+WV,2009,Severe Storm,1
+WV,2009,Fire,0
+WV,2009,Hurricane,0
+WV,2009,Tornado,0
+AZ,2009,Flood,0
+AZ,2009,Severe Storm,0
+AZ,2009,Fire,1
+AZ,2009,Hurricane,0
+AZ,2009,Tornado,0
+SD,2009,Flood,0
+SD,2009,Severe Storm,1
+SD,2009,Fire,0
+SD,2009,Hurricane,0
+SD,2009,Tornado,0
+NV,2009,Flood,0
+NV,2009,Severe Storm,0
+NV,2009,Fire,1
+NV,2009,Hurricane,0
+NV,2009,Tornado,0
+NE,2009,Flood,0
+NE,2009,Severe Storm,1
+NE,2009,Fire,0
+NE,2009,Hurricane,0
+NE,2009,Tornado,0
+IA,2009,Flood,0
+IA,2009,Severe Storm,1
+IA,2009,Fire,0
+IA,2009,Hurricane,0
+IA,2009,Tornado,0
+UT,2009,Flood,0
+UT,2009,Severe Storm,0
+UT,2009,Fire,1
+UT,2009,Hurricane,0
+UT,2009,Tornado,0
+MT,2009,Flood,0
+MT,2009,Severe Storm,0
+MT,2009,Fire,1
+MT,2009,Hurricane,0
+MT,2009,Tornado,0
+AZ,2010,Flood,0
+AZ,2010,Severe Storm,1
+AZ,2010,Fire,1
+AZ,2010,Hurricane,0
+AZ,2010,Tornado,0
+CA,2010,Flood,0
+CA,2010,Severe Storm,1
+CA,2010,Fire,1
+CA,2010,Hurricane,0
+CA,2010,Tornado,0
+AR,2010,Flood,0
+AR,2010,Severe Storm,1
+AR,2010,Fire,0
+AR,2010,Hurricane,0
+AR,2010,Tornado,0
+VA,2010,Flood,0
+VA,2010,Severe Storm,1
+VA,2010,Fire,0
+VA,2010,Hurricane,0
+VA,2010,Tornado,0
+LA,2010,Flood,0
+LA,2010,Severe Storm,1
+LA,2010,Fire,0
+LA,2010,Hurricane,0
+LA,2010,Tornado,0
+NE,2010,Flood,1
+NE,2010,Severe Storm,1
+NE,2010,Fire,0
+NE,2010,Hurricane,0
+NE,2010,Tornado,0
+AK,2010,Flood,0
+AK,2010,Severe Storm,1
+AK,2010,Fire,0
+AK,2010,Hurricane,0
+AK,2010,Tornado,0
+NJ,2010,Flood,0
+NJ,2010,Severe Storm,1
+NJ,2010,Fire,0
+NJ,2010,Hurricane,0
+NJ,2010,Tornado,0
+AL,2010,Flood,0
+AL,2010,Severe Storm,1
+AL,2010,Fire,0
+AL,2010,Hurricane,1
+AL,2010,Tornado,0
+KS,2010,Flood,0
+KS,2010,Severe Storm,1
+KS,2010,Fire,0
+KS,2010,Hurricane,0
+KS,2010,Tornado,0
+NY,2010,Flood,0
+NY,2010,Severe Storm,1
+NY,2010,Fire,0
+NY,2010,Hurricane,0
+NY,2010,Tornado,0
+OK,2010,Flood,0
+OK,2010,Severe Storm,1
+OK,2010,Fire,0
+OK,2010,Hurricane,0
+OK,2010,Tornado,0
+NC,2010,Flood,0
+NC,2010,Severe Storm,1
+NC,2010,Fire,0
+NC,2010,Hurricane,1
+NC,2010,Tornado,0
+IA,2010,Flood,0
+IA,2010,Severe Storm,1
+IA,2010,Fire,0
+IA,2010,Hurricane,0
+IA,2010,Tornado,0
+ND,2010,Flood,1
+ND,2010,Severe Storm,1
+ND,2010,Fire,0
+ND,2010,Hurricane,0
+ND,2010,Tornado,0
+SD,2010,Flood,1
+SD,2010,Severe Storm,1
+SD,2010,Fire,0
+SD,2010,Hurricane,0
+SD,2010,Tornado,0
+MN,2010,Flood,1
+MN,2010,Severe Storm,0
+MN,2010,Fire,0
+MN,2010,Hurricane,0
+MN,2010,Tornado,1
+ME,2010,Flood,0
+ME,2010,Severe Storm,1
+ME,2010,Fire,0
+ME,2010,Hurricane,0
+ME,2010,Tornado,0
+MA,2010,Flood,0
+MA,2010,Severe Storm,1
+MA,2010,Fire,0
+MA,2010,Hurricane,1
+MA,2010,Tornado,0
+RI,2010,Flood,0
+RI,2010,Severe Storm,1
+RI,2010,Fire,0
+RI,2010,Hurricane,0
+RI,2010,Tornado,0
+WV,2010,Flood,1
+WV,2010,Severe Storm,1
+WV,2010,Fire,0
+WV,2010,Hurricane,0
+WV,2010,Tornado,0
+NH,2010,Flood,0
+NH,2010,Severe Storm,1
+NH,2010,Fire,0
+NH,2010,Hurricane,0
+NH,2010,Tornado,0
+CT,2010,Flood,0
+CT,2010,Severe Storm,1
+CT,2010,Fire,0
+CT,2010,Hurricane,0
+CT,2010,Tornado,0
+MS,2010,Flood,0
+MS,2010,Severe Storm,1
+MS,2010,Fire,0
+MS,2010,Hurricane,0
+MS,2010,Tornado,0
+TN,2010,Flood,0
+TN,2010,Severe Storm,1
+TN,2010,Fire,0
+TN,2010,Hurricane,0
+TN,2010,Tornado,0
+KY,2010,Flood,0
+KY,2010,Severe Storm,1
+KY,2010,Fire,0
+KY,2010,Hurricane,0
+KY,2010,Tornado,0
+NM,2010,Flood,1
+NM,2010,Severe Storm,0
+NM,2010,Fire,1
+NM,2010,Hurricane,0
+NM,2010,Tornado,0
+HI,2010,Flood,0
+HI,2010,Severe Storm,0
+HI,2010,Fire,1
+HI,2010,Hurricane,0
+HI,2010,Tornado,0
+TX,2010,Flood,0
+TX,2010,Severe Storm,0
+TX,2010,Fire,0
+TX,2010,Hurricane,1
+TX,2010,Tornado,0
+NV,2010,Flood,0
+NV,2010,Severe Storm,0
+NV,2010,Fire,1
+NV,2010,Hurricane,0
+NV,2010,Tornado,0
+MT,2010,Flood,0
+MT,2010,Severe Storm,1
+MT,2010,Fire,0
+MT,2010,Hurricane,0
+MT,2010,Tornado,0
+WY,2010,Flood,1
+WY,2010,Severe Storm,0
+WY,2010,Fire,0
+WY,2010,Hurricane,0
+WY,2010,Tornado,0
+WA,2010,Flood,0
+WA,2010,Severe Storm,0
+WA,2010,Fire,1
+WA,2010,Hurricane,0
+WA,2010,Tornado,0
+ID,2010,Flood,0
+ID,2010,Severe Storm,1
+ID,2010,Fire,1
+ID,2010,Hurricane,0
+ID,2010,Tornado,0
+WI,2010,Flood,0
+WI,2010,Severe Storm,1
+WI,2010,Fire,0
+WI,2010,Hurricane,0
+WI,2010,Tornado,0
+MO,2010,Flood,0
+MO,2010,Severe Storm,1
+MO,2010,Fire,0
+MO,2010,Hurricane,0
+MO,2010,Tornado,0
+IL,2010,Flood,0
+IL,2010,Severe Storm,1
+IL,2010,Fire,0
+IL,2010,Hurricane,0
+IL,2010,Tornado,0
+CO,2010,Flood,0
+CO,2010,Severe Storm,0
+CO,2010,Fire,1
+CO,2010,Hurricane,0
+CO,2010,Tornado,0
+UT,2010,Flood,0
+UT,2010,Severe Storm,0
+UT,2010,Fire,1
+UT,2010,Hurricane,0
+UT,2010,Tornado,0
+AZ,2011,Flood,0
+AZ,2011,Severe Storm,1
+AZ,2011,Fire,1
+AZ,2011,Hurricane,0
+AZ,2011,Tornado,0
+MN,2011,Flood,1
+MN,2011,Severe Storm,1
+MN,2011,Fire,0
+MN,2011,Hurricane,0
+MN,2011,Tornado,0
+NY,2011,Flood,1
+NY,2011,Severe Storm,1
+NY,2011,Fire,0
+NY,2011,Hurricane,1
+NY,2011,Tornado,1
+NC,2011,Flood,0
+NC,2011,Severe Storm,1
+NC,2011,Fire,1
+NC,2011,Hurricane,1
+NC,2011,Tornado,0
+NE,2011,Flood,1
+NE,2011,Severe Storm,1
+NE,2011,Fire,1
+NE,2011,Hurricane,0
+NE,2011,Tornado,0
+WI,2011,Flood,0
+WI,2011,Severe Storm,1
+WI,2011,Fire,0
+WI,2011,Hurricane,0
+WI,2011,Tornado,0
+SD,2011,Flood,1
+SD,2011,Severe Storm,1
+SD,2011,Fire,0
+SD,2011,Hurricane,0
+SD,2011,Tornado,0
+VT,2011,Flood,0
+VT,2011,Severe Storm,1
+VT,2011,Fire,0
+VT,2011,Hurricane,1
+VT,2011,Tornado,0
+CA,2011,Flood,1
+CA,2011,Severe Storm,0
+CA,2011,Fire,1
+CA,2011,Hurricane,0
+CA,2011,Tornado,0
+ME,2011,Flood,0
+ME,2011,Severe Storm,1
+ME,2011,Fire,0
+ME,2011,Hurricane,1
+ME,2011,Tornado,0
+OK,2011,Flood,0
+OK,2011,Severe Storm,1
+OK,2011,Fire,1
+OK,2011,Hurricane,0
+OK,2011,Tornado,0
+MO,2011,Flood,1
+MO,2011,Severe Storm,1
+MO,2011,Fire,0
+MO,2011,Hurricane,0
+MO,2011,Tornado,0
+UT,2011,Flood,1
+UT,2011,Severe Storm,0
+UT,2011,Fire,0
+UT,2011,Hurricane,0
+UT,2011,Tornado,0
+OR,2011,Flood,0
+OR,2011,Severe Storm,1
+OR,2011,Fire,0
+OR,2011,Hurricane,0
+OR,2011,Tornado,0
+VA,2011,Flood,0
+VA,2011,Severe Storm,0
+VA,2011,Fire,1
+VA,2011,Hurricane,1
+VA,2011,Tornado,0
+TX,2011,Flood,0
+TX,2011,Severe Storm,0
+TX,2011,Fire,1
+TX,2011,Hurricane,0
+TX,2011,Tornado,0
+NM,2011,Flood,0
+NM,2011,Severe Storm,1
+NM,2011,Fire,1
+NM,2011,Hurricane,0
+NM,2011,Tornado,0
+CO,2011,Flood,0
+CO,2011,Severe Storm,0
+CO,2011,Fire,1
+CO,2011,Hurricane,0
+CO,2011,Tornado,0
+GA,2011,Flood,0
+GA,2011,Severe Storm,1
+GA,2011,Fire,1
+GA,2011,Hurricane,0
+GA,2011,Tornado,0
+WA,2011,Flood,0
+WA,2011,Severe Storm,1
+WA,2011,Fire,1
+WA,2011,Hurricane,0
+WA,2011,Tornado,0
+TN,2011,Flood,1
+TN,2011,Severe Storm,1
+TN,2011,Fire,0
+TN,2011,Hurricane,0
+TN,2011,Tornado,0
+KS,2011,Flood,1
+KS,2011,Severe Storm,1
+KS,2011,Fire,1
+KS,2011,Hurricane,0
+KS,2011,Tornado,0
+ND,2011,Flood,1
+ND,2011,Severe Storm,1
+ND,2011,Fire,0
+ND,2011,Hurricane,0
+ND,2011,Tornado,0
+AL,2011,Flood,0
+AL,2011,Severe Storm,1
+AL,2011,Fire,0
+AL,2011,Hurricane,0
+AL,2011,Tornado,0
+FL,2011,Flood,0
+FL,2011,Severe Storm,0
+FL,2011,Fire,1
+FL,2011,Hurricane,0
+FL,2011,Tornado,0
+MS,2011,Flood,1
+MS,2011,Severe Storm,1
+MS,2011,Fire,0
+MS,2011,Hurricane,0
+MS,2011,Tornado,0
+AR,2011,Flood,0
+AR,2011,Severe Storm,1
+AR,2011,Fire,0
+AR,2011,Hurricane,0
+AR,2011,Tornado,0
+KY,2011,Flood,0
+KY,2011,Severe Storm,1
+KY,2011,Fire,0
+KY,2011,Hurricane,0
+KY,2011,Tornado,0
+IA,2011,Flood,1
+IA,2011,Severe Storm,1
+IA,2011,Fire,0
+IA,2011,Hurricane,0
+IA,2011,Tornado,0
+LA,2011,Flood,1
+LA,2011,Severe Storm,0
+LA,2011,Fire,0
+LA,2011,Hurricane,0
+LA,2011,Tornado,0
+ID,2011,Flood,1
+ID,2011,Severe Storm,0
+ID,2011,Fire,0
+ID,2011,Hurricane,0
+ID,2011,Tornado,0
+AK,2011,Flood,1
+AK,2011,Severe Storm,0
+AK,2011,Fire,1
+AK,2011,Hurricane,0
+AK,2011,Tornado,0
+IL,2011,Flood,0
+IL,2011,Severe Storm,1
+IL,2011,Fire,0
+IL,2011,Hurricane,0
+IL,2011,Tornado,0
+MA,2011,Flood,0
+MA,2011,Severe Storm,0
+MA,2011,Fire,0
+MA,2011,Hurricane,1
+MA,2011,Tornado,1
+MT,2011,Flood,0
+MT,2011,Severe Storm,1
+MT,2011,Fire,1
+MT,2011,Hurricane,0
+MT,2011,Tornado,0
+IN,2011,Flood,0
+IN,2011,Severe Storm,1
+IN,2011,Fire,0
+IN,2011,Hurricane,0
+IN,2011,Tornado,0
+PA,2011,Flood,1
+PA,2011,Severe Storm,1
+PA,2011,Fire,0
+PA,2011,Hurricane,1
+PA,2011,Tornado,0
+OH,2011,Flood,0
+OH,2011,Severe Storm,1
+OH,2011,Fire,0
+OH,2011,Hurricane,0
+OH,2011,Tornado,0
+WY,2011,Flood,0
+WY,2011,Severe Storm,1
+WY,2011,Fire,0
+WY,2011,Hurricane,0
+WY,2011,Tornado,0
+NH,2011,Flood,1
+NH,2011,Severe Storm,0
+NH,2011,Fire,0
+NH,2011,Hurricane,1
+NH,2011,Tornado,0
+MD,2011,Flood,0
+MD,2011,Severe Storm,0
+MD,2011,Fire,0
+MD,2011,Hurricane,1
+MD,2011,Tornado,0
+RI,2011,Flood,0
+RI,2011,Severe Storm,0
+RI,2011,Fire,0
+RI,2011,Hurricane,1
+RI,2011,Tornado,0
+NJ,2011,Flood,0
+NJ,2011,Severe Storm,1
+NJ,2011,Fire,0
+NJ,2011,Hurricane,1
+NJ,2011,Tornado,0
+CT,2011,Flood,0
+CT,2011,Severe Storm,0
+CT,2011,Fire,0
+CT,2011,Hurricane,1
+CT,2011,Tornado,0
+DE,2011,Flood,0
+DE,2011,Severe Storm,0
+DE,2011,Fire,0
+DE,2011,Hurricane,1
+DE,2011,Tornado,0
+NV,2011,Flood,0
+NV,2011,Severe Storm,0
+NV,2011,Fire,1
+NV,2011,Hurricane,0
+NV,2011,Tornado,0
+NV,2012,Flood,0
+NV,2012,Severe Storm,0
+NV,2012,Fire,1
+NV,2012,Hurricane,0
+NV,2012,Tornado,0
+MD,2012,Flood,1
+MD,2012,Severe Storm,1
+MD,2012,Fire,0
+MD,2012,Hurricane,0
+MD,2012,Tornado,0
+NJ,2012,Flood,0
+NJ,2012,Severe Storm,1
+NJ,2012,Fire,0
+NJ,2012,Hurricane,0
+NJ,2012,Tornado,0
+CT,2012,Flood,0
+CT,2012,Severe Storm,1
+CT,2012,Fire,0
+CT,2012,Hurricane,0
+CT,2012,Tornado,0
+NH,2012,Flood,0
+NH,2012,Severe Storm,1
+NH,2012,Fire,0
+NH,2012,Hurricane,0
+NH,2012,Tornado,0
+MA,2012,Flood,0
+MA,2012,Severe Storm,1
+MA,2012,Fire,0
+MA,2012,Hurricane,0
+MA,2012,Tornado,0
+VT,2012,Flood,0
+VT,2012,Severe Storm,1
+VT,2012,Fire,0
+VT,2012,Hurricane,0
+VT,2012,Tornado,0
+VA,2012,Flood,0
+VA,2012,Severe Storm,1
+VA,2012,Fire,0
+VA,2012,Hurricane,0
+VA,2012,Tornado,0
+NM,2012,Flood,1
+NM,2012,Severe Storm,0
+NM,2012,Fire,1
+NM,2012,Hurricane,0
+NM,2012,Tornado,0
+AK,2012,Flood,0
+AK,2012,Severe Storm,1
+AK,2012,Fire,0
+AK,2012,Hurricane,0
+AK,2012,Tornado,0
+UT,2012,Flood,0
+UT,2012,Severe Storm,1
+UT,2012,Fire,1
+UT,2012,Hurricane,0
+UT,2012,Tornado,0
+AL,2012,Flood,0
+AL,2012,Severe Storm,1
+AL,2012,Fire,0
+AL,2012,Hurricane,1
+AL,2012,Tornado,0
+OR,2012,Flood,1
+OR,2012,Severe Storm,0
+OR,2012,Fire,0
+OR,2012,Hurricane,0
+OR,2012,Tornado,0
+WA,2012,Flood,0
+WA,2012,Severe Storm,1
+WA,2012,Fire,1
+WA,2012,Hurricane,0
+WA,2012,Tornado,0
+KY,2012,Flood,0
+KY,2012,Severe Storm,1
+KY,2012,Fire,0
+KY,2012,Hurricane,0
+KY,2012,Tornado,0
+IN,2012,Flood,0
+IN,2012,Severe Storm,1
+IN,2012,Fire,0
+IN,2012,Hurricane,0
+IN,2012,Tornado,0
+TN,2012,Flood,0
+TN,2012,Severe Storm,1
+TN,2012,Fire,0
+TN,2012,Hurricane,0
+TN,2012,Tornado,0
+WV,2012,Flood,0
+WV,2012,Severe Storm,1
+WV,2012,Fire,0
+WV,2012,Hurricane,0
+WV,2012,Tornado,0
+CO,2012,Flood,0
+CO,2012,Severe Storm,0
+CO,2012,Fire,1
+CO,2012,Hurricane,0
+CO,2012,Tornado,0
+HI,2012,Flood,0
+HI,2012,Severe Storm,1
+HI,2012,Fire,0
+HI,2012,Hurricane,0
+HI,2012,Tornado,0
+TX,2012,Flood,0
+TX,2012,Severe Storm,0
+TX,2012,Fire,1
+TX,2012,Hurricane,0
+TX,2012,Tornado,0
+KS,2012,Flood,0
+KS,2012,Severe Storm,1
+KS,2012,Fire,0
+KS,2012,Hurricane,0
+KS,2012,Tornado,0
+OK,2012,Flood,0
+OK,2012,Severe Storm,1
+OK,2012,Fire,1
+OK,2012,Hurricane,0
+OK,2012,Tornado,0
+MT,2012,Flood,0
+MT,2012,Severe Storm,0
+MT,2012,Fire,1
+MT,2012,Hurricane,0
+MT,2012,Tornado,0
+WY,2012,Flood,0
+WY,2012,Severe Storm,0
+WY,2012,Fire,1
+WY,2012,Hurricane,0
+WY,2012,Tornado,0
+OH,2012,Flood,0
+OH,2012,Severe Storm,1
+OH,2012,Fire,0
+OH,2012,Hurricane,0
+OH,2012,Tornado,0
+FL,2012,Flood,0
+FL,2012,Severe Storm,1
+FL,2012,Fire,0
+FL,2012,Hurricane,0
+FL,2012,Tornado,0
+MN,2012,Flood,0
+MN,2012,Severe Storm,1
+MN,2012,Fire,0
+MN,2012,Hurricane,0
+MN,2012,Tornado,0
+SD,2012,Flood,0
+SD,2012,Severe Storm,0
+SD,2012,Fire,1
+SD,2012,Hurricane,0
+SD,2012,Tornado,0
+WI,2012,Flood,0
+WI,2012,Severe Storm,1
+WI,2012,Fire,0
+WI,2012,Hurricane,0
+WI,2012,Tornado,0
+CA,2012,Flood,0
+CA,2012,Severe Storm,0
+CA,2012,Fire,1
+CA,2012,Hurricane,0
+CA,2012,Tornado,0
+ID,2012,Flood,0
+ID,2012,Severe Storm,0
+ID,2012,Fire,1
+ID,2012,Hurricane,0
+ID,2012,Tornado,0
+LA,2012,Flood,0
+LA,2012,Severe Storm,0
+LA,2012,Fire,0
+LA,2012,Hurricane,1
+LA,2012,Tornado,0
+MS,2012,Flood,0
+MS,2012,Severe Storm,0
+MS,2012,Fire,0
+MS,2012,Hurricane,1
+MS,2012,Tornado,0
+NE,2012,Flood,0
+NE,2012,Severe Storm,0
+NE,2012,Fire,1
+NE,2012,Hurricane,0
+NE,2012,Tornado,0
+FL,2013,Flood,0
+FL,2013,Severe Storm,1
+FL,2013,Fire,0
+FL,2013,Hurricane,1
+FL,2013,Tornado,0
+CO,2013,Flood,1
+CO,2013,Severe Storm,0
+CO,2013,Fire,1
+CO,2013,Hurricane,0
+CO,2013,Tornado,0
+NJ,2013,Flood,0
+NJ,2013,Severe Storm,0
+NJ,2013,Fire,0
+NJ,2013,Hurricane,1
+NJ,2013,Tornado,0
+CT,2013,Flood,0
+CT,2013,Severe Storm,1
+CT,2013,Fire,0
+CT,2013,Hurricane,1
+CT,2013,Tornado,0
+NY,2013,Flood,1
+NY,2013,Severe Storm,1
+NY,2013,Fire,0
+NY,2013,Hurricane,1
+NY,2013,Tornado,0
+MA,2013,Flood,0
+MA,2013,Severe Storm,1
+MA,2013,Fire,0
+MA,2013,Hurricane,1
+MA,2013,Tornado,0
+MD,2013,Flood,0
+MD,2013,Severe Storm,0
+MD,2013,Fire,0
+MD,2013,Hurricane,1
+MD,2013,Tornado,0
+VA,2013,Flood,0
+VA,2013,Severe Storm,0
+VA,2013,Fire,0
+VA,2013,Hurricane,1
+VA,2013,Tornado,0
+WV,2013,Flood,1
+WV,2013,Severe Storm,0
+WV,2013,Fire,0
+WV,2013,Hurricane,1
+WV,2013,Tornado,0
+DE,2013,Flood,0
+DE,2013,Severe Storm,0
+DE,2013,Fire,0
+DE,2013,Hurricane,1
+DE,2013,Tornado,0
+PA,2013,Flood,0
+PA,2013,Severe Storm,0
+PA,2013,Fire,0
+PA,2013,Hurricane,1
+PA,2013,Tornado,0
+RI,2013,Flood,0
+RI,2013,Severe Storm,1
+RI,2013,Fire,0
+RI,2013,Hurricane,1
+RI,2013,Tornado,0
+NH,2013,Flood,0
+NH,2013,Severe Storm,1
+NH,2013,Fire,0
+NH,2013,Hurricane,1
+NH,2013,Tornado,0
+UT,2013,Flood,1
+UT,2013,Severe Storm,0
+UT,2013,Fire,1
+UT,2013,Hurricane,0
+UT,2013,Tornado,0
+AK,2013,Flood,1
+AK,2013,Severe Storm,1
+AK,2013,Fire,0
+AK,2013,Hurricane,0
+AK,2013,Tornado,0
+OH,2013,Flood,0
+OH,2013,Severe Storm,0
+OH,2013,Fire,0
+OH,2013,Hurricane,1
+OH,2013,Tornado,0
+MS,2013,Flood,0
+MS,2013,Severe Storm,1
+MS,2013,Fire,0
+MS,2013,Hurricane,0
+MS,2013,Tornado,0
+LA,2013,Flood,0
+LA,2013,Severe Storm,1
+LA,2013,Fire,0
+LA,2013,Hurricane,0
+LA,2013,Tornado,0
+ME,2013,Flood,0
+ME,2013,Severe Storm,1
+ME,2013,Fire,0
+ME,2013,Hurricane,0
+ME,2013,Tornado,0
+OK,2013,Flood,0
+OK,2013,Severe Storm,1
+OK,2013,Fire,0
+OK,2013,Hurricane,0
+OK,2013,Tornado,1
+ND,2013,Flood,1
+ND,2013,Severe Storm,1
+ND,2013,Fire,0
+ND,2013,Hurricane,0
+ND,2013,Tornado,0
+CA,2013,Flood,0
+CA,2013,Severe Storm,0
+CA,2013,Fire,1
+CA,2013,Hurricane,0
+CA,2013,Tornado,0
+MN,2013,Flood,0
+MN,2013,Severe Storm,1
+MN,2013,Fire,0
+MN,2013,Hurricane,0
+MN,2013,Tornado,0
+IA,2013,Flood,1
+IA,2013,Severe Storm,1
+IA,2013,Fire,0
+IA,2013,Hurricane,0
+IA,2013,Tornado,0
+IL,2013,Flood,1
+IL,2013,Severe Storm,0
+IL,2013,Fire,0
+IL,2013,Hurricane,0
+IL,2013,Tornado,0
+SD,2013,Flood,0
+SD,2013,Severe Storm,1
+SD,2013,Fire,0
+SD,2013,Hurricane,0
+SD,2013,Tornado,0
+NM,2013,Flood,0
+NM,2013,Severe Storm,1
+NM,2013,Fire,1
+NM,2013,Hurricane,0
+NM,2013,Tornado,0
+VT,2013,Flood,1
+VT,2013,Severe Storm,0
+VT,2013,Fire,0
+VT,2013,Hurricane,0
+VT,2013,Tornado,0
+MI,2013,Flood,1
+MI,2013,Severe Storm,0
+MI,2013,Fire,0
+MI,2013,Hurricane,0
+MI,2013,Tornado,0
+AZ,2013,Flood,0
+AZ,2013,Severe Storm,0
+AZ,2013,Fire,1
+AZ,2013,Hurricane,0
+AZ,2013,Tornado,0
+AR,2013,Flood,0
+AR,2013,Severe Storm,1
+AR,2013,Fire,0
+AR,2013,Hurricane,0
+AR,2013,Tornado,0
+NV,2013,Flood,0
+NV,2013,Severe Storm,0
+NV,2013,Fire,1
+NV,2013,Hurricane,0
+NV,2013,Tornado,0
+MT,2013,Flood,1
+MT,2013,Severe Storm,0
+MT,2013,Fire,1
+MT,2013,Hurricane,0
+MT,2013,Tornado,0
+MO,2013,Flood,0
+MO,2013,Severe Storm,1
+MO,2013,Fire,0
+MO,2013,Hurricane,0
+MO,2013,Tornado,0
+OR,2013,Flood,0
+OR,2013,Severe Storm,0
+OR,2013,Fire,1
+OR,2013,Hurricane,0
+OR,2013,Tornado,0
+WA,2013,Flood,0
+WA,2013,Severe Storm,0
+WA,2013,Fire,1
+WA,2013,Hurricane,0
+WA,2013,Tornado,0
+WI,2013,Flood,0
+WI,2013,Severe Storm,1
+WI,2013,Fire,0
+WI,2013,Hurricane,0
+WI,2013,Tornado,0
+ID,2013,Flood,0
+ID,2013,Severe Storm,0
+ID,2013,Fire,1
+ID,2013,Hurricane,0
+ID,2013,Tornado,0
+NC,2013,Flood,1
+NC,2013,Severe Storm,0
+NC,2013,Fire,0
+NC,2013,Hurricane,0
+NC,2013,Tornado,0
+PA,2014,Flood,0
+PA,2014,Severe Storm,1
+PA,2014,Fire,0
+PA,2014,Hurricane,0
+PA,2014,Tornado,0
+KS,2014,Flood,0
+KS,2014,Severe Storm,1
+KS,2014,Fire,0
+KS,2014,Hurricane,0
+KS,2014,Tornado,0
+NM,2014,Flood,1
+NM,2014,Severe Storm,1
+NM,2014,Fire,0
+NM,2014,Hurricane,0
+NM,2014,Tornado,0
+NC,2014,Flood,1
+NC,2014,Severe Storm,0
+NC,2014,Fire,0
+NC,2014,Hurricane,0
+NC,2014,Tornado,0
+ND,2014,Flood,1
+ND,2014,Severe Storm,1
+ND,2014,Fire,0
+ND,2014,Hurricane,0
+ND,2014,Tornado,0
+SD,2014,Flood,1
+SD,2014,Severe Storm,1
+SD,2014,Fire,0
+SD,2014,Hurricane,0
+SD,2014,Tornado,0
+IL,2014,Flood,0
+IL,2014,Severe Storm,0
+IL,2014,Fire,0
+IL,2014,Hurricane,0
+IL,2014,Tornado,1
+NE,2014,Flood,0
+NE,2014,Severe Storm,1
+NE,2014,Fire,0
+NE,2014,Hurricane,0
+NE,2014,Tornado,1
+CA,2014,Flood,0
+CA,2014,Severe Storm,0
+CA,2014,Fire,1
+CA,2014,Hurricane,0
+CA,2014,Tornado,0
+TX,2014,Flood,0
+TX,2014,Severe Storm,1
+TX,2014,Fire,1
+TX,2014,Hurricane,0
+TX,2014,Tornado,0
+AK,2014,Flood,1
+AK,2014,Severe Storm,1
+AK,2014,Fire,0
+AK,2014,Hurricane,0
+AK,2014,Tornado,0
+OK,2014,Flood,0
+OK,2014,Severe Storm,1
+OK,2014,Fire,1
+OK,2014,Hurricane,0
+OK,2014,Tornado,0
+OR,2014,Flood,0
+OR,2014,Severe Storm,1
+OR,2014,Fire,1
+OR,2014,Hurricane,0
+OR,2014,Tornado,0
+MD,2014,Flood,0
+MD,2014,Severe Storm,1
+MD,2014,Fire,0
+MD,2014,Hurricane,0
+MD,2014,Tornado,0
+MT,2014,Flood,1
+MT,2014,Severe Storm,0
+MT,2014,Fire,0
+MT,2014,Hurricane,0
+MT,2014,Tornado,0
+IN,2014,Flood,0
+IN,2014,Severe Storm,1
+IN,2014,Fire,0
+IN,2014,Hurricane,0
+IN,2014,Tornado,0
+AR,2014,Flood,0
+AR,2014,Severe Storm,1
+AR,2014,Fire,0
+AR,2014,Hurricane,0
+AR,2014,Tornado,0
+MS,2014,Flood,0
+MS,2014,Severe Storm,1
+MS,2014,Fire,0
+MS,2014,Hurricane,0
+MS,2014,Tornado,0
+AL,2014,Flood,0
+AL,2014,Severe Storm,1
+AL,2014,Fire,0
+AL,2014,Hurricane,0
+AL,2014,Tornado,0
+FL,2014,Flood,0
+FL,2014,Severe Storm,1
+FL,2014,Fire,0
+FL,2014,Hurricane,0
+FL,2014,Tornado,0
+VT,2014,Flood,1
+VT,2014,Severe Storm,0
+VT,2014,Fire,0
+VT,2014,Hurricane,0
+VT,2014,Tornado,0
+NY,2014,Flood,0
+NY,2014,Severe Storm,1
+NY,2014,Fire,0
+NY,2014,Hurricane,0
+NY,2014,Tornado,0
+WA,2014,Flood,0
+WA,2014,Severe Storm,0
+WA,2014,Fire,1
+WA,2014,Hurricane,0
+WA,2014,Tornado,0
+IA,2014,Flood,1
+IA,2014,Severe Storm,1
+IA,2014,Fire,0
+IA,2014,Hurricane,0
+IA,2014,Tornado,0
+UT,2014,Flood,0
+UT,2014,Severe Storm,0
+UT,2014,Fire,1
+UT,2014,Hurricane,0
+UT,2014,Tornado,0
+MN,2014,Flood,1
+MN,2014,Severe Storm,0
+MN,2014,Fire,0
+MN,2014,Hurricane,0
+MN,2014,Tornado,0
+TN,2014,Flood,0
+TN,2014,Severe Storm,1
+TN,2014,Fire,0
+TN,2014,Hurricane,0
+TN,2014,Tornado,0
+HI,2014,Flood,0
+HI,2014,Severe Storm,1
+HI,2014,Fire,0
+HI,2014,Hurricane,0
+HI,2014,Tornado,0
+MI,2014,Flood,1
+MI,2014,Severe Storm,0
+MI,2014,Fire,0
+MI,2014,Hurricane,0
+MI,2014,Tornado,0
+KY,2014,Flood,0
+KY,2014,Severe Storm,1
+KY,2014,Fire,0
+KY,2014,Hurricane,0
+KY,2014,Tornado,0
+NM,2015,Flood,0
+NM,2015,Severe Storm,1
+NM,2015,Fire,0
+NM,2015,Hurricane,0
+NM,2015,Tornado,0
+CA,2015,Flood,1
+CA,2015,Severe Storm,0
+CA,2015,Fire,1
+CA,2015,Hurricane,0
+CA,2015,Tornado,0
+MT,2015,Flood,0
+MT,2015,Severe Storm,1
+MT,2015,Fire,0
+MT,2015,Hurricane,0
+MT,2015,Tornado,0
+MO,2015,Flood,0
+MO,2015,Severe Storm,1
+MO,2015,Fire,0
+MO,2015,Hurricane,0
+MO,2015,Tornado,0
+AZ,2015,Flood,1
+AZ,2015,Severe Storm,0
+AZ,2015,Fire,1
+AZ,2015,Hurricane,0
+AZ,2015,Tornado,0
+NV,2015,Flood,1
+NV,2015,Severe Storm,0
+NV,2015,Fire,0
+NV,2015,Hurricane,0
+NV,2015,Tornado,0
+MS,2015,Flood,0
+MS,2015,Severe Storm,0
+MS,2015,Fire,0
+MS,2015,Hurricane,0
+MS,2015,Tornado,1
+VT,2015,Flood,0
+VT,2015,Severe Storm,1
+VT,2015,Fire,0
+VT,2015,Hurricane,0
+VT,2015,Tornado,0
+NH,2015,Flood,0
+NH,2015,Severe Storm,1
+NH,2015,Fire,0
+NH,2015,Hurricane,0
+NH,2015,Tornado,0
+WV,2015,Flood,1
+WV,2015,Severe Storm,1
+WV,2015,Fire,0
+WV,2015,Hurricane,0
+WV,2015,Tornado,0
+RI,2015,Flood,0
+RI,2015,Severe Storm,1
+RI,2015,Fire,0
+RI,2015,Hurricane,0
+RI,2015,Tornado,0
+CT,2015,Flood,0
+CT,2015,Severe Storm,1
+CT,2015,Fire,0
+CT,2015,Hurricane,0
+CT,2015,Tornado,0
+MA,2015,Flood,0
+MA,2015,Severe Storm,1
+MA,2015,Fire,0
+MA,2015,Hurricane,0
+MA,2015,Tornado,0
+KY,2015,Flood,1
+KY,2015,Severe Storm,1
+KY,2015,Fire,0
+KY,2015,Hurricane,0
+KY,2015,Tornado,0
+OK,2015,Flood,0
+OK,2015,Severe Storm,1
+OK,2015,Fire,0
+OK,2015,Hurricane,0
+OK,2015,Tornado,0
+TX,2015,Flood,0
+TX,2015,Severe Storm,1
+TX,2015,Fire,0
+TX,2015,Hurricane,0
+TX,2015,Tornado,0
+AK,2015,Flood,0
+AK,2015,Severe Storm,0
+AK,2015,Fire,1
+AK,2015,Hurricane,0
+AK,2015,Tornado,0
+NE,2015,Flood,0
+NE,2015,Severe Storm,1
+NE,2015,Fire,0
+NE,2015,Hurricane,0
+NE,2015,Tornado,0
+AR,2015,Flood,0
+AR,2015,Severe Storm,1
+AR,2015,Fire,0
+AR,2015,Hurricane,0
+AR,2015,Tornado,0
+WA,2015,Flood,0
+WA,2015,Severe Storm,0
+WA,2015,Fire,1
+WA,2015,Hurricane,0
+WA,2015,Tornado,0
+ID,2015,Flood,0
+ID,2015,Severe Storm,0
+ID,2015,Fire,1
+ID,2015,Hurricane,0
+ID,2015,Tornado,0
+WY,2015,Flood,1
+WY,2015,Severe Storm,0
+WY,2015,Fire,0
+WY,2015,Hurricane,0
+WY,2015,Tornado,0
+LA,2015,Flood,1
+LA,2015,Severe Storm,0
+LA,2015,Fire,0
+LA,2015,Hurricane,0
+LA,2015,Tornado,0
+CO,2015,Flood,1
+CO,2015,Severe Storm,0
+CO,2015,Fire,0
+CO,2015,Hurricane,0
+CO,2015,Tornado,0
+KS,2015,Flood,0
+KS,2015,Severe Storm,1
+KS,2015,Fire,0
+KS,2015,Hurricane,0
+KS,2015,Tornado,0
+NJ,2015,Flood,0
+NJ,2015,Severe Storm,1
+NJ,2015,Fire,0
+NJ,2015,Hurricane,0
+NJ,2015,Tornado,0
+SD,2015,Flood,0
+SD,2015,Severe Storm,1
+SD,2015,Fire,0
+SD,2015,Hurricane,0
+SD,2015,Tornado,0
+OR,2015,Flood,0
+OR,2015,Severe Storm,0
+OR,2015,Fire,1
+OR,2015,Hurricane,0
+OR,2015,Tornado,0
+IA,2015,Flood,0
+IA,2015,Severe Storm,1
+IA,2015,Fire,0
+IA,2015,Hurricane,0
+IA,2015,Tornado,0
+SC,2016,Flood,1
+SC,2016,Severe Storm,1
+SC,2016,Fire,0
+SC,2016,Hurricane,0
+SC,2016,Tornado,0
+WY,2016,Flood,0
+WY,2016,Severe Storm,0
+WY,2016,Fire,1
+WY,2016,Hurricane,0
+WY,2016,Tornado,0
+TX,2016,Flood,1
+TX,2016,Severe Storm,1
+TX,2016,Fire,1
+TX,2016,Hurricane,0
+TX,2016,Tornado,0
+WA,2016,Flood,1
+WA,2016,Severe Storm,1
+WA,2016,Fire,1
+WA,2016,Hurricane,0
+WA,2016,Tornado,0
+OK,2016,Flood,1
+OK,2016,Severe Storm,1
+OK,2016,Fire,1
+OK,2016,Hurricane,0
+OK,2016,Tornado,0
+ID,2016,Flood,0
+ID,2016,Severe Storm,1
+ID,2016,Fire,1
+ID,2016,Hurricane,0
+ID,2016,Tornado,0
+MO,2016,Flood,1
+MO,2016,Severe Storm,0
+MO,2016,Fire,0
+MO,2016,Hurricane,0
+MO,2016,Tornado,0
+MS,2016,Flood,1
+MS,2016,Severe Storm,1
+MS,2016,Fire,0
+MS,2016,Hurricane,0
+MS,2016,Tornado,0
+AL,2016,Flood,0
+AL,2016,Severe Storm,1
+AL,2016,Fire,0
+AL,2016,Hurricane,0
+AL,2016,Tornado,0
+AR,2016,Flood,0
+AR,2016,Severe Storm,1
+AR,2016,Fire,0
+AR,2016,Hurricane,0
+AR,2016,Tornado,0
+LA,2016,Flood,1
+LA,2016,Severe Storm,0
+LA,2016,Fire,0
+LA,2016,Hurricane,0
+LA,2016,Tornado,0
+OR,2016,Flood,0
+OR,2016,Severe Storm,1
+OR,2016,Fire,1
+OR,2016,Hurricane,0
+OR,2016,Tornado,0
+AK,2016,Flood,0
+AK,2016,Severe Storm,1
+AK,2016,Fire,0
+AK,2016,Hurricane,0
+AK,2016,Tornado,0
+GA,2016,Flood,0
+GA,2016,Severe Storm,1
+GA,2016,Fire,0
+GA,2016,Hurricane,0
+GA,2016,Tornado,0
+NJ,2016,Flood,0
+NJ,2016,Severe Storm,1
+NJ,2016,Fire,0
+NJ,2016,Hurricane,0
+NJ,2016,Tornado,0
+KS,2016,Flood,0
+KS,2016,Severe Storm,0
+KS,2016,Fire,1
+KS,2016,Hurricane,0
+KS,2016,Tornado,0
+NH,2016,Flood,0
+NH,2016,Severe Storm,0
+NH,2016,Fire,1
+NH,2016,Hurricane,0
+NH,2016,Tornado,0
+MT,2016,Flood,0
+MT,2016,Severe Storm,1
+MT,2016,Fire,1
+MT,2016,Hurricane,0
+MT,2016,Tornado,1
+CA,2016,Flood,0
+CA,2016,Severe Storm,0
+CA,2016,Fire,1
+CA,2016,Hurricane,0
+CA,2016,Tornado,0
+AZ,2016,Flood,0
+AZ,2016,Severe Storm,0
+AZ,2016,Fire,1
+AZ,2016,Hurricane,0
+AZ,2016,Tornado,0
+NM,2016,Flood,0
+NM,2016,Severe Storm,0
+NM,2016,Fire,1
+NM,2016,Hurricane,0
+NM,2016,Tornado,0
+UT,2016,Flood,0
+UT,2016,Severe Storm,0
+UT,2016,Fire,1
+UT,2016,Hurricane,0
+UT,2016,Tornado,0
+WV,2016,Flood,1
+WV,2016,Severe Storm,0
+WV,2016,Fire,0
+WV,2016,Hurricane,0
+WV,2016,Tornado,0
+CO,2016,Flood,0
+CO,2016,Severe Storm,0
+CO,2016,Fire,1
+CO,2016,Hurricane,0
+CO,2016,Tornado,0
+NV,2016,Flood,0
+NV,2016,Severe Storm,0
+NV,2016,Fire,1
+NV,2016,Hurricane,0
+NV,2016,Tornado,0
+WI,2016,Flood,0
+WI,2016,Severe Storm,1
+WI,2016,Fire,0
+WI,2016,Hurricane,0
+WI,2016,Tornado,0
+KY,2016,Flood,0
+KY,2016,Severe Storm,1
+KY,2016,Fire,0
+KY,2016,Hurricane,0
+KY,2016,Tornado,0
+MD,2016,Flood,1
+MD,2016,Severe Storm,0
+MD,2016,Fire,0
+MD,2016,Hurricane,0
+MD,2016,Tornado,0
+FL,2016,Flood,0
+FL,2016,Severe Storm,0
+FL,2016,Fire,0
+FL,2016,Hurricane,1
+FL,2016,Tornado,0
+IA,2016,Flood,1
+IA,2016,Severe Storm,0
+IA,2016,Fire,0
+IA,2016,Hurricane,0
+IA,2016,Tornado,0
+NV,2017,Flood,0
+NV,2017,Severe Storm,1
+NV,2017,Fire,1
+NV,2017,Hurricane,0
+NV,2017,Tornado,0
+CO,2017,Flood,0
+CO,2017,Severe Storm,0
+CO,2017,Fire,1
+CO,2017,Hurricane,0
+CO,2017,Tornado,0
+GA,2017,Flood,0
+GA,2017,Severe Storm,1
+GA,2017,Fire,1
+GA,2017,Hurricane,1
+GA,2017,Tornado,1
+SC,2017,Flood,0
+SC,2017,Severe Storm,0
+SC,2017,Fire,1
+SC,2017,Hurricane,1
+SC,2017,Tornado,0
+FL,2017,Flood,0
+FL,2017,Severe Storm,0
+FL,2017,Fire,1
+FL,2017,Hurricane,1
+FL,2017,Tornado,0
+NC,2017,Flood,0
+NC,2017,Severe Storm,0
+NC,2017,Fire,1
+NC,2017,Hurricane,1
+NC,2017,Tornado,0
+WI,2017,Flood,1
+WI,2017,Severe Storm,0
+WI,2017,Fire,0
+WI,2017,Hurricane,0
+WI,2017,Tornado,0
+KS,2017,Flood,0
+KS,2017,Severe Storm,1
+KS,2017,Fire,1
+KS,2017,Hurricane,0
+KS,2017,Tornado,0
+IA,2017,Flood,1
+IA,2017,Severe Storm,1
+IA,2017,Fire,0
+IA,2017,Hurricane,0
+IA,2017,Tornado,0
+VA,2017,Flood,0
+VA,2017,Severe Storm,0
+VA,2017,Fire,0
+VA,2017,Hurricane,1
+VA,2017,Tornado,0
+MN,2017,Flood,1
+MN,2017,Severe Storm,0
+MN,2017,Fire,0
+MN,2017,Hurricane,0
+MN,2017,Tornado,0
+KY,2017,Flood,0
+KY,2017,Severe Storm,0
+KY,2017,Fire,1
+KY,2017,Hurricane,0
+KY,2017,Tornado,0
+TN,2017,Flood,0
+TN,2017,Severe Storm,1
+TN,2017,Fire,1
+TN,2017,Hurricane,0
+TN,2017,Tornado,0
+PA,2017,Flood,1
+PA,2017,Severe Storm,0
+PA,2017,Fire,0
+PA,2017,Hurricane,0
+PA,2017,Tornado,0
+OR,2017,Flood,0
+OR,2017,Severe Storm,1
+OR,2017,Fire,1
+OR,2017,Hurricane,0
+OR,2017,Tornado,0
+MS,2017,Flood,0
+MS,2017,Severe Storm,1
+MS,2017,Fire,0
+MS,2017,Hurricane,0
+MS,2017,Tornado,1
+SD,2017,Flood,0
+SD,2017,Severe Storm,1
+SD,2017,Fire,0
+SD,2017,Hurricane,0
+SD,2017,Tornado,0
+OK,2017,Flood,0
+OK,2017,Severe Storm,1
+OK,2017,Fire,1
+OK,2017,Hurricane,0
+OK,2017,Tornado,1
+LA,2017,Flood,0
+LA,2017,Severe Storm,0
+LA,2017,Fire,0
+LA,2017,Hurricane,1
+LA,2017,Tornado,1
+CA,2017,Flood,1
+CA,2017,Severe Storm,1
+CA,2017,Fire,1
+CA,2017,Hurricane,0
+CA,2017,Tornado,0
+WY,2017,Flood,1
+WY,2017,Severe Storm,1
+WY,2017,Fire,0
+WY,2017,Hurricane,0
+WY,2017,Tornado,0
+UT,2017,Flood,1
+UT,2017,Severe Storm,0
+UT,2017,Fire,1
+UT,2017,Hurricane,0
+UT,2017,Tornado,0
+ID,2017,Flood,1
+ID,2017,Severe Storm,0
+ID,2017,Fire,0
+ID,2017,Hurricane,0
+ID,2017,Tornado,0
+WA,2017,Flood,1
+WA,2017,Severe Storm,0
+WA,2017,Fire,1
+WA,2017,Hurricane,0
+WA,2017,Tornado,0
+NH,2017,Flood,0
+NH,2017,Severe Storm,1
+NH,2017,Fire,0
+NH,2017,Hurricane,0
+NH,2017,Tornado,0
+MO,2017,Flood,1
+MO,2017,Severe Storm,0
+MO,2017,Fire,0
+MO,2017,Hurricane,0
+MO,2017,Tornado,0
+AZ,2017,Flood,0
+AZ,2017,Severe Storm,0
+AZ,2017,Fire,1
+AZ,2017,Hurricane,0
+AZ,2017,Tornado,0
+NM,2017,Flood,0
+NM,2017,Severe Storm,0
+NM,2017,Fire,1
+NM,2017,Hurricane,0
+NM,2017,Tornado,0
+AR,2017,Flood,0
+AR,2017,Severe Storm,1
+AR,2017,Fire,0
+AR,2017,Hurricane,0
+AR,2017,Tornado,0
+NE,2017,Flood,0
+NE,2017,Severe Storm,1
+NE,2017,Fire,0
+NE,2017,Hurricane,0
+NE,2017,Tornado,0
+ND,2017,Flood,1
+ND,2017,Severe Storm,0
+ND,2017,Fire,0
+ND,2017,Hurricane,0
+ND,2017,Tornado,0
+MT,2017,Flood,0
+MT,2017,Severe Storm,0
+MT,2017,Fire,1
+MT,2017,Hurricane,0
+MT,2017,Tornado,0
+MI,2017,Flood,0
+MI,2017,Severe Storm,1
+MI,2017,Fire,0
+MI,2017,Hurricane,0
+MI,2017,Tornado,0
+VT,2017,Flood,0
+VT,2017,Severe Storm,1
+VT,2017,Fire,0
+VT,2017,Hurricane,0
+VT,2017,Tornado,0
+WV,2017,Flood,0
+WV,2017,Severe Storm,1
+WV,2017,Fire,0
+WV,2017,Hurricane,0
+WV,2017,Tornado,0
+TX,2017,Flood,0
+TX,2017,Severe Storm,0
+TX,2017,Fire,0
+TX,2017,Hurricane,1
+TX,2017,Tornado,0
+AL,2017,Flood,0
+AL,2017,Severe Storm,0
+AL,2017,Fire,0
+AL,2017,Hurricane,1
+AL,2017,Tornado,0
+LA,2018,Flood,0
+LA,2018,Severe Storm,0
+LA,2018,Fire,0
+LA,2018,Hurricane,1
+LA,2018,Tornado,0
+WI,2018,Flood,1
+WI,2018,Severe Storm,1
+WI,2018,Fire,0
+WI,2018,Hurricane,0
+WI,2018,Tornado,0
+ID,2018,Flood,1
+ID,2018,Severe Storm,0
+ID,2018,Fire,1
+ID,2018,Hurricane,0
+ID,2018,Tornado,0
+MS,2018,Flood,0
+MS,2018,Severe Storm,0
+MS,2018,Fire,0
+MS,2018,Hurricane,1
+MS,2018,Tornado,0
+FL,2018,Flood,0
+FL,2018,Severe Storm,0
+FL,2018,Fire,0
+FL,2018,Hurricane,1
+FL,2018,Tornado,0
+AL,2018,Flood,0
+AL,2018,Severe Storm,1
+AL,2018,Fire,0
+AL,2018,Hurricane,1
+AL,2018,Tornado,0
+CA,2018,Flood,0
+CA,2018,Severe Storm,0
+CA,2018,Fire,1
+CA,2018,Hurricane,0
+CA,2018,Tornado,0
+SC,2018,Flood,0
+SC,2018,Severe Storm,0
+SC,2018,Fire,0
+SC,2018,Hurricane,1
+SC,2018,Tornado,0
+KS,2018,Flood,0
+KS,2018,Severe Storm,1
+KS,2018,Fire,0
+KS,2018,Hurricane,0
+KS,2018,Tornado,0
+NY,2018,Flood,1
+NY,2018,Severe Storm,0
+NY,2018,Fire,0
+NY,2018,Hurricane,0
+NY,2018,Tornado,0
+SD,2018,Flood,0
+SD,2018,Severe Storm,0
+SD,2018,Fire,1
+SD,2018,Hurricane,0
+SD,2018,Tornado,0
+NM,2018,Flood,1
+NM,2018,Severe Storm,0
+NM,2018,Fire,1
+NM,2018,Hurricane,0
+NM,2018,Tornado,0
+AK,2018,Flood,1
+AK,2018,Severe Storm,1
+AK,2018,Fire,0
+AK,2018,Hurricane,0
+AK,2018,Tornado,0
+VT,2018,Flood,0
+VT,2018,Severe Storm,1
+VT,2018,Fire,0
+VT,2018,Hurricane,0
+VT,2018,Tornado,0
+NH,2018,Flood,0
+NH,2018,Severe Storm,1
+NH,2018,Fire,0
+NH,2018,Hurricane,0
+NH,2018,Tornado,0
+ME,2018,Flood,0
+ME,2018,Severe Storm,1
+ME,2018,Fire,0
+ME,2018,Hurricane,0
+ME,2018,Tornado,0
+OK,2018,Flood,0
+OK,2018,Severe Storm,0
+OK,2018,Fire,1
+OK,2018,Hurricane,0
+OK,2018,Tornado,0
+KY,2018,Flood,1
+KY,2018,Severe Storm,0
+KY,2018,Fire,0
+KY,2018,Hurricane,0
+KY,2018,Tornado,0
+TX,2018,Flood,1
+TX,2018,Severe Storm,0
+TX,2018,Fire,1
+TX,2018,Hurricane,0
+TX,2018,Tornado,0
+OH,2018,Flood,1
+OH,2018,Severe Storm,0
+OH,2018,Fire,0
+OH,2018,Hurricane,0
+OH,2018,Tornado,0
+AZ,2018,Flood,1
+AZ,2018,Severe Storm,0
+AZ,2018,Fire,1
+AZ,2018,Hurricane,0
+AZ,2018,Tornado,0
+IN,2018,Flood,1
+IN,2018,Severe Storm,0
+IN,2018,Fire,0
+IN,2018,Hurricane,0
+IN,2018,Tornado,0
+HI,2018,Flood,1
+HI,2018,Severe Storm,0
+HI,2018,Fire,0
+HI,2018,Hurricane,1
+HI,2018,Tornado,0
+NC,2018,Flood,0
+NC,2018,Severe Storm,1
+NC,2018,Fire,0
+NC,2018,Hurricane,1
+NC,2018,Tornado,0
+NJ,2018,Flood,0
+NJ,2018,Severe Storm,1
+NJ,2018,Fire,0
+NJ,2018,Hurricane,0
+NJ,2018,Tornado,0
+WY,2018,Flood,0
+WY,2018,Severe Storm,0
+WY,2018,Fire,1
+WY,2018,Hurricane,0
+WY,2018,Tornado,0
+NV,2018,Flood,0
+NV,2018,Severe Storm,0
+NV,2018,Fire,1
+NV,2018,Hurricane,0
+NV,2018,Tornado,0
+OR,2018,Flood,0
+OR,2018,Severe Storm,0
+OR,2018,Fire,1
+OR,2018,Hurricane,0
+OR,2018,Tornado,0
+MD,2018,Flood,1
+MD,2018,Severe Storm,1
+MD,2018,Fire,0
+MD,2018,Hurricane,0
+MD,2018,Tornado,0
+MA,2018,Flood,0
+MA,2018,Severe Storm,1
+MA,2018,Fire,0
+MA,2018,Hurricane,0
+MA,2018,Tornado,0
+CO,2018,Flood,0
+CO,2018,Severe Storm,0
+CO,2018,Fire,1
+CO,2018,Hurricane,0
+CO,2018,Tornado,0
+UT,2018,Flood,0
+UT,2018,Severe Storm,0
+UT,2018,Fire,1
+UT,2018,Hurricane,0
+UT,2018,Tornado,0
+WA,2018,Flood,1
+WA,2018,Severe Storm,0
+WA,2018,Fire,1
+WA,2018,Hurricane,0
+WA,2018,Tornado,0
+WV,2018,Flood,0
+WV,2018,Severe Storm,1
+WV,2018,Fire,0
+WV,2018,Hurricane,0
+WV,2018,Tornado,0
+MI,2018,Flood,1
+MI,2018,Severe Storm,0
+MI,2018,Fire,0
+MI,2018,Hurricane,0
+MI,2018,Tornado,0
+IA,2018,Flood,0
+IA,2018,Severe Storm,1
+IA,2018,Fire,0
+IA,2018,Hurricane,0
+IA,2018,Tornado,0
+CT,2018,Flood,0
+CT,2018,Severe Storm,0
+CT,2018,Fire,0
+CT,2018,Hurricane,0
+CT,2018,Tornado,1
+NE,2018,Flood,0
+NE,2018,Severe Storm,1
+NE,2018,Fire,0
+NE,2018,Hurricane,0
+NE,2018,Tornado,0
+MT,2018,Flood,1
+MT,2018,Severe Storm,0
+MT,2018,Fire,0
+MT,2018,Hurricane,0
+MT,2018,Tornado,0
+MN,2018,Flood,1
+MN,2018,Severe Storm,0
+MN,2018,Fire,0
+MN,2018,Hurricane,0
+MN,2018,Tornado,0
+VA,2018,Flood,0
+VA,2018,Severe Storm,0
+VA,2018,Fire,0
+VA,2018,Hurricane,1
+VA,2018,Tornado,0
+NY,2019,Flood,1
+NY,2019,Severe Storm,0
+NY,2019,Fire,0
+NY,2019,Hurricane,0
+NY,2019,Tornado,0
+FL,2019,Flood,0
+FL,2019,Severe Storm,0
+FL,2019,Fire,0
+FL,2019,Hurricane,1
+FL,2019,Tornado,0
+GA,2019,Flood,0
+GA,2019,Severe Storm,0
+GA,2019,Fire,0
+GA,2019,Hurricane,1
+GA,2019,Tornado,0
+AL,2019,Flood,0
+AL,2019,Severe Storm,1
+AL,2019,Fire,0
+AL,2019,Hurricane,1
+AL,2019,Tornado,1
+VA,2019,Flood,0
+VA,2019,Severe Storm,0
+VA,2019,Fire,0
+VA,2019,Hurricane,1
+VA,2019,Tornado,0
+WI,2019,Flood,1
+WI,2019,Severe Storm,0
+WI,2019,Fire,0
+WI,2019,Hurricane,0
+WI,2019,Tornado,0
+KS,2019,Flood,0
+KS,2019,Severe Storm,1
+KS,2019,Fire,0
+KS,2019,Hurricane,0
+KS,2019,Tornado,0
+MT,2019,Flood,1
+MT,2019,Severe Storm,0
+MT,2019,Fire,1
+MT,2019,Hurricane,0
+MT,2019,Tornado,0
+CA,2019,Flood,0
+CA,2019,Severe Storm,1
+CA,2019,Fire,1
+CA,2019,Hurricane,0
+CA,2019,Tornado,0
+PA,2019,Flood,0
+PA,2019,Severe Storm,1
+PA,2019,Fire,0
+PA,2019,Hurricane,0
+PA,2019,Tornado,0
+AZ,2019,Flood,0
+AZ,2019,Severe Storm,1
+AZ,2019,Fire,1
+AZ,2019,Hurricane,0
+AZ,2019,Tornado,0
+CT,2019,Flood,0
+CT,2019,Severe Storm,1
+CT,2019,Fire,0
+CT,2019,Hurricane,0
+CT,2019,Tornado,0
+NC,2019,Flood,0
+NC,2019,Severe Storm,0
+NC,2019,Fire,0
+NC,2019,Hurricane,1
+NC,2019,Tornado,0
+MN,2019,Flood,1
+MN,2019,Severe Storm,0
+MN,2019,Fire,0
+MN,2019,Hurricane,0
+MN,2019,Tornado,0
+MS,2019,Flood,0
+MS,2019,Severe Storm,1
+MS,2019,Fire,0
+MS,2019,Hurricane,0
+MS,2019,Tornado,0
+TX,2019,Flood,1
+TX,2019,Severe Storm,0
+TX,2019,Fire,1
+TX,2019,Hurricane,0
+TX,2019,Tornado,0
+WA,2019,Flood,0
+WA,2019,Severe Storm,1
+WA,2019,Fire,0
+WA,2019,Hurricane,0
+WA,2019,Tornado,0
+NM,2019,Flood,0
+NM,2019,Severe Storm,0
+NM,2019,Fire,1
+NM,2019,Hurricane,0
+NM,2019,Tornado,0
+NE,2019,Flood,1
+NE,2019,Severe Storm,0
+NE,2019,Fire,0
+NE,2019,Hurricane,0
+NE,2019,Tornado,0
+IA,2019,Flood,1
+IA,2019,Severe Storm,0
+IA,2019,Fire,0
+IA,2019,Hurricane,0
+IA,2019,Tornado,0
+OH,2019,Flood,1
+OH,2019,Severe Storm,0
+OH,2019,Fire,0
+OH,2019,Hurricane,0
+OH,2019,Tornado,1
+KY,2019,Flood,0
+KY,2019,Severe Storm,1
+KY,2019,Fire,0
+KY,2019,Hurricane,0
+KY,2019,Tornado,0
+TN,2019,Flood,1
+TN,2019,Severe Storm,0
+TN,2019,Fire,0
+TN,2019,Hurricane,0
+TN,2019,Tornado,0
+OR,2019,Flood,1
+OR,2019,Severe Storm,1
+OR,2019,Fire,1
+OR,2019,Hurricane,0
+OR,2019,Tornado,0
+MO,2019,Flood,1
+MO,2019,Severe Storm,1
+MO,2019,Fire,0
+MO,2019,Hurricane,0
+MO,2019,Tornado,0
+OK,2019,Flood,1
+OK,2019,Severe Storm,1
+OK,2019,Fire,0
+OK,2019,Hurricane,0
+OK,2019,Tornado,0
+LA,2019,Flood,1
+LA,2019,Severe Storm,1
+LA,2019,Fire,0
+LA,2019,Hurricane,1
+LA,2019,Tornado,0
+AR,2019,Flood,1
+AR,2019,Severe Storm,0
+AR,2019,Fire,0
+AR,2019,Hurricane,0
+AR,2019,Tornado,0
+SD,2019,Flood,1
+SD,2019,Severe Storm,1
+SD,2019,Fire,0
+SD,2019,Hurricane,0
+SD,2019,Tornado,0
+ND,2019,Flood,1
+ND,2019,Severe Storm,0
+ND,2019,Fire,0
+ND,2019,Hurricane,0
+ND,2019,Tornado,0
+ID,2019,Flood,1
+ID,2019,Severe Storm,0
+ID,2019,Fire,0
+ID,2019,Hurricane,0
+ID,2019,Tornado,0
+VT,2019,Flood,1
+VT,2019,Severe Storm,0
+VT,2019,Fire,0
+VT,2019,Hurricane,0
+VT,2019,Tornado,0
+AK,2019,Flood,0
+AK,2019,Severe Storm,0
+AK,2019,Fire,1
+AK,2019,Hurricane,0
+AK,2019,Tornado,0
+NV,2019,Flood,0
+NV,2019,Severe Storm,0
+NV,2019,Fire,1
+NV,2019,Hurricane,0
+NV,2019,Tornado,0
+WV,2019,Flood,1
+WV,2019,Severe Storm,0
+WV,2019,Fire,0
+WV,2019,Hurricane,0
+WV,2019,Tornado,0
+NH,2019,Flood,0
+NH,2019,Severe Storm,1
+NH,2019,Fire,0
+NH,2019,Hurricane,0
+NH,2019,Tornado,0
+UT,2019,Flood,0
+UT,2019,Severe Storm,0
+UT,2019,Fire,1
+UT,2019,Hurricane,0
+UT,2019,Tornado,0
+SC,2019,Flood,0
+SC,2019,Severe Storm,0
+SC,2019,Fire,0
+SC,2019,Hurricane,1
+SC,2019,Tornado,0
+IL,2019,Flood,1
+IL,2019,Severe Storm,0
+IL,2019,Fire,0
+IL,2019,Hurricane,0
+IL,2019,Tornado,0
+TX,2020,Flood,1
+TX,2020,Severe Storm,0
+TX,2020,Fire,0
+TX,2020,Hurricane,1
+TX,2020,Tornado,0
+NC,2020,Flood,0
+NC,2020,Severe Storm,1
+NC,2020,Fire,0
+NC,2020,Hurricane,1
+NC,2020,Tornado,0
+SD,2020,Flood,0
+SD,2020,Severe Storm,1
+SD,2020,Fire,0
+SD,2020,Hurricane,0
+SD,2020,Tornado,0
+CA,2020,Flood,0
+CA,2020,Severe Storm,0
+CA,2020,Fire,1
+CA,2020,Hurricane,0
+CA,2020,Tornado,0
+FL,2020,Flood,0
+FL,2020,Severe Storm,0
+FL,2020,Fire,1
+FL,2020,Hurricane,1
+FL,2020,Tornado,0
+HI,2020,Flood,0
+HI,2020,Severe Storm,1
+HI,2020,Fire,1
+HI,2020,Hurricane,1
+HI,2020,Tornado,0
+OK,2020,Flood,0
+OK,2020,Severe Storm,0
+OK,2020,Fire,1
+OK,2020,Hurricane,0
+OK,2020,Tornado,0
+TN,2020,Flood,0
+TN,2020,Severe Storm,1
+TN,2020,Fire,0
+TN,2020,Hurricane,0
+TN,2020,Tornado,1
+MS,2020,Flood,0
+MS,2020,Severe Storm,1
+MS,2020,Fire,0
+MS,2020,Hurricane,1
+MS,2020,Tornado,0
+NY,2020,Flood,0
+NY,2020,Severe Storm,1
+NY,2020,Fire,0
+NY,2020,Hurricane,0
+NY,2020,Tornado,0
+VT,2020,Flood,0
+VT,2020,Severe Storm,1
+VT,2020,Fire,0
+VT,2020,Hurricane,0
+VT,2020,Tornado,0
+ND,2020,Flood,1
+ND,2020,Severe Storm,0
+ND,2020,Fire,0
+ND,2020,Hurricane,0
+ND,2020,Tornado,0
+WI,2020,Flood,1
+WI,2020,Severe Storm,0
+WI,2020,Fire,0
+WI,2020,Hurricane,0
+WI,2020,Tornado,0
+SC,2020,Flood,0
+SC,2020,Severe Storm,1
+SC,2020,Fire,0
+SC,2020,Hurricane,0
+SC,2020,Tornado,0
+OR,2020,Flood,1
+OR,2020,Severe Storm,0
+OR,2020,Fire,1
+OR,2020,Hurricane,0
+OR,2020,Tornado,0
+WA,2020,Flood,1
+WA,2020,Severe Storm,0
+WA,2020,Fire,1
+WA,2020,Hurricane,0
+WA,2020,Tornado,0
+KY,2020,Flood,0
+KY,2020,Severe Storm,1
+KY,2020,Fire,0
+KY,2020,Hurricane,0
+KY,2020,Tornado,0
+AR,2020,Flood,0
+AR,2020,Severe Storm,0
+AR,2020,Fire,0
+AR,2020,Hurricane,1
+AR,2020,Tornado,1
+AZ,2020,Flood,0
+AZ,2020,Severe Storm,0
+AZ,2020,Fire,1
+AZ,2020,Hurricane,0
+AZ,2020,Tornado,0
+AL,2020,Flood,0
+AL,2020,Severe Storm,1
+AL,2020,Fire,0
+AL,2020,Hurricane,1
+AL,2020,Tornado,0
+NV,2020,Flood,0
+NV,2020,Severe Storm,0
+NV,2020,Fire,1
+NV,2020,Hurricane,0
+NV,2020,Tornado,0
+UT,2020,Flood,0
+UT,2020,Severe Storm,0
+UT,2020,Fire,1
+UT,2020,Hurricane,0
+UT,2020,Tornado,0
+MO,2020,Flood,0
+MO,2020,Severe Storm,1
+MO,2020,Fire,0
+MO,2020,Hurricane,0
+MO,2020,Tornado,0
+MT,2020,Flood,0
+MT,2020,Severe Storm,0
+MT,2020,Fire,1
+MT,2020,Hurricane,0
+MT,2020,Tornado,0
+CT,2020,Flood,0
+CT,2020,Severe Storm,0
+CT,2020,Fire,0
+CT,2020,Hurricane,1
+CT,2020,Tornado,0
+IA,2020,Flood,0
+IA,2020,Severe Storm,1
+IA,2020,Fire,0
+IA,2020,Hurricane,0
+IA,2020,Tornado,0
+CO,2020,Flood,0
+CO,2020,Severe Storm,0
+CO,2020,Fire,1
+CO,2020,Hurricane,0
+CO,2020,Tornado,0
+LA,2020,Flood,0
+LA,2020,Severe Storm,0
+LA,2020,Fire,0
+LA,2020,Hurricane,1
+LA,2020,Tornado,0
+WY,2020,Flood,0
+WY,2020,Severe Storm,0
+WY,2020,Fire,1
+WY,2020,Hurricane,0
+WY,2020,Tornado,0
+NY,2021,Flood,0
+NY,2021,Severe Storm,0
+NY,2021,Fire,0
+NY,2021,Hurricane,1
+NY,2021,Tornado,0
+DE,2021,Flood,0
+DE,2021,Severe Storm,0
+DE,2021,Fire,0
+DE,2021,Hurricane,1
+DE,2021,Tornado,0
+ND,2021,Flood,0
+ND,2021,Severe Storm,1
+ND,2021,Fire,0
+ND,2021,Hurricane,0
+ND,2021,Tornado,0
+LA,2021,Flood,1
+LA,2021,Severe Storm,0
+LA,2021,Fire,0
+LA,2021,Hurricane,1
+LA,2021,Tornado,0
+MS,2021,Flood,0
+MS,2021,Severe Storm,0
+MS,2021,Fire,0
+MS,2021,Hurricane,1
+MS,2021,Tornado,0
+NC,2021,Flood,0
+NC,2021,Severe Storm,1
+NC,2021,Fire,0
+NC,2021,Hurricane,1
+NC,2021,Tornado,0
+CA,2021,Flood,0
+CA,2021,Severe Storm,0
+CA,2021,Fire,1
+CA,2021,Hurricane,0
+CA,2021,Tornado,0
+CO,2021,Flood,0
+CO,2021,Severe Storm,0
+CO,2021,Fire,1
+CO,2021,Hurricane,0
+CO,2021,Tornado,0
+FL,2021,Flood,0
+FL,2021,Severe Storm,1
+FL,2021,Fire,0
+FL,2021,Hurricane,1
+FL,2021,Tornado,0
+NV,2021,Flood,0
+NV,2021,Severe Storm,0
+NV,2021,Fire,1
+NV,2021,Hurricane,0
+NV,2021,Tornado,0
+TX,2021,Flood,0
+TX,2021,Severe Storm,0
+TX,2021,Fire,0
+TX,2021,Hurricane,1
+TX,2021,Tornado,0
+AL,2021,Flood,0
+AL,2021,Severe Storm,1
+AL,2021,Fire,0
+AL,2021,Hurricane,1
+AL,2021,Tornado,0
+NJ,2021,Flood,0
+NJ,2021,Severe Storm,0
+NJ,2021,Fire,0
+NJ,2021,Hurricane,1
+NJ,2021,Tornado,0
+CT,2021,Flood,0
+CT,2021,Severe Storm,0
+CT,2021,Fire,0
+CT,2021,Hurricane,1
+CT,2021,Tornado,0
+GA,2021,Flood,0
+GA,2021,Severe Storm,1
+GA,2021,Fire,0
+GA,2021,Hurricane,1
+GA,2021,Tornado,0
+UT,2021,Flood,0
+UT,2021,Severe Storm,1
+UT,2021,Fire,1
+UT,2021,Hurricane,0
+UT,2021,Tornado,0
+WA,2021,Flood,0
+WA,2021,Severe Storm,1
+WA,2021,Fire,1
+WA,2021,Hurricane,0
+WA,2021,Tornado,0
+MD,2021,Flood,0
+MD,2021,Severe Storm,0
+MD,2021,Fire,0
+MD,2021,Hurricane,1
+MD,2021,Tornado,0
+ID,2021,Flood,0
+ID,2021,Severe Storm,1
+ID,2021,Fire,1
+ID,2021,Hurricane,0
+ID,2021,Tornado,0
+SD,2021,Flood,0
+SD,2021,Severe Storm,0
+SD,2021,Fire,1
+SD,2021,Hurricane,0
+SD,2021,Tornado,0
+AZ,2021,Flood,1
+AZ,2021,Severe Storm,0
+AZ,2021,Fire,1
+AZ,2021,Hurricane,0
+AZ,2021,Tornado,0
+KY,2021,Flood,1
+KY,2021,Severe Storm,0
+KY,2021,Fire,0
+KY,2021,Hurricane,0
+KY,2021,Tornado,0
+NM,2021,Flood,0
+NM,2021,Severe Storm,0
+NM,2021,Fire,1
+NM,2021,Hurricane,0
+NM,2021,Tornado,0
+OR,2021,Flood,0
+OR,2021,Severe Storm,1
+OR,2021,Fire,1
+OR,2021,Hurricane,0
+OR,2021,Tornado,0
+TN,2021,Flood,1
+TN,2021,Severe Storm,0
+TN,2021,Fire,0
+TN,2021,Hurricane,0
+TN,2021,Tornado,1
+HI,2021,Flood,1
+HI,2021,Severe Storm,0
+HI,2021,Fire,1
+HI,2021,Hurricane,0
+HI,2021,Tornado,0
+WV,2021,Flood,1
+WV,2021,Severe Storm,0
+WV,2021,Fire,0
+WV,2021,Hurricane,0
+WV,2021,Tornado,0
+MT,2021,Flood,0
+MT,2021,Severe Storm,0
+MT,2021,Fire,1
+MT,2021,Hurricane,0
+MT,2021,Tornado,0
+MI,2021,Flood,0
+MI,2021,Severe Storm,1
+MI,2021,Fire,0
+MI,2021,Hurricane,0
+MI,2021,Tornado,0
+RI,2021,Flood,0
+RI,2021,Severe Storm,0
+RI,2021,Fire,0
+RI,2021,Hurricane,1
+RI,2021,Tornado,0
+VT,2021,Flood,1
+VT,2021,Severe Storm,0
+VT,2021,Fire,0
+VT,2021,Hurricane,1
+VT,2021,Tornado,0
+MA,2021,Flood,0
+MA,2021,Severe Storm,0
+MA,2021,Fire,0
+MA,2021,Hurricane,1
+MA,2021,Tornado,0
+MO,2021,Flood,0
+MO,2021,Severe Storm,1
+MO,2021,Fire,0
+MO,2021,Hurricane,0
+MO,2021,Tornado,0
+NE,2021,Flood,0
+NE,2021,Severe Storm,1
+NE,2021,Fire,0
+NE,2021,Hurricane,0
+NE,2021,Tornado,0
+PA,2021,Flood,0
+PA,2021,Severe Storm,0
+PA,2021,Fire,0
+PA,2021,Hurricane,1
+PA,2021,Tornado,0
+NH,2021,Flood,0
+NH,2021,Severe Storm,1
+NH,2021,Fire,0
+NH,2021,Hurricane,0
+NH,2021,Tornado,0
+SD,2022,Flood,0
+SD,2022,Severe Storm,1
+SD,2022,Fire,1
+SD,2022,Hurricane,0
+SD,2022,Tornado,0
+NH,2022,Flood,1
+NH,2022,Severe Storm,0
+NH,2022,Fire,0
+NH,2022,Hurricane,0
+NH,2022,Tornado,0
+NY,2022,Flood,0
+NY,2022,Severe Storm,0
+NY,2022,Fire,0
+NY,2022,Hurricane,1
+NY,2022,Tornado,0
+CA,2022,Flood,0
+CA,2022,Severe Storm,0
+CA,2022,Fire,1
+CA,2022,Hurricane,0
+CA,2022,Tornado,0
+MS,2022,Flood,0
+MS,2022,Severe Storm,0
+MS,2022,Fire,0
+MS,2022,Hurricane,1
+MS,2022,Tornado,0
+DE,2022,Flood,0
+DE,2022,Severe Storm,0
+DE,2022,Fire,0
+DE,2022,Hurricane,1
+DE,2022,Tornado,0
+VA,2022,Flood,1
+VA,2022,Severe Storm,1
+VA,2022,Fire,0
+VA,2022,Hurricane,0
+VA,2022,Tornado,0
+CT,2022,Flood,0
+CT,2022,Severe Storm,0
+CT,2022,Fire,0
+CT,2022,Hurricane,1
+CT,2022,Tornado,0
+TX,2022,Flood,0
+TX,2022,Severe Storm,0
+TX,2022,Fire,1
+TX,2022,Hurricane,0
+TX,2022,Tornado,0
+KY,2022,Flood,1
+KY,2022,Severe Storm,1
+KY,2022,Fire,0
+KY,2022,Hurricane,0
+KY,2022,Tornado,1
+IL,2022,Flood,0
+IL,2022,Severe Storm,0
+IL,2022,Fire,0
+IL,2022,Hurricane,0
+IL,2022,Tornado,1
+TN,2022,Flood,0
+TN,2022,Severe Storm,1
+TN,2022,Fire,0
+TN,2022,Hurricane,0
+TN,2022,Tornado,1
+OK,2022,Flood,0
+OK,2022,Severe Storm,1
+OK,2022,Fire,1
+OK,2022,Hurricane,0
+OK,2022,Tornado,0
+AL,2022,Flood,0
+AL,2022,Severe Storm,1
+AL,2022,Fire,0
+AL,2022,Hurricane,0
+AL,2022,Tornado,0
+WA,2022,Flood,1
+WA,2022,Severe Storm,0
+WA,2022,Fire,1
+WA,2022,Hurricane,0
+WA,2022,Tornado,0
+AR,2022,Flood,0
+AR,2022,Severe Storm,0
+AR,2022,Fire,0
+AR,2022,Hurricane,0
+AR,2022,Tornado,1
+CO,2022,Flood,0
+CO,2022,Severe Storm,0
+CO,2022,Fire,1
+CO,2022,Hurricane,0
+CO,2022,Tornado,0
+MO,2022,Flood,1
+MO,2022,Severe Storm,1
+MO,2022,Fire,0
+MO,2022,Hurricane,0
+MO,2022,Tornado,0
+AK,2022,Flood,1
+AK,2022,Severe Storm,1
+AK,2022,Fire,1
+AK,2022,Hurricane,0
+AK,2022,Tornado,0
+HI,2022,Flood,0
+HI,2022,Severe Storm,1
+HI,2022,Fire,0
+HI,2022,Hurricane,0
+HI,2022,Tornado,0
+KS,2022,Flood,0
+KS,2022,Severe Storm,1
+KS,2022,Fire,1
+KS,2022,Hurricane,0
+KS,2022,Tornado,0
+IA,2022,Flood,0
+IA,2022,Severe Storm,1
+IA,2022,Fire,0
+IA,2022,Hurricane,0
+IA,2022,Tornado,0
+NE,2022,Flood,0
+NE,2022,Severe Storm,1
+NE,2022,Fire,1
+NE,2022,Hurricane,0
+NE,2022,Tornado,0
+FL,2022,Flood,0
+FL,2022,Severe Storm,0
+FL,2022,Fire,1
+FL,2022,Hurricane,1
+FL,2022,Tornado,0
+NM,2022,Flood,0
+NM,2022,Severe Storm,0
+NM,2022,Fire,1
+NM,2022,Hurricane,0
+NM,2022,Tornado,0
+AZ,2022,Flood,0
+AZ,2022,Severe Storm,1
+AZ,2022,Fire,1
+AZ,2022,Hurricane,0
+AZ,2022,Tornado,0
+MT,2022,Flood,1
+MT,2022,Severe Storm,0
+MT,2022,Fire,0
+MT,2022,Hurricane,0
+MT,2022,Tornado,0
+MN,2022,Flood,1
+MN,2022,Severe Storm,1
+MN,2022,Fire,0
+MN,2022,Hurricane,0
+MN,2022,Tornado,0
+ND,2022,Flood,0
+ND,2022,Severe Storm,1
+ND,2022,Fire,0
+ND,2022,Hurricane,0
+ND,2022,Tornado,0
+OR,2022,Flood,0
+OR,2022,Severe Storm,0
+OR,2022,Fire,1
+OR,2022,Hurricane,0
+OR,2022,Tornado,0
+NV,2022,Flood,0
+NV,2022,Severe Storm,0
+NV,2022,Fire,1
+NV,2022,Hurricane,0
+NV,2022,Tornado,0
+ID,2022,Flood,0
+ID,2022,Severe Storm,0
+ID,2022,Fire,1
+ID,2022,Hurricane,0
+ID,2022,Tornado,0
+SC,2022,Flood,0
+SC,2022,Severe Storm,0
+SC,2022,Fire,0
+SC,2022,Hurricane,1
+SC,2022,Tornado,0
+NC,2023,Flood,0
+NC,2023,Severe Storm,0
+NC,2023,Fire,0
+NC,2023,Hurricane,1
+NC,2023,Tornado,0
+IL,2023,Flood,1
+IL,2023,Severe Storm,0
+IL,2023,Fire,0
+IL,2023,Hurricane,0
+IL,2023,Tornado,0
+WA,2023,Flood,0
+WA,2023,Severe Storm,1
+WA,2023,Fire,1
+WA,2023,Hurricane,0
+WA,2023,Tornado,0
+SC,2023,Flood,0
+SC,2023,Severe Storm,0
+SC,2023,Fire,0
+SC,2023,Hurricane,1
+SC,2023,Tornado,0
+WV,2023,Flood,1
+WV,2023,Severe Storm,1
+WV,2023,Fire,0
+WV,2023,Hurricane,0
+WV,2023,Tornado,0
+FL,2023,Flood,0
+FL,2023,Severe Storm,0
+FL,2023,Fire,0
+FL,2023,Hurricane,1
+FL,2023,Tornado,0
+AZ,2023,Flood,1
+AZ,2023,Severe Storm,0
+AZ,2023,Fire,0
+AZ,2023,Hurricane,0
+AZ,2023,Tornado,0
+CA,2023,Flood,1
+CA,2023,Severe Storm,0
+CA,2023,Fire,0
+CA,2023,Hurricane,0
+CA,2023,Tornado,0
+AL,2023,Flood,0
+AL,2023,Severe Storm,1
+AL,2023,Fire,0
+AL,2023,Hurricane,0
+AL,2023,Tornado,0
+GA,2023,Flood,0
+GA,2023,Severe Storm,1
+GA,2023,Fire,0
+GA,2023,Hurricane,0
+GA,2023,Tornado,0
+OR,2023,Flood,0
+OR,2023,Severe Storm,0
+OR,2023,Fire,1
+OR,2023,Hurricane,0
+OR,2023,Tornado,0
+OK,2023,Flood,0
+OK,2023,Severe Storm,1
+OK,2023,Fire,0
+OK,2023,Hurricane,0
+OK,2023,Tornado,0
+NH,2023,Flood,0
+NH,2023,Severe Storm,1
+NH,2023,Fire,0
+NH,2023,Hurricane,0
+NH,2023,Tornado,0
+VT,2023,Flood,0
+VT,2023,Severe Storm,1
+VT,2023,Fire,0
+VT,2023,Hurricane,0
+VT,2023,Tornado,0
+ME,2023,Flood,0
+ME,2023,Severe Storm,1
+ME,2023,Fire,0
+ME,2023,Hurricane,0
+ME,2023,Tornado,0
+MS,2023,Flood,0
+MS,2023,Severe Storm,1
+MS,2023,Fire,0
+MS,2023,Hurricane,0
+MS,2023,Tornado,0

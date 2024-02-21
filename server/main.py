@@ -1,0 +1,32 @@
+import datetime
+from flask import Flask, request, jsonify
+from model import predict_by_year
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app)
+
+def is_valid_year(year):
+    current_year = datetime.datetime.now().year
+    try:
+        year = int(year)
+        if current_year <= year <= current_year + 50:
+            return True
+    except ValueError:
+        pass
+    return False
+
+@app.route('/predict_disasters', methods=['GET'])
+def get_predictions():
+    year = request.args.get('year', type=int)
+    if year is None:
+        return jsonify({'error': 'Year parameter is missing'}), 400
+    if year < 0 or year > 3000:
+        return jsonify({'error': 'Year is out of bounds'}), 400
+    predictions = predict_by_year(year)
+    return predictions, 200
+    # return jsonify(dummy_data), 200
+
+
+if __name__ == "__main__":
+    app.run(debug=True)

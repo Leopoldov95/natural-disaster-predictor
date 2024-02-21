@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+#app {
+  font-family: 'Roboto', sans-serif;
+  max-width: 1280px;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+#app h1 {
+  margin-bottom: 1rem;
+}
+
+#app .user-info {
+  padding: 3rem;
+  margin-top: 5rem;
+}
+
+#app .table_btn {
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+}
+
+#app .loader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#app .loader .loading-text {
+  color: white;
+  font-size: 1.75rem;
+  display: block;
+  margin-top: 0.75rem;
+  font-weight: bold;
+}
+
+#app .loader .MuiCircularProgress-root {
+  width: 85px !important;
+  height: 85px !important;
+  color: #b3e5fc;
+}
+
+/* User Input */
+#app .user-input {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+#app .user-input .year-input {
+  display: flex;
+  align-items: baseline;
+  gap: 2rem;
+}
+
+#app .mui-input {
+  width: 300px;
+}
+
+/* Map */
+#app .map {
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+#app .map svg {
+  margin: auto;
+}
+
+#app .map svg .scale-text {
+  font-size: 0.75rem;
+}
+
+
+#app .map svg .map-g {
+  transform:  translateX(50px);
+}
+
+#app .map svg .country {
+  stroke: #bdbdbd;
+  stroke-width: 1px;
+}
+
+#app .map svg .country:hover {
+  fill: #b0bec5;
+  cursor: pointer;
+}
+
+#app .map svg .map-title {
+  font-weight: bold;
+}
+
+#app .map svg .map-subheader {
+  font-style: italic;
+  font-size: 0.75rem;
+}
+
+/* Bar chart */
+#app .chart-container .tooltip {
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+#app .chart-container {
+  margin-bottom: 2rem;
+}
+
+#app .chart-container svg .bar:hover{
+  opacity: 0.5;
+}
+
+/* Table */
+#app .state_row {
+  background-color: #cfd8dc;
+  color: black;
+}
+
+#app .header_row th {
+ font-weight: bold;
+}

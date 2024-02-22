@@ -4,7 +4,7 @@ This project is a web application that predicts the likelihood of natural disast
 
 ## Live Application
 
-View the application here: <https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations>
+View the application here: <https://natural-disaster-predict.netlify.app/>
 
 To view the Machine Model used for this application in a user-friendly format, please visit this Google Colab [link](https://colab.research.google.com/drive/1dMI1Kx4XB4f-c2IDyM3Zr10Z5nTHDEZT?usp=sharing)
 

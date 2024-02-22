@@ -88,10 +88,12 @@ const BarChart = ({ data, view, year }) => {
         const tooltip = d3.select(".tooltip");
         tooltip.transition().duration(100).style("opacity", 0.9);
         tooltip
-          .html(`
+          .html(
+            `
           <span>${d.state}:</span>
           <span>${d.predictions[view].toFixed(2)}%</span>
-          `)
+          `
+          )
           .style("left", `${event.pageX}px`)
           .style("top", `${event.pageY}px`);
       })

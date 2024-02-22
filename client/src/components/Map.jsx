@@ -59,7 +59,7 @@ const Map = ({ data, view, year }) => {
     colorLegendG.call(colorLegend, {
       dataScale: colorScale,
       height: 20,
-      width: WIDTH / 1.5
+      width: WIDTH / 1.5,
     });
 
     g.selectAll("path")
@@ -101,8 +101,10 @@ const Map = ({ data, view, year }) => {
 
   const colorLegend = (selection, props) => {
     const { height, width, dataScale } = props;
-  
-    const colorScale = d3.scaleSequential(d3.interpolateOranges).domain([0, width]);
+
+    const colorScale = d3
+      .scaleSequential(d3.interpolateOranges)
+      .domain([0, width]);
     const bars = selection.selectAll(".bars").data([null]);
     bars
       .data(d3.range(width), function (d) {
@@ -120,14 +122,12 @@ const Map = ({ data, view, year }) => {
       .style("fill", function (d, i) {
         return colorScale(d);
       });
-    selection.append("text")
-      .text("Lower Risk")
-      .attr('class','scale-text');
+    selection.append("text").text("Lower Risk").attr("class", "scale-text");
     selection
       .append("text")
       .attr("transform", `translate(${width - 70},-2)`)
       .text(`Higher Risk`)
-      .attr('class','scale-text');
+      .attr("class", "scale-text");
   };
 
   useEffect(() => {

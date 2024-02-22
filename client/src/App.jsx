@@ -1,46 +1,36 @@
-import { useState } from 'react'
-import './App.css'
-import axios from 'axios';
-import Map from './components/Map';
-import UserInput from './components/UserInput';
-import BarChart from './components/BarChart';
-import CircularProgress from '@mui/material/CircularProgress';
-import StateTable from './components/StateTable';
-import Fab from '@mui/material/Fab';
-import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
-import Alert from '@mui/material/Alert';
-import AlertTitle from '@mui/material/AlertTitle';
-import { Paper } from '@mui/material';
-
+import { useState } from "react";
+import "./App.css";
+import axios from "axios";
+import Map from "./components/Map";
+import UserInput from "./components/UserInput";
+import BarChart from "./components/BarChart";
+import CircularProgress from "@mui/material/CircularProgress";
+import StateTable from "./components/StateTable";
+import Alert from "@mui/material/Alert";
+import AlertTitle from "@mui/material/AlertTitle";
+import { Paper } from "@mui/material";
 
 function App() {
-  const URL = 'http://127.0.0.1:5000/predict_disasters?year=';
+  const URL =
+    "https://natural-disaster-predictor-production.up.railway.app/predict_disasters?year=";
   const [year, setYear] = useState(new Date().getFullYear());
-  const [view, setView] = useState("Avg")
+  const [view, setView] = useState("Avg");
   const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
   const [isLoading, setisLoading] = useState(false);
-  
 
   const fetchData = async (inputYear) => {
     try {
       setisLoading(true);
-      console.log(`URL string is ${`${URL}${inputYear}`}`);
       const response = await axios.get(`${URL}${inputYear}`);
       setisLoading(false);
       setYear(inputYear);
-      console.log(response);
       setData(response.data);
+      setError(null); // Reset error state if data is fetched successfully
     } catch (error) {
-      console.error('Error fetching data: ', error);
-    }
-  };
-  
-  const handleClick = () => {
-    // Find the element you want to scroll to
-    const element = document.getElementById('state_table');
-    if (element) {
-      // Scroll to the element
-      element.scrollIntoView({ behavior: 'smooth' });
+      console.error("Error fetching data: ", error);
+      setError("An error occurred while fetching data. Please try again."); // Set error message
+      setisLoading(false);
     }
   };
 
@@ -49,42 +39,65 @@ function App() {
       <h1>USA Natural Disaster Predictor</h1>
 
       {/* User Input */}
-      <UserInput view={view} setView={setView} setYear={setYear} fetchData={fetchData} isLoading={isLoading}/>
+      <UserInput
+        view={view}
+        setView={setView}
+        setYear={setYear}
+        fetchData={fetchData}
+        isLoading={isLoading}
+      />
+
+      {/* Error Display */}
+      {/* Error view */}
+      {error && (
+        <div className="error-view">
+          <Alert severity="error" className="error_message">
+            <AlertTitle>Error</AlertTitle>
+            {error}
+          </Alert>
+        </div>
+      )}
 
       {/* D3 Map */}
-      {
-        data ?
+      {data ? (
         <>
-        <Paper className="map">
-          <Map data={data} view={view} year={year}/>
-        </Paper>
-        <Paper>
-          <BarChart data={data} view={view} year={year} />
-        </Paper>
-        <StateTable data={data} />
-        </> :
-        <div className="user-info">
+          <Paper id="section-map" className="map">
+            <Map data={data} view={view} year={year} />
+          </Paper>
+          <Paper id="section-bar">
+            <BarChart data={data} view={view} year={year} />
+          </Paper>
+          <StateTable data={data} />
+        </>
+      ) : (
+        <div className={`user-info ${error && "hidden"}`}>
           <Alert severity="info">
             <AlertTitle>Info</AlertTitle>
             Please Enter Year To Visualize Map.
           </Alert>
         </div>
-        
-      }
+      )}
 
-      <Fab disabled={data === null} onClick={handleClick} className='table_btn' color="primary" aria-label="add">
-        <KeyboardArrowDownIcon />
-      </Fab>
-
-      {isLoading && 
-      <div className="loader">
+      {isLoading && (
+        <div className="loader">
           <CircularProgress />
-          <span className='loading-text'>Please Wait, This May Take Awhile</span>
-      </div>
-      }
+          <span className="loading-text">
+            Please Wait, This May Take Awhile
+          </span>
+        </div>
+      )}
 
+      <div id="disclaimer" className={data ? "show_bottom" : "show_top"}>
+        <Alert className="disclaimer_box" severity="info">
+          US Natural Disaster Declarations dataset provided via{" "}
+          <a href="https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations">
+            Kaggle
+          </a>
+          .
+        </Alert>
+      </div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

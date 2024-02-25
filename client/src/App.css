@@ -11,6 +11,7 @@ html {
   margin-top: 2rem;
   margin-bottom: 3rem;
   min-height: 100vh;
+  padding: 0 1.25rem;
 }
 
 #app h1 {

@@ -11,8 +11,7 @@ import AlertTitle from "@mui/material/AlertTitle";
 import { Paper } from "@mui/material";
 
 function App() {
-  const URL =
-    "https://natural-disaster-predictor-production.up.railway.app/predict_disasters?year=";
+  const URL = "https://natural-disaster-predictor-production.up.railway.app";
   const [year, setYear] = useState(new Date().getFullYear());
   const [view, setView] = useState("Avg");
   const [data, setData] = useState(null);
@@ -22,7 +21,7 @@ function App() {
   const fetchData = async (inputYear) => {
     try {
       setisLoading(true);
-      const response = await axios.get(`${URL}${inputYear}`);
+      const response = await axios.get(`${URL}/predict_disasters?year=${inputYear}`);
       setisLoading(false);
       setYear(inputYear);
       setData(response.data);

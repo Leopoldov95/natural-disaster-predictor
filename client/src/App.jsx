@@ -21,14 +21,15 @@ function App() {
   const fetchData = async (inputYear) => {
     try {
       setisLoading(true);
-      const response = await axios.get(`${URL}predict_disasters?year=${inputYear}`);
+      const response = await axios.get(
+        `${URL}predict_disasters?year=${inputYear}`
+      );
       setisLoading(false);
       setYear(inputYear);
       setData(response.data);
       setError(null); // Reset error state if data is fetched successfully
     } catch (error) {
-      console.error("Error fetching data: ", error);
-      setError("An error occurred while fetching data. Please try again."); // Set error message
+      setError(true); // Set error message
       setisLoading(false);
     }
   };
@@ -52,7 +53,17 @@ function App() {
         <div className="error-view">
           <Alert severity="error" className="error_message">
             <AlertTitle>Error</AlertTitle>
-            {error}
+            <p>Unfortunately, the server has reached it's usage limits.</p>
+            <p>
+              You can find the source code
+              <a
+                target="_blank"
+                href="https://github.com/Leopoldov95/natural-disaster-predictor"
+              >
+                &nbsp;here&nbsp;
+              </a>
+              and run the project locally.
+            </p>
           </Alert>
         </div>
       )}

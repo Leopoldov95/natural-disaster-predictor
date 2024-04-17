@@ -184,3 +184,8 @@ html {
 #app .error-view .error_message {
   width: 100%;
 }
+
+#app .error-view .error_message a {
+  text-decoration: none;
+  color: blue;
+}

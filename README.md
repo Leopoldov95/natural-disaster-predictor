@@ -2,9 +2,14 @@
 
 This project is a web application that predicts the likelihood of natural disasters occurring in the USA based on historical FEMA data. It provides visualizations of predicted disasters on a map, in a bar chart, and in a table format.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b086fce-1d30-43db-b9f7-52b375b3c623/deploy-status)](https://app.netlify.com/sites/natural-disaster-predict/deploys)
+
 ## Live Application
 
 View the application here: <https://natural-disaster-predict.netlify.app/>
+
+> [!WARNING]
+> As this application is stored in a free tier server, making API calls in the live application may take some time.
 
 To view the Machine Model used for this application in a user-friendly format, please visit this Google Colab [link](https://colab.research.google.com/drive/1dMI1Kx4XB4f-c2IDyM3Zr10Z5nTHDEZT?usp=sharing)
 

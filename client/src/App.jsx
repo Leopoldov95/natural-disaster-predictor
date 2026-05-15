@@ -11,7 +11,7 @@ import AlertTitle from "@mui/material/AlertTitle";
 import { Paper } from "@mui/material";
 
 function App() {
-  const URL = "https://natural-disaster-predictor-production.up.railway.app/";
+  const URL = "https://natural-disaster-predictor.onrender.com/";
   const [year, setYear] = useState(new Date().getFullYear());
   const [view, setView] = useState("Avg");
   const [data, setData] = useState(null);
@@ -22,7 +22,7 @@ function App() {
     try {
       setisLoading(true);
       const response = await axios.get(
-        `${URL}predict_disasters?year=${inputYear}`
+        `${URL}predict_disasters?year=${inputYear}`,
       );
       setisLoading(false);
       setYear(inputYear);
@@ -91,9 +91,13 @@ function App() {
       {isLoading && (
         <div className="loader">
           <CircularProgress />
-          <span className="loading-text">
-            Please Wait, This May Take Awhile
-          </span>
+          <div className="loading-text">
+            <span>
+              This app runs on a free server that spins down when idle.
+            </span>
+            <span> First load may take up to 50 seconds.</span>
+            <span> Thanks for your patience!</span>
+          </div>
         </div>
       )}
 

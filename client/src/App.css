@@ -43,6 +43,10 @@ html {
 }
 
 #app .loader .loading-text {
+  padding-inline: 2rem;
+  text-align: center;
+}
+#app .loader .loading-text span {
   color: white;
   font-size: 1.75rem;
   display: block;

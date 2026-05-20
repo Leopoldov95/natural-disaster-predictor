@@ -30,6 +30,10 @@ def get_predictions():
     predictions = predict_by_year(year)
     return predictions, 200
 
+@app.route('/health')
+def health():
+    return {'status': 'ok'}, 200
+
 
 if __name__ == "__main__":
     from waitress import serve

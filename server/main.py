@@ -30,7 +30,7 @@ def get_predictions():
     predictions = predict_by_year(year)
     return predictions, 200
 
-@app.route('/health')
+@app.route('/health', methods=['GET'])
 def health():
     return {'status': 'ok'}, 200
 

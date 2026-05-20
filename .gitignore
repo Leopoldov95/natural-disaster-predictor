@@ -1,6 +1,7 @@
 server/__pycache__
 server/.idea
 server/.venv
+server/venv
 client/node_modules
 
 # Logs

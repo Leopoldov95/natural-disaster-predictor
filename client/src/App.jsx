@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import "./App.css";
 import axios from "axios";
 import Map from "./components/Map";
@@ -17,6 +17,22 @@ function App() {
   const [data, setData] = useState(null);
   const [error, setError] = useState(null);
   const [isLoading, setisLoading] = useState(false);
+
+  /**
+   * Free server workaround
+   * Trigger an API call to "wake-up server"
+   */
+  async function warmupServer() {
+    try {
+      await fetch("https://your-render-url.onrender.com/health");
+    } catch (_) {
+      console.error("ERROR: Issue with request");
+    }
+  }
+
+  useEffect(() => {
+    warmupServer();
+  }, []);
 
   const fetchData = async (inputYear) => {
     try {

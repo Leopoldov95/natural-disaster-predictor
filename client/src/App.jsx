@@ -24,7 +24,7 @@ function App() {
    */
   async function warmupServer() {
     try {
-      await fetch("https://your-render-url.onrender.com/health");
+      await fetch(`${URL}/health`);
     } catch (_) {
       console.error("ERROR: Issue with request");
     }

@@ -1,4 +1,3 @@
-import * as React from "react";
 import Table from "@mui/material/Table";
 import TableBody from "@mui/material/TableBody";
 import TableCell from "@mui/material/TableCell";
@@ -7,7 +6,17 @@ import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
 import Paper from "@mui/material/Paper";
 
-const StateTable = ({ data }) => {
+interface DisasterStateData {
+  state: string;
+  state_full: string;
+  predictions: Record<string, number>;
+}
+
+interface StateTableProps {
+  data: DisasterStateData[];
+}
+
+const StateTable = ({ data }: StateTableProps) => {
   return (
     <TableContainer id="state_table" component={Paper} sx={{ maxHeight: 440 }}>
       <Table stickyHeader size="small">

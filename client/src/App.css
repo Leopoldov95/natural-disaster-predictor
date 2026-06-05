@@ -9,9 +9,9 @@ html {
   max-width: 1280px;
   margin: auto;
   margin-top: 2rem;
-  margin-bottom: 3rem;
-  min-height: 100vh;
+  height: 100%;
   padding: 0 1.25rem;
+  margin-bottom: 3rem;
 }
 
 #app h1 {
@@ -192,4 +192,12 @@ html {
 #app .error-view .error_message a {
   text-decoration: none;
   color: blue;
+}
+
+/* Hide Auto Generated TS Query Button */
+button.tsqd-open-btn {
+  display: none !important;
+}
+div.tsqd-parent-container {
+  display: none !important;
 }

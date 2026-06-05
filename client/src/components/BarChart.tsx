@@ -1,15 +1,28 @@
 import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
 import { Paper } from "@mui/material";
+import { PredictionKey } from "../types/types";
+
+interface DisasterStateData {
+  state: string;
+  state_full: string;
+  predictions: Record<string, number>;
+}
+
+interface BarChartProps {
+  data: DisasterStateData[];
+  view: PredictionKey | string;
+  year: number;
+}
 
 const WIDTH = 1100;
 const HEIGHT = 750;
 
-const BarChart = ({ data, view, year }) => {
-  const svgRef = useRef();
+const BarChart = ({ data, view, year }: BarChartProps) => {
+  const svgRef = useRef<SVGSVGElement | null>(null);
 
   useEffect(() => {
-    const svg = d3.select(svgRef.current);
+    const svg = d3.select(svgRef.current as any);
 
     const margin = { top: 10, right: 30, bottom: 50, left: 120 };
     const width = WIDTH - margin.left - margin.right;
@@ -20,16 +33,16 @@ const BarChart = ({ data, view, year }) => {
     const x = d3.scaleLinear().domain([0, 100]).range([margin.left, width]);
 
     const y = d3
-      .scaleBand()
+      .scaleBand<string>()
       .domain(
         data
           .map((d) => d.state_full)
           .sort((a, b) => {
             return (
-              data.find((e) => e.state_full === a).predictions[view] -
-              data.find((e) => e.state_full === b).predictions[view]
+              data.find((e) => e.state_full === a)!.predictions[view] -
+              data.find((e) => e.state_full === b)!.predictions[view]
             );
-          })
+          }),
       )
       .range([margin.top, height - margin.bottom])
       .padding(0.2);
@@ -44,17 +57,17 @@ const BarChart = ({ data, view, year }) => {
     barG
       .append("g")
       .attr("transform", `translate(${margin.left},0)`)
-      .call(d3.axisLeft(y));
+      .call(d3.axisLeft(y as any));
 
     barG
       .selectAll(".bar")
-      .data(data)
+      .data(data as any)
       .enter()
       .append("rect")
       .attr("class", "bar")
       .attr("x", margin.left)
-      .attr("y", (d) => y(d.state_full))
-      .attr("width", (d) => x(d.predictions[view]) - margin.left)
+      .attr("y", (d: any) => y(d.state_full) as any)
+      .attr("width", (d: any) => x(d.predictions[view]) - margin.left)
       .attr("height", y.bandwidth())
       .attr("fill", "steelblue");
 
@@ -84,7 +97,7 @@ const BarChart = ({ data, view, year }) => {
     // Add hover effect
     svg
       .selectAll("rect")
-      .on("mouseover", function (event, d) {
+      .on("mouseover", function (event: any, d: any) {
         const tooltip = d3.select(".tooltip");
         tooltip.transition().duration(100).style("opacity", 0.9);
         tooltip
@@ -92,7 +105,7 @@ const BarChart = ({ data, view, year }) => {
             `
           <span>${d.state}:</span>
           <span>${d.predictions[view].toFixed(2)}%</span>
-          `
+          `,
           )
           .style("left", `${event.pageX}px`)
           .style("top", `${event.pageY}px`);
